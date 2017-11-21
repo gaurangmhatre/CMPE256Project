@@ -1,0 +1,2501 @@
+Year,Term,GRE,TOEFL,IELTS,GPA,University,Department,Admit
+2015,FALL,293,0,5.5,2.2,Massachusetts Institute of Technology,Computer Science,0
+2015,FALL,315,96,0,2.6,Massachusetts Institute of Technology,Computer Science,0
+2015,FALL,303,0,6.5,2.8,Massachusetts Institute of Technology,Computer Science,0
+2015,FALL,308,87,0,2.6,Massachusetts Institute of Technology,Computer Science,0
+2015,FALL,274,0,5.5,2.2,Massachusetts Institute of Technology,Computer Science,0
+2015,FALL,326,101,0,4,Massachusetts Institute of Technology,Computer Science,1
+2015,FALL,337,0,7.5,3.8,Massachusetts Institute of Technology,Computer Science,1
+2015,FALL,331,104,0,3.1,Massachusetts Institute of Technology,Computer Science,1
+2015,FALL,327,0,8.5,3.1,Massachusetts Institute of Technology,Computer Science,1
+2015,FALL,330,101,0,3.6,Massachusetts Institute of Technology,Computer Science,1
+2015,FALL,302,0,5.5,2.9,Massachusetts Institute of Technology,Computer Engineering,0
+2015,FALL,294,81,0,2.5,Massachusetts Institute of Technology,Computer Engineering,0
+2015,FALL,298,0,7.5,3.4,Massachusetts Institute of Technology,Computer Engineering,0
+2015,FALL,267,84,0,3.5,Massachusetts Institute of Technology,Computer Engineering,0
+2015,FALL,263,0,7.5,3.2,Massachusetts Institute of Technology,Computer Engineering,0
+2015,FALL,332,108,0,3.7,Massachusetts Institute of Technology,Computer Engineering,1
+2015,FALL,326,0,7.5,3.3,Massachusetts Institute of Technology,Computer Engineering,1
+2015,FALL,336,102,0,3.2,Massachusetts Institute of Technology,Computer Engineering,1
+2015,FALL,330,0,7.5,3.1,Massachusetts Institute of Technology,Computer Engineering,1
+2015,FALL,340,109,0,3.4,Massachusetts Institute of Technology,Computer Engineering,1
+2015,FALL,314,0,5.5,1.8,Massachusetts Institute of Technology,Electrical Engineering,0
+2015,FALL,306,95,0,2,Massachusetts Institute of Technology,Electrical Engineering,0
+2015,FALL,271,0,5.5,3.2,Massachusetts Institute of Technology,Electrical Engineering,0
+2015,FALL,293,85,0,1.8,Massachusetts Institute of Technology,Electrical Engineering,0
+2015,FALL,317,0,6.5,2.3,Massachusetts Institute of Technology,Electrical Engineering,0
+2015,FALL,321,101,0,3.3,Massachusetts Institute of Technology,Electrical Engineering,1
+2015,FALL,335,0,8.5,3.8,Massachusetts Institute of Technology,Electrical Engineering,1
+2015,FALL,328,109,0,3.8,Massachusetts Institute of Technology,Electrical Engineering,1
+2015,FALL,331,0,9.5,3.4,Massachusetts Institute of Technology,Electrical Engineering,1
+2015,FALL,332,111,0,3.2,Massachusetts Institute of Technology,Electrical Engineering,1
+2015,FALL,265,0,6.5,3.3,Massachusetts Institute of Technology,Management Of Technology,0
+2015,FALL,301,98,0,3.2,Massachusetts Institute of Technology,Management Of Technology,0
+2015,FALL,303,0,6.5,3.2,Massachusetts Institute of Technology,Management Of Technology,0
+2015,FALL,311,90,0,2.8,Massachusetts Institute of Technology,Management Of Technology,0
+2015,FALL,284,0,5.5,2.2,Massachusetts Institute of Technology,Management Of Technology,0
+2015,FALL,331,106,0,3.5,Massachusetts Institute of Technology,Management Of Technology,1
+2015,FALL,328,0,8.5,3.8,Massachusetts Institute of Technology,Management Of Technology,1
+2015,FALL,332,115,0,3.2,Massachusetts Institute of Technology,Management Of Technology,1
+2015,FALL,336,0,9.5,3.3,Massachusetts Institute of Technology,Management Of Technology,1
+2015,FALL,327,108,0,3.6,Massachusetts Institute of Technology,Management Of Technology,1
+2015,FALL,261,0,5.5,2.2,Massachusetts Institute of Technology,Mechanical Engineering,0
+2015,FALL,271,96,0,2,Massachusetts Institute of Technology,Mechanical Engineering,0
+2015,FALL,265,0,6.5,1.7,Massachusetts Institute of Technology,Mechanical Engineering,0
+2015,FALL,310,84,0,3,Massachusetts Institute of Technology,Mechanical Engineering,0
+2015,FALL,294,0,6.5,1.9,Massachusetts Institute of Technology,Mechanical Engineering,0
+2015,FALL,333,107,0,3.9,Massachusetts Institute of Technology,Mechanical Engineering,1
+2015,FALL,337,0,6.5,3.3,Massachusetts Institute of Technology,Mechanical Engineering,1
+2015,FALL,338,110,0,3.9,Massachusetts Institute of Technology,Mechanical Engineering,1
+2015,FALL,326,0,7.5,3.3,Massachusetts Institute of Technology,Mechanical Engineering,1
+2015,FALL,338,117,0,3.1,Massachusetts Institute of Technology,Mechanical Engineering,1
+2015,FALL,292,0,6.5,3.3,Stanford University,Computer Science,0
+2015,FALL,303,84,0,3.5,Stanford University,Computer Science,0
+2015,FALL,305,0,5.5,1.7,Stanford University,Computer Science,0
+2015,FALL,262,96,0,2.5,Stanford University,Computer Science,0
+2015,FALL,304,0,6.5,3.4,Stanford University,Computer Science,0
+2015,FALL,326,105,0,3.7,Stanford University,Computer Science,1
+2015,FALL,331,0,7.5,3.4,Stanford University,Computer Science,1
+2015,FALL,338,109,0,3.3,Stanford University,Computer Science,1
+2015,FALL,324,0,6.5,3.3,Stanford University,Computer Science,1
+2015,FALL,328,111,0,3.9,Stanford University,Computer Science,1
+2015,FALL,301,0,5.5,3.1,Stanford University,Computer Engineering,0
+2015,FALL,283,102,0,1.7,Stanford University,Computer Engineering,0
+2015,FALL,286,0,6.5,2.5,Stanford University,Computer Engineering,0
+2015,FALL,296,89,0,1.7,Stanford University,Computer Engineering,0
+2015,FALL,302,0,7.5,3.2,Stanford University,Computer Engineering,0
+2015,FALL,328,115,0,3.2,Stanford University,Computer Engineering,1
+2015,FALL,339,0,7.5,3.8,Stanford University,Computer Engineering,1
+2015,FALL,328,105,0,3.5,Stanford University,Computer Engineering,1
+2015,FALL,335,0,8.5,3.8,Stanford University,Computer Engineering,1
+2015,FALL,331,114,0,3.8,Stanford University,Computer Engineering,1
+2015,FALL,287,0,7.5,3.3,Stanford University,Electrical Engineering,0
+2015,FALL,272,100,0,3.4,Stanford University,Electrical Engineering,0
+2015,FALL,301,0,5.5,2.2,Stanford University,Electrical Engineering,0
+2015,FALL,311,83,0,2.8,Stanford University,Electrical Engineering,0
+2015,FALL,274,0,6.5,1.9,Stanford University,Electrical Engineering,0
+2015,FALL,339,113,0,3.6,Stanford University,Electrical Engineering,1
+2015,FALL,326,0,7.5,3.1,Stanford University,Electrical Engineering,1
+2015,FALL,339,117,0,3.5,Stanford University,Electrical Engineering,1
+2015,FALL,338,0,6.5,3.8,Stanford University,Electrical Engineering,1
+2015,FALL,325,118,0,3.9,Stanford University,Electrical Engineering,1
+2015,FALL,268,0,7.5,3.1,Stanford University,Management Of Technology,0
+2015,FALL,273,95,0,3.2,Stanford University,Management Of Technology,0
+2015,FALL,288,0,5.5,1.7,Stanford University,Management Of Technology,0
+2015,FALL,299,96,0,2.5,Stanford University,Management Of Technology,0
+2015,FALL,305,0,6.5,2.8,Stanford University,Management Of Technology,0
+2015,FALL,333,104,0,3.9,Stanford University,Management Of Technology,1
+2015,FALL,329,0,9.5,3.9,Stanford University,Management Of Technology,1
+2015,FALL,327,117,0,3.9,Stanford University,Management Of Technology,1
+2015,FALL,335,0,8.5,3.6,Stanford University,Management Of Technology,1
+2015,FALL,330,118,0,3.7,Stanford University,Management Of Technology,1
+2015,FALL,282,0,6.5,2.8,Stanford University,Mechanical Engineering,0
+2015,FALL,271,90,0,2.4,Stanford University,Mechanical Engineering,0
+2015,FALL,272,0,6.5,2.1,Stanford University,Mechanical Engineering,0
+2015,FALL,274,88,0,2.9,Stanford University,Mechanical Engineering,0
+2015,FALL,262,0,6.5,3,Stanford University,Mechanical Engineering,0
+2015,FALL,335,102,0,3.1,Stanford University,Mechanical Engineering,1
+2015,FALL,332,0,9.5,3.4,Stanford University,Mechanical Engineering,1
+2015,FALL,326,108,0,3.4,Stanford University,Mechanical Engineering,1
+2015,FALL,333,0,9.5,3.4,Stanford University,Mechanical Engineering,1
+2015,FALL,338,106,0,4,Stanford University,Mechanical Engineering,1
+2015,FALL,262,0,6.5,1.8,Cornell University,Computer Science,0
+2015,FALL,285,81,0,3.4,Cornell University,Computer Science,0
+2015,FALL,304,0,5.5,2.1,Cornell University,Computer Science,0
+2015,FALL,266,94,0,3.4,Cornell University,Computer Science,0
+2015,FALL,320,0,6.5,1.7,Cornell University,Computer Science,0
+2015,FALL,326,104,0,3.3,Cornell University,Computer Science,1
+2015,FALL,337,0,8.5,3.1,Cornell University,Computer Science,1
+2015,FALL,339,107,0,3.9,Cornell University,Computer Science,1
+2015,FALL,340,0,7.5,3.2,Cornell University,Computer Science,1
+2015,FALL,331,102,0,3.7,Cornell University,Computer Science,1
+2015,FALL,280,0,7.5,3.1,Cornell University,Computer Engineering,0
+2015,FALL,307,100,0,2.4,Cornell University,Computer Engineering,0
+2015,FALL,292,0,5.5,2.4,Cornell University,Computer Engineering,0
+2015,FALL,312,94,0,1.9,Cornell University,Computer Engineering,0
+2015,FALL,277,0,5.5,2.1,Cornell University,Computer Engineering,0
+2015,FALL,334,117,0,3.4,Cornell University,Computer Engineering,1
+2015,FALL,321,0,8.5,3.9,Cornell University,Computer Engineering,1
+2015,FALL,322,103,0,3.1,Cornell University,Computer Engineering,1
+2015,FALL,340,0,9.5,4,Cornell University,Computer Engineering,1
+2015,FALL,328,104,0,3.5,Cornell University,Computer Engineering,1
+2015,FALL,307,0,7.5,1.7,Cornell University,Electrical Engineering,0
+2015,FALL,270,82,0,3.5,Cornell University,Electrical Engineering,0
+2015,FALL,287,0,6.5,3,Cornell University,Electrical Engineering,0
+2015,FALL,268,92,0,2,Cornell University,Electrical Engineering,0
+2015,FALL,274,0,5.5,1.7,Cornell University,Electrical Engineering,0
+2015,FALL,327,109,0,3.8,Cornell University,Electrical Engineering,1
+2015,FALL,338,0,6.5,3.1,Cornell University,Electrical Engineering,1
+2015,FALL,338,111,0,3.3,Cornell University,Electrical Engineering,1
+2015,FALL,336,0,9.5,3.7,Cornell University,Electrical Engineering,1
+2015,FALL,335,110,0,3.5,Cornell University,Electrical Engineering,1
+2015,FALL,309,0,7.5,2.1,Cornell University,Management Of Technology,0
+2015,FALL,261,98,0,3.5,Cornell University,Management Of Technology,0
+2015,FALL,287,0,5.5,2.1,Cornell University,Management Of Technology,0
+2015,FALL,276,97,0,2.1,Cornell University,Management Of Technology,0
+2015,FALL,296,0,5.5,2.7,Cornell University,Management Of Technology,0
+2015,FALL,326,117,0,3.2,Cornell University,Management Of Technology,1
+2015,FALL,322,0,8.5,3.4,Cornell University,Management Of Technology,1
+2015,FALL,332,112,0,3.2,Cornell University,Management Of Technology,1
+2015,FALL,332,0,6.5,4,Cornell University,Management Of Technology,1
+2015,FALL,328,109,0,3.4,Cornell University,Management Of Technology,1
+2015,FALL,261,0,7.5,2,Cornell University,Mechanical Engineering,0
+2015,FALL,279,84,0,3.2,Cornell University,Mechanical Engineering,0
+2015,FALL,316,0,5.5,2.2,Cornell University,Mechanical Engineering,0
+2015,FALL,268,86,0,3.5,Cornell University,Mechanical Engineering,0
+2015,FALL,303,0,6.5,2,Cornell University,Mechanical Engineering,0
+2015,FALL,330,110,0,3.6,Cornell University,Mechanical Engineering,1
+2015,FALL,330,0,8.5,3.3,Cornell University,Mechanical Engineering,1
+2015,FALL,339,106,0,3.5,Cornell University,Mechanical Engineering,1
+2015,FALL,335,0,7.5,3.5,Cornell University,Mechanical Engineering,1
+2015,FALL,339,114,0,4,Cornell University,Mechanical Engineering,1
+2015,FALL,261,0,6.5,3.3,Purdue University,Computer Science,0
+2015,FALL,293,96,0,2.6,Purdue University,Computer Science,0
+2015,FALL,313,0,5.5,2.7,Purdue University,Computer Science,0
+2015,FALL,284,99,0,2.7,Purdue University,Computer Science,0
+2015,FALL,296,0,5.5,2.1,Purdue University,Computer Science,0
+2015,FALL,331,101,0,3.3,Purdue University,Computer Science,1
+2015,FALL,332,0,6.5,3.4,Purdue University,Computer Science,1
+2015,FALL,340,108,0,4,Purdue University,Computer Science,1
+2015,FALL,326,0,9.5,3.7,Purdue University,Computer Science,1
+2015,FALL,338,108,0,3.8,Purdue University,Computer Science,1
+2015,FALL,284,0,5.5,3.5,Purdue University,Computer Engineering,0
+2015,FALL,302,95,0,3.3,Purdue University,Computer Engineering,0
+2015,FALL,270,0,7.5,2.5,Purdue University,Computer Engineering,0
+2015,FALL,263,99,0,2,Purdue University,Computer Engineering,0
+2015,FALL,304,0,6.5,2,Purdue University,Computer Engineering,0
+2015,FALL,325,106,0,3.6,Purdue University,Computer Engineering,1
+2015,FALL,339,0,6.5,3.8,Purdue University,Computer Engineering,1
+2015,FALL,326,102,0,4,Purdue University,Computer Engineering,1
+2015,FALL,332,0,7.5,3.3,Purdue University,Computer Engineering,1
+2015,FALL,331,117,0,3.3,Purdue University,Computer Engineering,1
+2015,FALL,308,0,6.5,3.1,Purdue University,Electrical Engineering,0
+2015,FALL,285,82,0,1.7,Purdue University,Electrical Engineering,0
+2015,FALL,268,0,6.5,2.8,Purdue University,Electrical Engineering,0
+2015,FALL,319,86,0,3.5,Purdue University,Electrical Engineering,0
+2015,FALL,272,0,7.5,2.7,Purdue University,Electrical Engineering,0
+2015,FALL,338,103,0,3.8,Purdue University,Electrical Engineering,1
+2015,FALL,325,0,7.5,3.9,Purdue University,Electrical Engineering,1
+2015,FALL,326,103,0,3.2,Purdue University,Electrical Engineering,1
+2015,FALL,321,0,8.5,3.1,Purdue University,Electrical Engineering,1
+2015,FALL,336,112,0,3.9,Purdue University,Electrical Engineering,1
+2015,FALL,289,0,6.5,2,Purdue University,Management Of Technology,0
+2015,FALL,302,81,0,2,Purdue University,Management Of Technology,0
+2015,FALL,300,0,7.5,1.8,Purdue University,Management Of Technology,0
+2015,FALL,272,92,0,3.4,Purdue University,Management Of Technology,0
+2015,FALL,270,0,7.5,3.3,Purdue University,Management Of Technology,0
+2015,FALL,326,115,0,3.3,Purdue University,Management Of Technology,1
+2015,FALL,323,0,9.5,4,Purdue University,Management Of Technology,1
+2015,FALL,332,104,0,3.4,Purdue University,Management Of Technology,1
+2015,FALL,336,0,7.5,3.6,Purdue University,Management Of Technology,1
+2015,FALL,326,110,0,3.2,Purdue University,Management Of Technology,1
+2015,FALL,318,0,7.5,2.7,Purdue University,Mechanical Engineering,0
+2015,FALL,279,82,0,2.5,Purdue University,Mechanical Engineering,0
+2015,FALL,282,0,6.5,1.8,Purdue University,Mechanical Engineering,0
+2015,FALL,315,88,0,2.5,Purdue University,Mechanical Engineering,0
+2015,FALL,262,0,7.5,2.9,Purdue University,Mechanical Engineering,0
+2015,FALL,332,103,0,4,Purdue University,Mechanical Engineering,1
+2015,FALL,328,0,8.5,3.2,Purdue University,Mechanical Engineering,1
+2015,FALL,333,108,0,3.8,Purdue University,Mechanical Engineering,1
+2015,FALL,336,0,8.5,4,Purdue University,Mechanical Engineering,1
+2015,FALL,335,117,0,4,Purdue University,Mechanical Engineering,1
+2015,FALL,303,0,7.5,3.3,Penn State University,Computer Science,0
+2015,FALL,310,83,0,2.6,Penn State University,Computer Science,0
+2015,FALL,302,0,6.5,2.3,Penn State University,Computer Science,0
+2015,FALL,269,81,0,2.7,Penn State University,Computer Science,0
+2015,FALL,288,0,5.5,3.5,Penn State University,Computer Science,0
+2015,FALL,326,117,0,3.5,Penn State University,Computer Science,1
+2015,FALL,336,0,6.5,3.3,Penn State University,Computer Science,1
+2015,FALL,334,106,0,3.1,Penn State University,Computer Science,1
+2015,FALL,323,0,6.5,3.5,Penn State University,Computer Science,1
+2015,FALL,330,110,0,3.7,Penn State University,Computer Science,1
+2015,FALL,276,0,6.5,2.5,Penn State University,Computer Engineering,0
+2015,FALL,311,90,0,2.5,Penn State University,Computer Engineering,0
+2015,FALL,286,0,6.5,2.7,Penn State University,Computer Engineering,0
+2015,FALL,300,99,0,1.6,Penn State University,Computer Engineering,0
+2015,FALL,281,0,6.5,2,Penn State University,Computer Engineering,0
+2015,FALL,323,118,0,3.7,Penn State University,Computer Engineering,1
+2015,FALL,334,0,8.5,3.9,Penn State University,Computer Engineering,1
+2015,FALL,326,112,0,4,Penn State University,Computer Engineering,1
+2015,FALL,326,0,9.5,3.8,Penn State University,Computer Engineering,1
+2015,FALL,322,113,0,3.4,Penn State University,Computer Engineering,1
+2015,FALL,262,0,7.5,2.1,Penn State University,Electrical Engineering,0
+2015,FALL,305,91,0,2.8,Penn State University,Electrical Engineering,0
+2015,FALL,319,0,5.5,2.7,Penn State University,Electrical Engineering,0
+2015,FALL,290,86,0,2.6,Penn State University,Electrical Engineering,0
+2015,FALL,297,0,6.5,3.5,Penn State University,Electrical Engineering,0
+2015,FALL,329,117,0,3.9,Penn State University,Electrical Engineering,1
+2015,FALL,326,0,8.5,3.1,Penn State University,Electrical Engineering,1
+2015,FALL,332,119,0,3.5,Penn State University,Electrical Engineering,1
+2015,FALL,322,0,8.5,3.7,Penn State University,Electrical Engineering,1
+2015,FALL,328,117,0,3.7,Penn State University,Electrical Engineering,1
+2015,FALL,309,0,5.5,1.9,Penn State University,Management Of Technology,0
+2015,FALL,284,84,0,3.4,Penn State University,Management Of Technology,0
+2015,FALL,264,0,7.5,2.2,Penn State University,Management Of Technology,0
+2015,FALL,270,101,0,3.4,Penn State University,Management Of Technology,0
+2015,FALL,267,0,5.5,3.1,Penn State University,Management Of Technology,0
+2015,FALL,331,108,0,3.6,Penn State University,Management Of Technology,1
+2015,FALL,339,0,8.5,3.3,Penn State University,Management Of Technology,1
+2015,FALL,328,103,0,3.4,Penn State University,Management Of Technology,1
+2015,FALL,329,0,9.5,3.5,Penn State University,Management Of Technology,1
+2015,FALL,331,103,0,3.4,Penn State University,Management Of Technology,1
+2015,FALL,267,0,6.5,3.4,Penn State University,Mechanical Engineering,0
+2015,FALL,270,91,0,2.5,Penn State University,Mechanical Engineering,0
+2015,FALL,284,0,7.5,2.5,Penn State University,Mechanical Engineering,0
+2015,FALL,271,102,0,1.9,Penn State University,Mechanical Engineering,0
+2015,FALL,266,0,6.5,3.2,Penn State University,Mechanical Engineering,0
+2015,FALL,331,118,0,3.1,Penn State University,Mechanical Engineering,1
+2015,FALL,329,0,9.5,3.7,Penn State University,Mechanical Engineering,1
+2015,FALL,328,117,0,3.9,Penn State University,Mechanical Engineering,1
+2015,FALL,340,0,7.5,3.7,Penn State University,Mechanical Engineering,1
+2015,FALL,322,114,0,3.5,Penn State University,Mechanical Engineering,1
+2015,FALL,282,0,7.5,2.4,"University of California, Los Angeles",Computer Science,0
+2015,FALL,296,99,0,2.6,"University of California, Los Angeles",Computer Science,0
+2015,FALL,270,0,7.5,2.4,"University of California, Los Angeles",Computer Science,0
+2015,FALL,314,102,0,3.4,"University of California, Los Angeles",Computer Science,0
+2015,FALL,307,0,5.5,3,"University of California, Los Angeles",Computer Science,0
+2015,FALL,329,116,0,3.8,"University of California, Los Angeles",Computer Science,1
+2015,FALL,330,0,9.5,3.8,"University of California, Los Angeles",Computer Science,1
+2015,FALL,329,102,0,3.2,"University of California, Los Angeles",Computer Science,1
+2015,FALL,324,0,9.5,3.5,"University of California, Los Angeles",Computer Science,1
+2015,FALL,321,120,0,4,"University of California, Los Angeles",Computer Science,1
+2015,FALL,306,0,7.5,2.7,"University of California, Los Angeles",Computer Engineering,0
+2015,FALL,308,100,0,1.6,"University of California, Los Angeles",Computer Engineering,0
+2015,FALL,314,0,6.5,2.4,"University of California, Los Angeles",Computer Engineering,0
+2015,FALL,269,89,0,3.4,"University of California, Los Angeles",Computer Engineering,0
+2015,FALL,281,0,7.5,3.1,"University of California, Los Angeles",Computer Engineering,0
+2015,FALL,336,116,0,3.7,"University of California, Los Angeles",Computer Engineering,1
+2015,FALL,333,0,8.5,3.1,"University of California, Los Angeles",Computer Engineering,1
+2015,FALL,324,109,0,3.5,"University of California, Los Angeles",Computer Engineering,1
+2015,FALL,336,0,8.5,3.7,"University of California, Los Angeles",Computer Engineering,1
+2015,FALL,338,106,0,3.8,"University of California, Los Angeles",Computer Engineering,1
+2015,FALL,272,0,7.5,2.4,"University of California, Los Angeles",Electrical Engineering,0
+2015,FALL,265,92,0,2.2,"University of California, Los Angeles",Electrical Engineering,0
+2015,FALL,307,0,7.5,2.9,"University of California, Los Angeles",Electrical Engineering,0
+2015,FALL,308,102,0,2,"University of California, Los Angeles",Electrical Engineering,0
+2015,FALL,267,0,6.5,2.2,"University of California, Los Angeles",Electrical Engineering,0
+2015,FALL,339,117,0,4,"University of California, Los Angeles",Electrical Engineering,1
+2015,FALL,339,0,9.5,3.6,"University of California, Los Angeles",Electrical Engineering,1
+2015,FALL,326,115,0,4,"University of California, Los Angeles",Electrical Engineering,1
+2015,FALL,334,0,8.5,4,"University of California, Los Angeles",Electrical Engineering,1
+2015,FALL,337,114,0,3.4,"University of California, Los Angeles",Electrical Engineering,1
+2015,FALL,319,0,6.5,2.5,"University of California, Los Angeles",Management Of Technology,0
+2015,FALL,282,100,0,2.6,"University of California, Los Angeles",Management Of Technology,0
+2015,FALL,300,0,5.5,2.5,"University of California, Los Angeles",Management Of Technology,0
+2015,FALL,303,86,0,2.5,"University of California, Los Angeles",Management Of Technology,0
+2015,FALL,315,0,6.5,3.2,"University of California, Los Angeles",Management Of Technology,0
+2015,FALL,323,112,0,4,"University of California, Los Angeles",Management Of Technology,1
+2015,FALL,324,0,6.5,3.2,"University of California, Los Angeles",Management Of Technology,1
+2015,FALL,326,106,0,4,"University of California, Los Angeles",Management Of Technology,1
+2015,FALL,336,0,8.5,3.6,"University of California, Los Angeles",Management Of Technology,1
+2015,FALL,331,115,0,3.3,"University of California, Los Angeles",Management Of Technology,1
+2015,FALL,282,0,7.5,1.8,"University of California, Los Angeles",Mechanical Engineering,0
+2015,FALL,307,89,0,3.2,"University of California, Los Angeles",Mechanical Engineering,0
+2015,FALL,266,0,7.5,1.7,"University of California, Los Angeles",Mechanical Engineering,0
+2015,FALL,304,96,0,2.2,"University of California, Los Angeles",Mechanical Engineering,0
+2015,FALL,268,0,7.5,2.8,"University of California, Los Angeles",Mechanical Engineering,0
+2015,FALL,337,110,0,3.3,"University of California, Los Angeles",Mechanical Engineering,1
+2015,FALL,336,0,7.5,4,"University of California, Los Angeles",Mechanical Engineering,1
+2015,FALL,338,116,0,3.3,"University of California, Los Angeles",Mechanical Engineering,1
+2015,FALL,330,0,7.5,3.8,"University of California, Los Angeles",Mechanical Engineering,1
+2015,FALL,340,113,0,3.3,"University of California, Los Angeles",Mechanical Engineering,1
+2015,FALL,306,0,6.5,1.6,The University of Texas at Austin,Computer Science,0
+2015,FALL,265,93,0,3.1,The University of Texas at Austin,Computer Science,0
+2015,FALL,280,0,5.5,2.5,The University of Texas at Austin,Computer Science,0
+2015,FALL,310,84,0,3.1,The University of Texas at Austin,Computer Science,0
+2015,FALL,265,0,5.5,2.7,The University of Texas at Austin,Computer Science,0
+2015,FALL,333,103,0,3.2,The University of Texas at Austin,Computer Science,1
+2015,FALL,327,0,8.5,3.1,The University of Texas at Austin,Computer Science,1
+2015,FALL,329,113,0,3.4,The University of Texas at Austin,Computer Science,1
+2015,FALL,323,0,7.5,3.8,The University of Texas at Austin,Computer Science,1
+2015,FALL,325,111,0,3.2,The University of Texas at Austin,Computer Science,1
+2015,FALL,263,0,7.5,2.7,The University of Texas at Austin,Computer Engineering,0
+2015,FALL,264,85,0,2.1,The University of Texas at Austin,Computer Engineering,0
+2015,FALL,292,0,7.5,2.5,The University of Texas at Austin,Computer Engineering,0
+2015,FALL,294,89,0,2.1,The University of Texas at Austin,Computer Engineering,0
+2015,FALL,274,0,7.5,1.8,The University of Texas at Austin,Computer Engineering,0
+2015,FALL,323,112,0,3.9,The University of Texas at Austin,Computer Engineering,1
+2015,FALL,324,0,8.5,4,The University of Texas at Austin,Computer Engineering,1
+2015,FALL,331,101,0,3.3,The University of Texas at Austin,Computer Engineering,1
+2015,FALL,329,0,7.5,3.6,The University of Texas at Austin,Computer Engineering,1
+2015,FALL,325,110,0,3.7,The University of Texas at Austin,Computer Engineering,1
+2015,FALL,268,0,5.5,2.8,The University of Texas at Austin,Electrical Engineering,0
+2015,FALL,296,81,0,2.3,The University of Texas at Austin,Electrical Engineering,0
+2015,FALL,264,0,7.5,2.9,The University of Texas at Austin,Electrical Engineering,0
+2015,FALL,285,86,0,2.6,The University of Texas at Austin,Electrical Engineering,0
+2015,FALL,290,0,5.5,1.9,The University of Texas at Austin,Electrical Engineering,0
+2015,FALL,334,106,0,3.5,The University of Texas at Austin,Electrical Engineering,1
+2015,FALL,323,0,6.5,4,The University of Texas at Austin,Electrical Engineering,1
+2015,FALL,327,108,0,3.7,The University of Texas at Austin,Electrical Engineering,1
+2015,FALL,337,0,7.5,4,The University of Texas at Austin,Electrical Engineering,1
+2015,FALL,322,109,0,3.6,The University of Texas at Austin,Electrical Engineering,1
+2015,FALL,294,0,7.5,3.2,The University of Texas at Austin,Management Of Technology,0
+2015,FALL,278,89,0,2.5,The University of Texas at Austin,Management Of Technology,0
+2015,FALL,269,0,6.5,3.5,The University of Texas at Austin,Management Of Technology,0
+2015,FALL,297,87,0,2.7,The University of Texas at Austin,Management Of Technology,0
+2015,FALL,300,0,7.5,3.1,The University of Texas at Austin,Management Of Technology,0
+2015,FALL,336,101,0,3.4,The University of Texas at Austin,Management Of Technology,1
+2015,FALL,331,0,6.5,4,The University of Texas at Austin,Management Of Technology,1
+2015,FALL,340,105,0,3.3,The University of Texas at Austin,Management Of Technology,1
+2015,FALL,325,0,7.5,3.2,The University of Texas at Austin,Management Of Technology,1
+2015,FALL,324,102,0,3.2,The University of Texas at Austin,Management Of Technology,1
+2015,FALL,300,0,7.5,3.3,The University of Texas at Austin,Mechanical Engineering,0
+2015,FALL,311,85,0,2.9,The University of Texas at Austin,Mechanical Engineering,0
+2015,FALL,299,0,5.5,2.1,The University of Texas at Austin,Mechanical Engineering,0
+2015,FALL,289,97,0,2.5,The University of Texas at Austin,Mechanical Engineering,0
+2015,FALL,262,0,6.5,3.5,The University of Texas at Austin,Mechanical Engineering,0
+2015,FALL,324,104,0,3.7,The University of Texas at Austin,Mechanical Engineering,1
+2015,FALL,339,0,7.5,3.7,The University of Texas at Austin,Mechanical Engineering,1
+2015,FALL,333,112,0,3.5,The University of Texas at Austin,Mechanical Engineering,1
+2015,FALL,327,0,9.5,3.3,The University of Texas at Austin,Mechanical Engineering,1
+2015,FALL,329,112,0,4,The University of Texas at Austin,Mechanical Engineering,1
+2015,FALL,309,0,6.5,2.4,University of Pennsylvania,Computer Science,0
+2015,FALL,263,93,0,3.3,University of Pennsylvania,Computer Science,0
+2015,FALL,304,0,6.5,2.1,University of Pennsylvania,Computer Science,0
+2015,FALL,296,94,0,2.9,University of Pennsylvania,Computer Science,0
+2015,FALL,296,0,7.5,2.3,University of Pennsylvania,Computer Science,0
+2015,FALL,333,104,0,3.4,University of Pennsylvania,Computer Science,1
+2015,FALL,330,0,8.5,3.9,University of Pennsylvania,Computer Science,1
+2015,FALL,327,115,0,4,University of Pennsylvania,Computer Science,1
+2015,FALL,337,0,6.5,3.5,University of Pennsylvania,Computer Science,1
+2015,FALL,332,109,0,3.4,University of Pennsylvania,Computer Science,1
+2015,FALL,313,0,6.5,3,University of Pennsylvania,Computer Engineering,0
+2015,FALL,304,95,0,1.8,University of Pennsylvania,Computer Engineering,0
+2015,FALL,302,0,7.5,1.7,University of Pennsylvania,Computer Engineering,0
+2015,FALL,296,88,0,2.6,University of Pennsylvania,Computer Engineering,0
+2015,FALL,283,0,6.5,3.2,University of Pennsylvania,Computer Engineering,0
+2015,FALL,340,112,0,3.6,University of Pennsylvania,Computer Engineering,1
+2015,FALL,334,0,7.5,3.9,University of Pennsylvania,Computer Engineering,1
+2015,FALL,338,105,0,3.1,University of Pennsylvania,Computer Engineering,1
+2015,FALL,327,0,7.5,3.5,University of Pennsylvania,Computer Engineering,1
+2015,FALL,328,102,0,3.1,University of Pennsylvania,Computer Engineering,1
+2015,FALL,265,0,7.5,3.4,University of Pennsylvania,Electrical Engineering,0
+2015,FALL,320,87,0,3.1,University of Pennsylvania,Electrical Engineering,0
+2015,FALL,291,0,7.5,2.4,University of Pennsylvania,Electrical Engineering,0
+2015,FALL,284,96,0,1.6,University of Pennsylvania,Electrical Engineering,0
+2015,FALL,293,0,6.5,2.2,University of Pennsylvania,Electrical Engineering,0
+2015,FALL,324,118,0,3.1,University of Pennsylvania,Electrical Engineering,1
+2015,FALL,324,0,9.5,3.3,University of Pennsylvania,Electrical Engineering,1
+2015,FALL,323,115,0,3.6,University of Pennsylvania,Electrical Engineering,1
+2015,FALL,337,0,6.5,3.3,University of Pennsylvania,Electrical Engineering,1
+2015,FALL,322,107,0,3.4,University of Pennsylvania,Electrical Engineering,1
+2015,FALL,285,0,7.5,3.3,University of Pennsylvania,Management Of Technology,0
+2015,FALL,276,85,0,1.9,University of Pennsylvania,Management Of Technology,0
+2015,FALL,267,0,6.5,3.5,University of Pennsylvania,Management Of Technology,0
+2015,FALL,302,82,0,3.2,University of Pennsylvania,Management Of Technology,0
+2015,FALL,303,0,6.5,2.8,University of Pennsylvania,Management Of Technology,0
+2015,FALL,325,113,0,3.5,University of Pennsylvania,Management Of Technology,1
+2015,FALL,336,0,6.5,3.1,University of Pennsylvania,Management Of Technology,1
+2015,FALL,340,109,0,3.5,University of Pennsylvania,Management Of Technology,1
+2015,FALL,340,0,6.5,3.4,University of Pennsylvania,Management Of Technology,1
+2015,FALL,327,104,0,3.5,University of Pennsylvania,Management Of Technology,1
+2015,FALL,302,0,6.5,3.4,University of Pennsylvania,Mechanical Engineering,0
+2015,FALL,270,97,0,1.6,University of Pennsylvania,Mechanical Engineering,0
+2015,FALL,264,0,5.5,2,University of Pennsylvania,Mechanical Engineering,0
+2015,FALL,287,88,0,2,University of Pennsylvania,Mechanical Engineering,0
+2015,FALL,272,0,6.5,2.2,University of Pennsylvania,Mechanical Engineering,0
+2015,FALL,340,107,0,3.2,University of Pennsylvania,Mechanical Engineering,1
+2015,FALL,321,0,8.5,3.7,University of Pennsylvania,Mechanical Engineering,1
+2015,FALL,321,101,0,3.4,University of Pennsylvania,Mechanical Engineering,1
+2015,FALL,338,0,9.5,3.5,University of Pennsylvania,Mechanical Engineering,1
+2015,FALL,340,107,0,3.5,University of Pennsylvania,Mechanical Engineering,1
+2015,FALL,263,0,5.5,2.6,New York University,Computer Science,0
+2015,FALL,297,85,0,2.3,New York University,Computer Science,0
+2015,FALL,302,0,5.5,1.7,New York University,Computer Science,0
+2015,FALL,316,98,0,2.3,New York University,Computer Science,0
+2015,FALL,263,0,5.5,2.7,New York University,Computer Science,0
+2015,FALL,320,110,0,2.6,New York University,Computer Science,1
+2015,FALL,332,0,8.5,3.4,New York University,Computer Science,1
+2015,FALL,316,109,0,2.9,New York University,Computer Science,1
+2015,FALL,332,0,6.5,2.9,New York University,Computer Science,1
+2015,FALL,324,102,0,2.6,New York University,Computer Science,1
+2015,FALL,317,0,5.5,2.1,New York University,Computer Engineering,0
+2015,FALL,320,84,0,2.2,New York University,Computer Engineering,0
+2015,FALL,314,0,5.5,1.7,New York University,Computer Engineering,0
+2015,FALL,288,83,0,2,New York University,Computer Engineering,0
+2015,FALL,283,0,6.5,1.7,New York University,Computer Engineering,0
+2015,FALL,315,107,0,2.9,New York University,Computer Engineering,1
+2015,FALL,337,0,6.5,3.2,New York University,Computer Engineering,1
+2015,FALL,315,101,0,2.7,New York University,Computer Engineering,1
+2015,FALL,327,0,8.5,3.3,New York University,Computer Engineering,1
+2015,FALL,329,101,0,2.7,New York University,Computer Engineering,1
+2015,FALL,302,0,7.5,1.8,New York University,Electrical Engineering,0
+2015,FALL,285,93,0,2.7,New York University,Electrical Engineering,0
+2015,FALL,285,0,5.5,2.3,New York University,Electrical Engineering,0
+2015,FALL,279,88,0,2.7,New York University,Electrical Engineering,0
+2015,FALL,293,0,5.5,2.8,New York University,Electrical Engineering,0
+2015,FALL,314,105,0,2.8,New York University,Electrical Engineering,1
+2015,FALL,330,0,6.5,2.7,New York University,Electrical Engineering,1
+2015,FALL,329,102,0,3.3,New York University,Electrical Engineering,1
+2015,FALL,317,0,6.5,2.9,New York University,Electrical Engineering,1
+2015,FALL,323,101,0,3.5,New York University,Electrical Engineering,1
+2015,FALL,317,0,6.5,2.4,New York University,Management Of Technology,0
+2015,FALL,291,98,0,2,New York University,Management Of Technology,0
+2015,FALL,268,0,7.5,1.8,New York University,Management Of Technology,0
+2015,FALL,311,86,0,1.6,New York University,Management Of Technology,0
+2015,FALL,310,0,5.5,1.8,New York University,Management Of Technology,0
+2015,FALL,337,105,0,3.1,New York University,Management Of Technology,1
+2015,FALL,339,0,8.5,2.9,New York University,Management Of Technology,1
+2015,FALL,314,101,0,3.4,New York University,Management Of Technology,1
+2015,FALL,334,0,8.5,3.4,New York University,Management Of Technology,1
+2015,FALL,322,110,0,2.6,New York University,Management Of Technology,1
+2015,FALL,278,0,7.5,2.3,New York University,Mechanical Engineering,0
+2015,FALL,320,87,0,2.7,New York University,Mechanical Engineering,0
+2015,FALL,320,0,6.5,3,New York University,Mechanical Engineering,0
+2015,FALL,294,82,0,2.8,New York University,Mechanical Engineering,0
+2015,FALL,266,0,6.5,2.2,New York University,Mechanical Engineering,0
+2015,FALL,311,108,0,3,New York University,Mechanical Engineering,1
+2015,FALL,334,0,6.5,3.1,New York University,Mechanical Engineering,1
+2015,FALL,338,107,0,2.7,New York University,Mechanical Engineering,1
+2015,FALL,327,0,6.5,2.6,New York University,Mechanical Engineering,1
+2015,FALL,331,108,0,3.4,New York University,Mechanical Engineering,1
+2015,FALL,282,0,7.5,2.1,Carnegie Mellon University,Computer Science,0
+2015,FALL,299,89,0,1.7,Carnegie Mellon University,Computer Science,0
+2015,FALL,302,0,5.5,3,Carnegie Mellon University,Computer Science,0
+2015,FALL,297,83,0,3,Carnegie Mellon University,Computer Science,0
+2015,FALL,294,0,7.5,2.7,Carnegie Mellon University,Computer Science,0
+2015,FALL,320,109,0,2.9,Carnegie Mellon University,Computer Science,1
+2015,FALL,322,0,8.5,2.7,Carnegie Mellon University,Computer Science,1
+2015,FALL,326,106,0,3.5,Carnegie Mellon University,Computer Science,1
+2015,FALL,332,0,6.5,3.4,Carnegie Mellon University,Computer Science,1
+2015,FALL,329,109,0,3.5,Carnegie Mellon University,Computer Science,1
+2015,FALL,310,0,6.5,1.7,Carnegie Mellon University,Computer Engineering,0
+2015,FALL,267,85,0,2.1,Carnegie Mellon University,Computer Engineering,0
+2015,FALL,294,0,7.5,2,Carnegie Mellon University,Computer Engineering,0
+2015,FALL,268,101,0,2.9,Carnegie Mellon University,Computer Engineering,0
+2015,FALL,313,0,6.5,2.5,Carnegie Mellon University,Computer Engineering,0
+2015,FALL,328,105,0,3.5,Carnegie Mellon University,Computer Engineering,1
+2015,FALL,331,0,8.5,2.9,Carnegie Mellon University,Computer Engineering,1
+2015,FALL,328,105,0,2.6,Carnegie Mellon University,Computer Engineering,1
+2015,FALL,314,0,6.5,2.6,Carnegie Mellon University,Computer Engineering,1
+2015,FALL,312,103,0,3.5,Carnegie Mellon University,Computer Engineering,1
+2015,FALL,269,0,5.5,2.5,Carnegie Mellon University,Electrical Engineering,0
+2015,FALL,303,91,0,2.5,Carnegie Mellon University,Electrical Engineering,0
+2015,FALL,319,0,7.5,2.6,Carnegie Mellon University,Electrical Engineering,0
+2015,FALL,274,98,0,2.6,Carnegie Mellon University,Electrical Engineering,0
+2015,FALL,297,0,6.5,1.9,Carnegie Mellon University,Electrical Engineering,0
+2015,FALL,325,101,0,2.6,Carnegie Mellon University,Electrical Engineering,1
+2015,FALL,315,0,6.5,3.5,Carnegie Mellon University,Electrical Engineering,1
+2015,FALL,331,105,0,3.5,Carnegie Mellon University,Electrical Engineering,1
+2015,FALL,316,0,6.5,3.2,Carnegie Mellon University,Electrical Engineering,1
+2015,FALL,325,110,0,3.1,Carnegie Mellon University,Electrical Engineering,1
+2015,FALL,302,0,7.5,1.6,Carnegie Mellon University,Management Of Technology,0
+2015,FALL,279,92,0,1.6,Carnegie Mellon University,Management Of Technology,0
+2015,FALL,276,0,5.5,1.8,Carnegie Mellon University,Management Of Technology,0
+2015,FALL,270,101,0,1.7,Carnegie Mellon University,Management Of Technology,0
+2015,FALL,301,0,5.5,2.8,Carnegie Mellon University,Management Of Technology,0
+2015,FALL,326,106,0,2.6,Carnegie Mellon University,Management Of Technology,1
+2015,FALL,333,0,6.5,2.6,Carnegie Mellon University,Management Of Technology,1
+2015,FALL,333,104,0,2.7,Carnegie Mellon University,Management Of Technology,1
+2015,FALL,321,0,7.5,2.6,Carnegie Mellon University,Management Of Technology,1
+2015,FALL,323,107,0,3.1,Carnegie Mellon University,Management Of Technology,1
+2015,FALL,314,0,5.5,3,Carnegie Mellon University,Mechanical Engineering,0
+2015,FALL,272,101,0,2.2,Carnegie Mellon University,Mechanical Engineering,0
+2015,FALL,298,0,7.5,2.5,Carnegie Mellon University,Mechanical Engineering,0
+2015,FALL,316,85,0,2.1,Carnegie Mellon University,Mechanical Engineering,0
+2015,FALL,313,0,7.5,1.8,Carnegie Mellon University,Mechanical Engineering,0
+2015,FALL,337,105,0,3.2,Carnegie Mellon University,Mechanical Engineering,1
+2015,FALL,316,0,7.5,3.2,Carnegie Mellon University,Mechanical Engineering,1
+2015,FALL,313,102,0,3.1,Carnegie Mellon University,Mechanical Engineering,1
+2015,FALL,312,0,6.5,3.3,Carnegie Mellon University,Mechanical Engineering,1
+2015,FALL,334,101,0,3.2,Carnegie Mellon University,Mechanical Engineering,1
+2015,FALL,309,0,6.5,3,"University of California, Davis",Computer Science,0
+2015,FALL,291,90,0,1.6,"University of California, Davis",Computer Science,0
+2015,FALL,315,0,7.5,1.7,"University of California, Davis",Computer Science,0
+2015,FALL,286,100,0,2.4,"University of California, Davis",Computer Science,0
+2015,FALL,266,0,6.5,2.9,"University of California, Davis",Computer Science,0
+2015,FALL,328,103,0,2.9,"University of California, Davis",Computer Science,1
+2015,FALL,311,0,6.5,3.2,"University of California, Davis",Computer Science,1
+2015,FALL,334,107,0,2.8,"University of California, Davis",Computer Science,1
+2015,FALL,318,0,8.5,3.3,"University of California, Davis",Computer Science,1
+2015,FALL,338,108,0,3.5,"University of California, Davis",Computer Science,1
+2015,FALL,301,0,6.5,2.1,"University of California, Davis",Computer Engineering,0
+2015,FALL,263,85,0,2,"University of California, Davis",Computer Engineering,0
+2015,FALL,316,0,5.5,2.8,"University of California, Davis",Computer Engineering,0
+2015,FALL,298,85,0,2,"University of California, Davis",Computer Engineering,0
+2015,FALL,261,0,5.5,3,"University of California, Davis",Computer Engineering,0
+2015,FALL,328,110,0,3.2,"University of California, Davis",Computer Engineering,1
+2015,FALL,321,0,7.5,3.5,"University of California, Davis",Computer Engineering,1
+2015,FALL,311,110,0,3.2,"University of California, Davis",Computer Engineering,1
+2015,FALL,336,0,6.5,3.3,"University of California, Davis",Computer Engineering,1
+2015,FALL,318,101,0,3.1,"University of California, Davis",Computer Engineering,1
+2015,FALL,316,0,6.5,2.7,"University of California, Davis",Electrical Engineering,0
+2015,FALL,279,100,0,2.4,"University of California, Davis",Electrical Engineering,0
+2015,FALL,292,0,6.5,1.7,"University of California, Davis",Electrical Engineering,0
+2015,FALL,285,94,0,2.3,"University of California, Davis",Electrical Engineering,0
+2015,FALL,276,0,5.5,2.1,"University of California, Davis",Electrical Engineering,0
+2015,FALL,322,106,0,3.3,"University of California, Davis",Electrical Engineering,1
+2015,FALL,330,0,7.5,2.7,"University of California, Davis",Electrical Engineering,1
+2015,FALL,332,108,0,3.2,"University of California, Davis",Electrical Engineering,1
+2015,FALL,313,0,6.5,2.6,"University of California, Davis",Electrical Engineering,1
+2015,FALL,335,101,0,3.1,"University of California, Davis",Electrical Engineering,1
+2015,FALL,306,0,5.5,2.6,"University of California, Davis",Management Of Technology,0
+2015,FALL,298,100,0,2,"University of California, Davis",Management Of Technology,0
+2015,FALL,298,0,7.5,2.9,"University of California, Davis",Management Of Technology,0
+2015,FALL,272,101,0,2,"University of California, Davis",Management Of Technology,0
+2015,FALL,284,0,5.5,2.1,"University of California, Davis",Management Of Technology,0
+2015,FALL,321,103,0,2.8,"University of California, Davis",Management Of Technology,1
+2015,FALL,328,0,7.5,3,"University of California, Davis",Management Of Technology,1
+2015,FALL,335,103,0,3.2,"University of California, Davis",Management Of Technology,1
+2015,FALL,316,0,8.5,3.1,"University of California, Davis",Management Of Technology,1
+2015,FALL,318,109,0,3.1,"University of California, Davis",Management Of Technology,1
+2015,FALL,273,0,7.5,2.9,"University of California, Davis",Mechanical Engineering,0
+2015,FALL,270,92,0,2.4,"University of California, Davis",Mechanical Engineering,0
+2015,FALL,292,0,7.5,2,"University of California, Davis",Mechanical Engineering,0
+2015,FALL,305,84,0,1.7,"University of California, Davis",Mechanical Engineering,0
+2015,FALL,294,0,7.5,2.2,"University of California, Davis",Mechanical Engineering,0
+2015,FALL,314,108,0,3.2,"University of California, Davis",Mechanical Engineering,1
+2015,FALL,331,0,7.5,3.4,"University of California, Davis",Mechanical Engineering,1
+2015,FALL,314,107,0,3.4,"University of California, Davis",Mechanical Engineering,1
+2015,FALL,326,0,7.5,3,"University of California, Davis",Mechanical Engineering,1
+2015,FALL,325,106,0,2.7,"University of California, Davis",Mechanical Engineering,1
+2015,FALL,264,0,5.5,2.6,"University of California, San Diego",Computer Science,0
+2015,FALL,311,83,0,2.6,"University of California, San Diego",Computer Science,0
+2015,FALL,286,0,6.5,2.2,"University of California, San Diego",Computer Science,0
+2015,FALL,303,86,0,2.3,"University of California, San Diego",Computer Science,0
+2015,FALL,275,0,5.5,2.5,"University of California, San Diego",Computer Science,0
+2015,FALL,323,108,0,3.3,"University of California, San Diego",Computer Science,1
+2015,FALL,340,0,6.5,2.8,"University of California, San Diego",Computer Science,1
+2015,FALL,316,107,0,3.3,"University of California, San Diego",Computer Science,1
+2015,FALL,326,0,8.5,3.1,"University of California, San Diego",Computer Science,1
+2015,FALL,322,102,0,2.8,"University of California, San Diego",Computer Science,1
+2015,FALL,302,0,5.5,2,"University of California, San Diego",Computer Engineering,0
+2015,FALL,269,88,0,1.8,"University of California, San Diego",Computer Engineering,0
+2015,FALL,273,0,5.5,2.7,"University of California, San Diego",Computer Engineering,0
+2015,FALL,279,84,0,2.4,"University of California, San Diego",Computer Engineering,0
+2015,FALL,296,0,6.5,2.5,"University of California, San Diego",Computer Engineering,0
+2015,FALL,313,101,0,3.4,"University of California, San Diego",Computer Engineering,1
+2015,FALL,340,0,7.5,3.4,"University of California, San Diego",Computer Engineering,1
+2015,FALL,318,102,0,3.2,"University of California, San Diego",Computer Engineering,1
+2015,FALL,332,0,8.5,2.6,"University of California, San Diego",Computer Engineering,1
+2015,FALL,336,106,0,2.7,"University of California, San Diego",Computer Engineering,1
+2015,FALL,266,0,7.5,3,"University of California, San Diego",Electrical Engineering,0
+2015,FALL,303,93,0,2.7,"University of California, San Diego",Electrical Engineering,0
+2015,FALL,273,0,6.5,2.4,"University of California, San Diego",Electrical Engineering,0
+2015,FALL,320,81,0,2.9,"University of California, San Diego",Electrical Engineering,0
+2015,FALL,275,0,6.5,2.8,"University of California, San Diego",Electrical Engineering,0
+2015,FALL,316,103,0,2.6,"University of California, San Diego",Electrical Engineering,1
+2015,FALL,315,0,6.5,2.6,"University of California, San Diego",Electrical Engineering,1
+2015,FALL,337,104,0,3.3,"University of California, San Diego",Electrical Engineering,1
+2015,FALL,324,0,6.5,3,"University of California, San Diego",Electrical Engineering,1
+2015,FALL,323,103,0,2.9,"University of California, San Diego",Electrical Engineering,1
+2015,FALL,317,0,6.5,2.5,"University of California, San Diego",Management Of Technology,0
+2015,FALL,284,81,0,2.3,"University of California, San Diego",Management Of Technology,0
+2015,FALL,288,0,5.5,2.1,"University of California, San Diego",Management Of Technology,0
+2015,FALL,283,82,0,2.2,"University of California, San Diego",Management Of Technology,0
+2015,FALL,316,0,5.5,2.7,"University of California, San Diego",Management Of Technology,0
+2015,FALL,336,110,0,3,"University of California, San Diego",Management Of Technology,1
+2015,FALL,331,0,8.5,2.8,"University of California, San Diego",Management Of Technology,1
+2015,FALL,335,102,0,3.4,"University of California, San Diego",Management Of Technology,1
+2015,FALL,327,0,6.5,3.4,"University of California, San Diego",Management Of Technology,1
+2015,FALL,336,107,0,2.6,"University of California, San Diego",Management Of Technology,1
+2015,FALL,307,0,5.5,1.8,"University of California, San Diego",Mechanical Engineering,0
+2015,FALL,317,82,0,1.6,"University of California, San Diego",Mechanical Engineering,0
+2015,FALL,299,0,5.5,3,"University of California, San Diego",Mechanical Engineering,0
+2015,FALL,294,91,0,3,"University of California, San Diego",Mechanical Engineering,0
+2015,FALL,319,0,7.5,1.6,"University of California, San Diego",Mechanical Engineering,0
+2015,FALL,312,105,0,3.3,"University of California, San Diego",Mechanical Engineering,1
+2015,FALL,319,0,8.5,3.2,"University of California, San Diego",Mechanical Engineering,1
+2015,FALL,323,110,0,3.5,"University of California, San Diego",Mechanical Engineering,1
+2015,FALL,329,0,7.5,3,"University of California, San Diego",Mechanical Engineering,1
+2015,FALL,340,103,0,2.7,"University of California, San Diego",Mechanical Engineering,1
+2015,FALL,306,0,5.5,2.9,University of Illinois at Urbana-Champaign,Computer Science,0
+2015,FALL,289,92,0,2.9,University of Illinois at Urbana-Champaign,Computer Science,0
+2015,FALL,288,0,7.5,2,University of Illinois at Urbana-Champaign,Computer Science,0
+2015,FALL,266,102,0,2.2,University of Illinois at Urbana-Champaign,Computer Science,0
+2015,FALL,267,0,7.5,1.6,University of Illinois at Urbana-Champaign,Computer Science,0
+2015,FALL,324,105,0,2.7,University of Illinois at Urbana-Champaign,Computer Science,1
+2015,FALL,322,0,7.5,3,University of Illinois at Urbana-Champaign,Computer Science,1
+2015,FALL,316,108,0,2.8,University of Illinois at Urbana-Champaign,Computer Science,1
+2015,FALL,316,0,8.5,3,University of Illinois at Urbana-Champaign,Computer Science,1
+2015,FALL,338,106,0,2.9,University of Illinois at Urbana-Champaign,Computer Science,1
+2015,FALL,289,0,7.5,2.9,University of Illinois at Urbana-Champaign,Computer Engineering,0
+2015,FALL,293,88,0,2.5,University of Illinois at Urbana-Champaign,Computer Engineering,0
+2015,FALL,298,0,7.5,1.7,University of Illinois at Urbana-Champaign,Computer Engineering,0
+2015,FALL,303,83,0,2.3,University of Illinois at Urbana-Champaign,Computer Engineering,0
+2015,FALL,281,0,6.5,1.8,University of Illinois at Urbana-Champaign,Computer Engineering,0
+2015,FALL,340,109,0,3.1,University of Illinois at Urbana-Champaign,Computer Engineering,1
+2015,FALL,323,0,6.5,2.6,University of Illinois at Urbana-Champaign,Computer Engineering,1
+2015,FALL,315,110,0,3.3,University of Illinois at Urbana-Champaign,Computer Engineering,1
+2015,FALL,338,0,7.5,2.8,University of Illinois at Urbana-Champaign,Computer Engineering,1
+2015,FALL,335,106,0,3.3,University of Illinois at Urbana-Champaign,Computer Engineering,1
+2015,FALL,263,0,6.5,2.3,University of Illinois at Urbana-Champaign,Electrical Engineering,0
+2015,FALL,284,87,0,2.9,University of Illinois at Urbana-Champaign,Electrical Engineering,0
+2015,FALL,293,0,5.5,2.1,University of Illinois at Urbana-Champaign,Electrical Engineering,0
+2015,FALL,281,97,0,2.8,University of Illinois at Urbana-Champaign,Electrical Engineering,0
+2015,FALL,315,0,5.5,2.8,University of Illinois at Urbana-Champaign,Electrical Engineering,0
+2015,FALL,326,110,0,3.3,University of Illinois at Urbana-Champaign,Electrical Engineering,1
+2015,FALL,322,0,8.5,2.9,University of Illinois at Urbana-Champaign,Electrical Engineering,1
+2015,FALL,321,106,0,3.3,University of Illinois at Urbana-Champaign,Electrical Engineering,1
+2015,FALL,314,0,7.5,3.2,University of Illinois at Urbana-Champaign,Electrical Engineering,1
+2015,FALL,311,104,0,3.1,University of Illinois at Urbana-Champaign,Electrical Engineering,1
+2015,FALL,271,0,7.5,2.8,University of Illinois at Urbana-Champaign,Management Of Technology,0
+2015,FALL,316,83,0,2.9,University of Illinois at Urbana-Champaign,Management Of Technology,0
+2015,FALL,277,0,5.5,2.5,University of Illinois at Urbana-Champaign,Management Of Technology,0
+2015,FALL,275,84,0,1.9,University of Illinois at Urbana-Champaign,Management Of Technology,0
+2015,FALL,297,0,7.5,2.5,University of Illinois at Urbana-Champaign,Management Of Technology,0
+2015,FALL,326,104,0,3.3,University of Illinois at Urbana-Champaign,Management Of Technology,1
+2015,FALL,317,0,8.5,2.8,University of Illinois at Urbana-Champaign,Management Of Technology,1
+2015,FALL,325,104,0,3.5,University of Illinois at Urbana-Champaign,Management Of Technology,1
+2015,FALL,311,0,8.5,2.9,University of Illinois at Urbana-Champaign,Management Of Technology,1
+2015,FALL,339,106,0,2.8,University of Illinois at Urbana-Champaign,Management Of Technology,1
+2015,FALL,292,0,5.5,2,University of Illinois at Urbana-Champaign,Mechanical Engineering,0
+2015,FALL,294,102,0,2,University of Illinois at Urbana-Champaign,Mechanical Engineering,0
+2015,FALL,284,0,7.5,1.6,University of Illinois at Urbana-Champaign,Mechanical Engineering,0
+2015,FALL,294,96,0,1.7,University of Illinois at Urbana-Champaign,Mechanical Engineering,0
+2015,FALL,275,0,7.5,1.8,University of Illinois at Urbana-Champaign,Mechanical Engineering,0
+2015,FALL,311,103,0,2.9,University of Illinois at Urbana-Champaign,Mechanical Engineering,1
+2015,FALL,336,0,6.5,3.1,University of Illinois at Urbana-Champaign,Mechanical Engineering,1
+2015,FALL,317,109,0,2.9,University of Illinois at Urbana-Champaign,Mechanical Engineering,1
+2015,FALL,339,0,6.5,3.5,University of Illinois at Urbana-Champaign,Mechanical Engineering,1
+2015,FALL,320,102,0,3,University of Illinois at Urbana-Champaign,Mechanical Engineering,1
+2015,FALL,316,0,6.5,1.8,University of Florida,Computer Science,0
+2015,FALL,320,89,0,2.2,University of Florida,Computer Science,0
+2015,FALL,319,0,5.5,2.2,University of Florida,Computer Science,0
+2015,FALL,274,81,0,1.9,University of Florida,Computer Science,0
+2015,FALL,300,0,7.5,1.9,University of Florida,Computer Science,0
+2015,FALL,336,108,0,2.6,University of Florida,Computer Science,1
+2015,FALL,324,0,7.5,3.2,University of Florida,Computer Science,1
+2015,FALL,311,103,0,3.2,University of Florida,Computer Science,1
+2015,FALL,327,0,7.5,3.5,University of Florida,Computer Science,1
+2015,FALL,316,101,0,2.7,University of Florida,Computer Science,1
+2015,FALL,294,0,5.5,2.8,University of Florida,Computer Engineering,0
+2015,FALL,317,85,0,3,University of Florida,Computer Engineering,0
+2015,FALL,265,0,5.5,2.8,University of Florida,Computer Engineering,0
+2015,FALL,302,94,0,2.7,University of Florida,Computer Engineering,0
+2015,FALL,304,0,6.5,1.8,University of Florida,Computer Engineering,0
+2015,FALL,322,106,0,2.8,University of Florida,Computer Engineering,1
+2015,FALL,317,0,8.5,2.8,University of Florida,Computer Engineering,1
+2015,FALL,329,102,0,2.9,University of Florida,Computer Engineering,1
+2015,FALL,320,0,7.5,3.1,University of Florida,Computer Engineering,1
+2015,FALL,329,104,0,3.1,University of Florida,Computer Engineering,1
+2015,FALL,277,0,5.5,2.6,University of Florida,Electrical Engineering,0
+2015,FALL,291,84,0,2.6,University of Florida,Electrical Engineering,0
+2015,FALL,290,0,5.5,2.7,University of Florida,Electrical Engineering,0
+2015,FALL,310,82,0,2.5,University of Florida,Electrical Engineering,0
+2015,FALL,292,0,6.5,2,University of Florida,Electrical Engineering,0
+2015,FALL,333,107,0,3.5,University of Florida,Electrical Engineering,1
+2015,FALL,338,0,7.5,3.4,University of Florida,Electrical Engineering,1
+2015,FALL,313,101,0,2.9,University of Florida,Electrical Engineering,1
+2015,FALL,335,0,8.5,2.9,University of Florida,Electrical Engineering,1
+2015,FALL,325,101,0,3.2,University of Florida,Electrical Engineering,1
+2015,FALL,302,0,7.5,2.6,University of Florida,Management Of Technology,0
+2015,FALL,320,91,0,1.8,University of Florida,Management Of Technology,0
+2015,FALL,298,0,5.5,2.9,University of Florida,Management Of Technology,0
+2015,FALL,263,90,0,2.9,University of Florida,Management Of Technology,0
+2015,FALL,296,0,5.5,2.3,University of Florida,Management Of Technology,0
+2015,FALL,312,108,0,3,University of Florida,Management Of Technology,1
+2015,FALL,316,0,7.5,2.7,University of Florida,Management Of Technology,1
+2015,FALL,312,101,0,3,University of Florida,Management Of Technology,1
+2015,FALL,320,0,6.5,3.5,University of Florida,Management Of Technology,1
+2015,FALL,328,109,0,2.9,University of Florida,Management Of Technology,1
+2015,FALL,288,0,6.5,2.6,University of Florida,Mechanical Engineering,0
+2015,FALL,316,88,0,2.9,University of Florida,Mechanical Engineering,0
+2015,FALL,276,0,5.5,2.9,University of Florida,Mechanical Engineering,0
+2015,FALL,285,102,0,2.7,University of Florida,Mechanical Engineering,0
+2015,FALL,285,0,6.5,2.2,University of Florida,Mechanical Engineering,0
+2015,FALL,319,108,0,3,University of Florida,Mechanical Engineering,1
+2015,FALL,327,0,6.5,3.3,University of Florida,Mechanical Engineering,1
+2015,FALL,334,107,0,3.2,University of Florida,Mechanical Engineering,1
+2015,FALL,330,0,6.5,2.7,University of Florida,Mechanical Engineering,1
+2015,FALL,333,109,0,3,University of Florida,Mechanical Engineering,1
+2015,FALL,278,0,7.5,1.8,"University of California, Irvine",Computer Science,0
+2015,FALL,302,82,0,2.2,"University of California, Irvine",Computer Science,0
+2015,FALL,319,0,5.5,1.7,"University of California, Irvine",Computer Science,0
+2015,FALL,289,95,0,2.8,"University of California, Irvine",Computer Science,0
+2015,FALL,273,0,5.5,2.3,"University of California, Irvine",Computer Science,0
+2015,FALL,313,108,0,3.1,"University of California, Irvine",Computer Science,1
+2015,FALL,335,0,7.5,2.6,"University of California, Irvine",Computer Science,1
+2015,FALL,340,108,0,3.1,"University of California, Irvine",Computer Science,1
+2015,FALL,334,0,6.5,3.2,"University of California, Irvine",Computer Science,1
+2015,FALL,326,102,0,3.3,"University of California, Irvine",Computer Science,1
+2015,FALL,294,0,5.5,1.8,"University of California, Irvine",Computer Engineering,0
+2015,FALL,299,84,0,2,"University of California, Irvine",Computer Engineering,0
+2015,FALL,264,0,5.5,3,"University of California, Irvine",Computer Engineering,0
+2015,FALL,294,99,0,2.3,"University of California, Irvine",Computer Engineering,0
+2015,FALL,267,0,6.5,2.2,"University of California, Irvine",Computer Engineering,0
+2015,FALL,327,108,0,3.3,"University of California, Irvine",Computer Engineering,1
+2015,FALL,340,0,8.5,2.7,"University of California, Irvine",Computer Engineering,1
+2015,FALL,331,110,0,2.6,"University of California, Irvine",Computer Engineering,1
+2015,FALL,324,0,8.5,3.5,"University of California, Irvine",Computer Engineering,1
+2015,FALL,320,106,0,3.1,"University of California, Irvine",Computer Engineering,1
+2015,FALL,306,0,6.5,2.5,"University of California, Irvine",Electrical Engineering,0
+2015,FALL,275,96,0,2.6,"University of California, Irvine",Electrical Engineering,0
+2015,FALL,287,0,6.5,2.5,"University of California, Irvine",Electrical Engineering,0
+2015,FALL,270,100,0,2.4,"University of California, Irvine",Electrical Engineering,0
+2015,FALL,291,0,6.5,2.5,"University of California, Irvine",Electrical Engineering,0
+2015,FALL,330,103,0,3.1,"University of California, Irvine",Electrical Engineering,1
+2015,FALL,329,0,7.5,2.8,"University of California, Irvine",Electrical Engineering,1
+2015,FALL,332,107,0,2.6,"University of California, Irvine",Electrical Engineering,1
+2015,FALL,317,0,7.5,2.9,"University of California, Irvine",Electrical Engineering,1
+2015,FALL,335,102,0,2.7,"University of California, Irvine",Electrical Engineering,1
+2015,FALL,282,0,5.5,2.5,"University of California, Irvine",Management Of Technology,0
+2015,FALL,315,101,0,2.5,"University of California, Irvine",Management Of Technology,0
+2015,FALL,286,0,7.5,2.6,"University of California, Irvine",Management Of Technology,0
+2015,FALL,315,83,0,2.4,"University of California, Irvine",Management Of Technology,0
+2015,FALL,273,0,5.5,2.6,"University of California, Irvine",Management Of Technology,0
+2015,FALL,336,104,0,2.9,"University of California, Irvine",Management Of Technology,1
+2015,FALL,331,0,6.5,3.3,"University of California, Irvine",Management Of Technology,1
+2015,FALL,331,101,0,2.9,"University of California, Irvine",Management Of Technology,1
+2015,FALL,338,0,7.5,3.2,"University of California, Irvine",Management Of Technology,1
+2015,FALL,326,105,0,3.5,"University of California, Irvine",Management Of Technology,1
+2015,FALL,310,0,6.5,2.7,"University of California, Irvine",Mechanical Engineering,0
+2015,FALL,288,81,0,2.3,"University of California, Irvine",Mechanical Engineering,0
+2015,FALL,298,0,5.5,2,"University of California, Irvine",Mechanical Engineering,0
+2015,FALL,266,91,0,1.9,"University of California, Irvine",Mechanical Engineering,0
+2015,FALL,286,0,7.5,2.5,"University of California, Irvine",Mechanical Engineering,0
+2015,FALL,335,105,0,3.3,"University of California, Irvine",Mechanical Engineering,1
+2015,FALL,324,0,8.5,3.2,"University of California, Irvine",Mechanical Engineering,1
+2015,FALL,330,107,0,2.8,"University of California, Irvine",Mechanical Engineering,1
+2015,FALL,322,0,6.5,3.3,"University of California, Irvine",Mechanical Engineering,1
+2015,FALL,334,104,0,3.4,"University of California, Irvine",Mechanical Engineering,1
+2015,FALL,290,0,5.5,2.8,University of Maryland,Computer Science,0
+2015,FALL,318,90,0,2.6,University of Maryland,Computer Science,0
+2015,FALL,269,0,7.5,2.4,University of Maryland,Computer Science,0
+2015,FALL,317,86,0,2.8,University of Maryland,Computer Science,0
+2015,FALL,306,0,5.5,1.6,University of Maryland,Computer Science,0
+2015,FALL,320,108,0,3.2,University of Maryland,Computer Science,1
+2015,FALL,336,0,8.5,2.8,University of Maryland,Computer Science,1
+2015,FALL,316,101,0,2.9,University of Maryland,Computer Science,1
+2015,FALL,313,0,8.5,2.9,University of Maryland,Computer Science,1
+2015,FALL,340,108,0,2.6,University of Maryland,Computer Science,1
+2015,FALL,317,0,6.5,1.7,University of Maryland,Computer Engineering,0
+2015,FALL,280,86,0,2.6,University of Maryland,Computer Engineering,0
+2015,FALL,300,0,5.5,2.3,University of Maryland,Computer Engineering,0
+2015,FALL,262,100,0,1.8,University of Maryland,Computer Engineering,0
+2015,FALL,266,0,6.5,1.8,University of Maryland,Computer Engineering,0
+2015,FALL,315,104,0,3,University of Maryland,Computer Engineering,1
+2015,FALL,332,0,8.5,3.2,University of Maryland,Computer Engineering,1
+2015,FALL,328,109,0,3.4,University of Maryland,Computer Engineering,1
+2015,FALL,333,0,8.5,2.7,University of Maryland,Computer Engineering,1
+2015,FALL,327,110,0,2.6,University of Maryland,Computer Engineering,1
+2015,FALL,262,0,7.5,2.3,University of Maryland,Electrical Engineering,0
+2015,FALL,264,92,0,2.9,University of Maryland,Electrical Engineering,0
+2015,FALL,317,0,7.5,1.6,University of Maryland,Electrical Engineering,0
+2015,FALL,293,87,0,2,University of Maryland,Electrical Engineering,0
+2015,FALL,281,0,5.5,1.7,University of Maryland,Electrical Engineering,0
+2015,FALL,331,104,0,2.7,University of Maryland,Electrical Engineering,1
+2015,FALL,317,0,8.5,3.4,University of Maryland,Electrical Engineering,1
+2015,FALL,334,105,0,3.3,University of Maryland,Electrical Engineering,1
+2015,FALL,316,0,7.5,3,University of Maryland,Electrical Engineering,1
+2015,FALL,320,108,0,2.8,University of Maryland,Electrical Engineering,1
+2015,FALL,308,0,6.5,2.9,University of Maryland,Management Of Technology,0
+2015,FALL,278,94,0,1.6,University of Maryland,Management Of Technology,0
+2015,FALL,305,0,5.5,2.2,University of Maryland,Management Of Technology,0
+2015,FALL,287,101,0,2.7,University of Maryland,Management Of Technology,0
+2015,FALL,299,0,7.5,2.4,University of Maryland,Management Of Technology,0
+2015,FALL,311,107,0,3.2,University of Maryland,Management Of Technology,1
+2015,FALL,323,0,6.5,2.6,University of Maryland,Management Of Technology,1
+2015,FALL,322,102,0,3.2,University of Maryland,Management Of Technology,1
+2015,FALL,320,0,8.5,3,University of Maryland,Management Of Technology,1
+2015,FALL,330,103,0,3.2,University of Maryland,Management Of Technology,1
+2015,FALL,261,0,5.5,2.1,University of Maryland,Mechanical Engineering,0
+2015,FALL,305,94,0,1.6,University of Maryland,Mechanical Engineering,0
+2015,FALL,299,0,7.5,2.3,University of Maryland,Mechanical Engineering,0
+2015,FALL,291,91,0,2.3,University of Maryland,Mechanical Engineering,0
+2015,FALL,287,0,6.5,2.3,University of Maryland,Mechanical Engineering,0
+2015,FALL,312,104,0,2.9,University of Maryland,Mechanical Engineering,1
+2015,FALL,321,0,8.5,2.8,University of Maryland,Mechanical Engineering,1
+2015,FALL,326,106,0,3.2,University of Maryland,Mechanical Engineering,1
+2015,FALL,320,0,8.5,3,University of Maryland,Mechanical Engineering,1
+2015,FALL,320,110,0,3.3,University of Maryland,Mechanical Engineering,1
+2015,FALL,293,0,7.5,2,University of Southern California,Computer Science,0
+2015,FALL,290,88,0,2.1,University of Southern California,Computer Science,0
+2015,FALL,285,0,7.5,1.9,University of Southern California,Computer Science,0
+2015,FALL,261,90,0,1.9,University of Southern California,Computer Science,0
+2015,FALL,272,0,6.5,2.6,University of Southern California,Computer Science,0
+2015,FALL,329,104,0,3.3,University of Southern California,Computer Science,1
+2015,FALL,316,0,6.5,3.5,University of Southern California,Computer Science,1
+2015,FALL,314,103,0,2.6,University of Southern California,Computer Science,1
+2015,FALL,323,0,6.5,2.8,University of Southern California,Computer Science,1
+2015,FALL,322,107,0,3.1,University of Southern California,Computer Science,1
+2015,FALL,271,0,5.5,3,University of Southern California,Computer Engineering,0
+2015,FALL,297,87,0,1.8,University of Southern California,Computer Engineering,0
+2015,FALL,272,0,7.5,3,University of Southern California,Computer Engineering,0
+2015,FALL,290,95,0,2.4,University of Southern California,Computer Engineering,0
+2015,FALL,305,0,6.5,1.8,University of Southern California,Computer Engineering,0
+2015,FALL,312,107,0,3.3,University of Southern California,Computer Engineering,1
+2015,FALL,325,0,6.5,2.6,University of Southern California,Computer Engineering,1
+2015,FALL,317,106,0,3.5,University of Southern California,Computer Engineering,1
+2015,FALL,329,0,7.5,2.9,University of Southern California,Computer Engineering,1
+2015,FALL,329,101,0,2.6,University of Southern California,Computer Engineering,1
+2015,FALL,280,0,7.5,2.4,University of Southern California,Electrical Engineering,0
+2015,FALL,278,94,0,1.9,University of Southern California,Electrical Engineering,0
+2015,FALL,284,0,7.5,2.7,University of Southern California,Electrical Engineering,0
+2015,FALL,291,84,0,1.9,University of Southern California,Electrical Engineering,0
+2015,FALL,283,0,6.5,1.9,University of Southern California,Electrical Engineering,0
+2015,FALL,339,106,0,2.8,University of Southern California,Electrical Engineering,1
+2015,FALL,327,0,8.5,3.3,University of Southern California,Electrical Engineering,1
+2015,FALL,314,102,0,2.7,University of Southern California,Electrical Engineering,1
+2015,FALL,335,0,6.5,3.5,University of Southern California,Electrical Engineering,1
+2015,FALL,331,105,0,3.4,University of Southern California,Electrical Engineering,1
+2015,FALL,314,0,7.5,1.6,University of Southern California,Management Of Technology,0
+2015,FALL,286,98,0,3,University of Southern California,Management Of Technology,0
+2015,FALL,265,0,5.5,2.4,University of Southern California,Management Of Technology,0
+2015,FALL,313,98,0,3,University of Southern California,Management Of Technology,0
+2015,FALL,267,0,5.5,2.6,University of Southern California,Management Of Technology,0
+2015,FALL,323,110,0,2.9,University of Southern California,Management Of Technology,1
+2015,FALL,330,0,7.5,2.6,University of Southern California,Management Of Technology,1
+2015,FALL,326,104,0,3.3,University of Southern California,Management Of Technology,1
+2015,FALL,320,0,8.5,3.4,University of Southern California,Management Of Technology,1
+2015,FALL,324,102,0,2.8,University of Southern California,Management Of Technology,1
+2015,FALL,281,0,5.5,1.6,University of Southern California,Mechanical Engineering,0
+2015,FALL,262,85,0,2.8,University of Southern California,Mechanical Engineering,0
+2015,FALL,309,0,5.5,2,University of Southern California,Mechanical Engineering,0
+2015,FALL,309,89,0,2.3,University of Southern California,Mechanical Engineering,0
+2015,FALL,279,0,5.5,1.7,University of Southern California,Mechanical Engineering,0
+2015,FALL,315,104,0,2.6,University of Southern California,Mechanical Engineering,1
+2015,FALL,337,0,7.5,2.8,University of Southern California,Mechanical Engineering,1
+2015,FALL,326,101,0,2.8,University of Southern California,Mechanical Engineering,1
+2015,FALL,311,0,7.5,2.8,University of Southern California,Mechanical Engineering,1
+2015,FALL,327,108,0,3,University of Southern California,Mechanical Engineering,1
+2015,FALL,276,0,7.5,2.8,University of North Carolina at Chapel Hill,Computer Science,0
+2015,FALL,310,82,0,1.8,University of North Carolina at Chapel Hill,Computer Science,0
+2015,FALL,274,0,7.5,1.7,University of North Carolina at Chapel Hill,Computer Science,0
+2015,FALL,292,82,0,2.7,University of North Carolina at Chapel Hill,Computer Science,0
+2015,FALL,312,0,7.5,3,University of North Carolina at Chapel Hill,Computer Science,0
+2015,FALL,321,108,0,3.2,University of North Carolina at Chapel Hill,Computer Science,1
+2015,FALL,333,0,6.5,3.5,University of North Carolina at Chapel Hill,Computer Science,1
+2015,FALL,330,109,0,3.3,University of North Carolina at Chapel Hill,Computer Science,1
+2015,FALL,320,0,8.5,3.5,University of North Carolina at Chapel Hill,Computer Science,1
+2015,FALL,334,101,0,3.2,University of North Carolina at Chapel Hill,Computer Science,1
+2015,FALL,309,0,7.5,1.8,University of North Carolina at Chapel Hill,Computer Engineering,0
+2015,FALL,308,82,0,2.8,University of North Carolina at Chapel Hill,Computer Engineering,0
+2015,FALL,267,0,5.5,2.4,University of North Carolina at Chapel Hill,Computer Engineering,0
+2015,FALL,282,93,0,1.8,University of North Carolina at Chapel Hill,Computer Engineering,0
+2015,FALL,279,0,5.5,1.8,University of North Carolina at Chapel Hill,Computer Engineering,0
+2015,FALL,338,105,0,2.9,University of North Carolina at Chapel Hill,Computer Engineering,1
+2015,FALL,314,0,6.5,2.8,University of North Carolina at Chapel Hill,Computer Engineering,1
+2015,FALL,325,104,0,2.8,University of North Carolina at Chapel Hill,Computer Engineering,1
+2015,FALL,311,0,7.5,3.4,University of North Carolina at Chapel Hill,Computer Engineering,1
+2015,FALL,337,103,0,3.1,University of North Carolina at Chapel Hill,Computer Engineering,1
+2015,FALL,296,0,5.5,2,University of North Carolina at Chapel Hill,Electrical Engineering,0
+2015,FALL,270,94,0,1.8,University of North Carolina at Chapel Hill,Electrical Engineering,0
+2015,FALL,295,0,5.5,2.7,University of North Carolina at Chapel Hill,Electrical Engineering,0
+2015,FALL,314,88,0,2.1,University of North Carolina at Chapel Hill,Electrical Engineering,0
+2015,FALL,291,0,5.5,2.7,University of North Carolina at Chapel Hill,Electrical Engineering,0
+2015,FALL,315,110,0,3.4,University of North Carolina at Chapel Hill,Electrical Engineering,1
+2015,FALL,320,0,8.5,3.3,University of North Carolina at Chapel Hill,Electrical Engineering,1
+2015,FALL,315,103,0,2.8,University of North Carolina at Chapel Hill,Electrical Engineering,1
+2015,FALL,317,0,7.5,3.2,University of North Carolina at Chapel Hill,Electrical Engineering,1
+2015,FALL,312,103,0,3,University of North Carolina at Chapel Hill,Electrical Engineering,1
+2015,FALL,279,0,7.5,2.7,University of North Carolina at Chapel Hill,Management Of Technology,0
+2015,FALL,262,89,0,1.7,University of North Carolina at Chapel Hill,Management Of Technology,0
+2015,FALL,311,0,6.5,1.8,University of North Carolina at Chapel Hill,Management Of Technology,0
+2015,FALL,311,101,0,2,University of North Carolina at Chapel Hill,Management Of Technology,0
+2015,FALL,318,0,5.5,2.9,University of North Carolina at Chapel Hill,Management Of Technology,0
+2015,FALL,329,109,0,3,University of North Carolina at Chapel Hill,Management Of Technology,1
+2015,FALL,315,0,6.5,2.8,University of North Carolina at Chapel Hill,Management Of Technology,1
+2015,FALL,333,104,0,2.8,University of North Carolina at Chapel Hill,Management Of Technology,1
+2015,FALL,321,0,6.5,2.9,University of North Carolina at Chapel Hill,Management Of Technology,1
+2015,FALL,315,104,0,2.7,University of North Carolina at Chapel Hill,Management Of Technology,1
+2015,FALL,314,0,7.5,2.5,University of North Carolina at Chapel Hill,Mechanical Engineering,0
+2015,FALL,310,101,0,1.7,University of North Carolina at Chapel Hill,Mechanical Engineering,0
+2015,FALL,316,0,5.5,2.8,University of North Carolina at Chapel Hill,Mechanical Engineering,0
+2015,FALL,317,95,0,1.9,University of North Carolina at Chapel Hill,Mechanical Engineering,0
+2015,FALL,277,0,5.5,2.2,University of North Carolina at Chapel Hill,Mechanical Engineering,0
+2015,FALL,321,104,0,3,University of North Carolina at Chapel Hill,Mechanical Engineering,1
+2015,FALL,333,0,6.5,2.7,University of North Carolina at Chapel Hill,Mechanical Engineering,1
+2015,FALL,334,108,0,2.7,University of North Carolina at Chapel Hill,Mechanical Engineering,1
+2015,FALL,311,0,8.5,2.9,University of North Carolina at Chapel Hill,Mechanical Engineering,1
+2015,FALL,328,108,0,3.3,University of North Carolina at Chapel Hill,Mechanical Engineering,1
+2015,FALL,274,0,6.5,1.9,Arizona State University,Computer Science,0
+2015,FALL,316,101,0,1.6,Arizona State University,Computer Science,0
+2015,FALL,273,0,5.5,2.8,Arizona State University,Computer Science,0
+2015,FALL,281,100,0,1.7,Arizona State University,Computer Science,0
+2015,FALL,313,0,7.5,2.5,Arizona State University,Computer Science,0
+2015,FALL,311,108,0,3.3,Arizona State University,Computer Science,1
+2015,FALL,316,0,6.5,3.2,Arizona State University,Computer Science,1
+2015,FALL,325,110,0,2.6,Arizona State University,Computer Science,1
+2015,FALL,315,0,7.5,2.9,Arizona State University,Computer Science,1
+2015,FALL,312,103,0,2.6,Arizona State University,Computer Science,1
+2015,FALL,281,0,6.5,2.2,Arizona State University,Computer Engineering,0
+2015,FALL,310,91,0,2.7,Arizona State University,Computer Engineering,0
+2015,FALL,263,0,7.5,1.9,Arizona State University,Computer Engineering,0
+2015,FALL,263,99,0,2.5,Arizona State University,Computer Engineering,0
+2015,FALL,261,0,6.5,1.9,Arizona State University,Computer Engineering,0
+2015,FALL,315,104,0,3.3,Arizona State University,Computer Engineering,1
+2015,FALL,331,0,7.5,3.4,Arizona State University,Computer Engineering,1
+2015,FALL,332,104,0,3,Arizona State University,Computer Engineering,1
+2015,FALL,329,0,7.5,2.7,Arizona State University,Computer Engineering,1
+2015,FALL,323,104,0,2.9,Arizona State University,Computer Engineering,1
+2015,FALL,291,0,6.5,1.7,Arizona State University,Electrical Engineering,0
+2015,FALL,268,100,0,2,Arizona State University,Electrical Engineering,0
+2015,FALL,294,0,6.5,2.3,Arizona State University,Electrical Engineering,0
+2015,FALL,312,84,0,1.9,Arizona State University,Electrical Engineering,0
+2015,FALL,305,0,7.5,1.6,Arizona State University,Electrical Engineering,0
+2015,FALL,328,103,0,2.9,Arizona State University,Electrical Engineering,1
+2015,FALL,323,0,7.5,3.3,Arizona State University,Electrical Engineering,1
+2015,FALL,326,104,0,3.4,Arizona State University,Electrical Engineering,1
+2015,FALL,335,0,8.5,2.8,Arizona State University,Electrical Engineering,1
+2015,FALL,323,102,0,3.2,Arizona State University,Electrical Engineering,1
+2015,FALL,312,0,5.5,2.6,Arizona State University,Management Of Technology,0
+2015,FALL,284,99,0,1.7,Arizona State University,Management Of Technology,0
+2015,FALL,261,0,6.5,2.5,Arizona State University,Management Of Technology,0
+2015,FALL,294,86,0,2,Arizona State University,Management Of Technology,0
+2015,FALL,268,0,6.5,1.8,Arizona State University,Management Of Technology,0
+2015,FALL,331,105,0,3.1,Arizona State University,Management Of Technology,1
+2015,FALL,321,0,6.5,2.8,Arizona State University,Management Of Technology,1
+2015,FALL,312,102,0,2.6,Arizona State University,Management Of Technology,1
+2015,FALL,337,0,7.5,2.6,Arizona State University,Management Of Technology,1
+2015,FALL,336,107,0,2.7,Arizona State University,Management Of Technology,1
+2015,FALL,277,0,6.5,2,Arizona State University,Mechanical Engineering,0
+2015,FALL,304,91,0,1.9,Arizona State University,Mechanical Engineering,0
+2015,FALL,283,0,6.5,2,Arizona State University,Mechanical Engineering,0
+2015,FALL,305,97,0,2,Arizona State University,Mechanical Engineering,0
+2015,FALL,303,0,5.5,2.6,Arizona State University,Mechanical Engineering,0
+2015,FALL,319,106,0,3.3,Arizona State University,Mechanical Engineering,1
+2015,FALL,314,0,7.5,3,Arizona State University,Mechanical Engineering,1
+2015,FALL,333,108,0,3.3,Arizona State University,Mechanical Engineering,1
+2015,FALL,326,0,8.5,2.7,Arizona State University,Mechanical Engineering,1
+2015,FALL,315,101,0,3.4,Arizona State University,Mechanical Engineering,1
+2015,FALL,299,0,7.5,2.2,Texas A&M University,Computer Science,0
+2015,FALL,290,84,0,1.8,Texas A&M University,Computer Science,0
+2015,FALL,269,0,5.5,1.9,Texas A&M University,Computer Science,0
+2015,FALL,273,84,0,2.2,Texas A&M University,Computer Science,0
+2015,FALL,281,0,5.5,2.3,Texas A&M University,Computer Science,0
+2015,FALL,326,99,0,2.8,Texas A&M University,Computer Science,1
+2015,FALL,315,0,7.5,2.8,Texas A&M University,Computer Science,1
+2015,FALL,322,95,0,2.2,Texas A&M University,Computer Science,1
+2015,FALL,314,0,7.5,2.6,Texas A&M University,Computer Science,1
+2015,FALL,326,92,0,2.8,Texas A&M University,Computer Science,1
+2015,FALL,313,0,7.5,2.5,Texas A&M University,Computer Engineering,0
+2015,FALL,316,86,0,1.7,Texas A&M University,Computer Engineering,0
+2015,FALL,318,0,5.5,2,Texas A&M University,Computer Engineering,0
+2015,FALL,315,86,0,1.9,Texas A&M University,Computer Engineering,0
+2015,FALL,277,0,7.5,2.1,Texas A&M University,Computer Engineering,0
+2015,FALL,328,92,0,2.8,Texas A&M University,Computer Engineering,1
+2015,FALL,325,0,6.5,2.6,Texas A&M University,Computer Engineering,1
+2015,FALL,327,97,0,2.8,Texas A&M University,Computer Engineering,1
+2015,FALL,328,0,6.5,3,Texas A&M University,Computer Engineering,1
+2015,FALL,325,97,0,2.7,Texas A&M University,Computer Engineering,1
+2015,FALL,290,0,6.5,1.7,Texas A&M University,Electrical Engineering,0
+2015,FALL,271,85,0,2.2,Texas A&M University,Electrical Engineering,0
+2015,FALL,271,0,7.5,1.7,Texas A&M University,Electrical Engineering,0
+2015,FALL,293,87,0,2.4,Texas A&M University,Electrical Engineering,0
+2015,FALL,275,0,6.5,2.1,Texas A&M University,Electrical Engineering,0
+2015,FALL,323,100,0,2.2,Texas A&M University,Electrical Engineering,1
+2015,FALL,316,0,6.5,2.6,Texas A&M University,Electrical Engineering,1
+2015,FALL,323,92,0,2.1,Texas A&M University,Electrical Engineering,1
+2015,FALL,321,0,7.5,2.7,Texas A&M University,Electrical Engineering,1
+2015,FALL,324,93,0,2.6,Texas A&M University,Electrical Engineering,1
+2015,FALL,268,0,6.5,2.2,Texas A&M University,Management Of Technology,0
+2015,FALL,264,81,0,2,Texas A&M University,Management Of Technology,0
+2015,FALL,297,0,6.5,2.5,Texas A&M University,Management Of Technology,0
+2015,FALL,310,88,0,2.5,Texas A&M University,Management Of Technology,0
+2015,FALL,288,0,7.5,2.5,Texas A&M University,Management Of Technology,0
+2015,FALL,317,98,0,2.7,Texas A&M University,Management Of Technology,1
+2015,FALL,326,0,6.5,3,Texas A&M University,Management Of Technology,1
+2015,FALL,312,100,0,2.7,Texas A&M University,Management Of Technology,1
+2015,FALL,317,0,7.5,2.3,Texas A&M University,Management Of Technology,1
+2015,FALL,327,92,0,2.5,Texas A&M University,Management Of Technology,1
+2015,FALL,262,0,5.5,1.9,Texas A&M University,Mechanical Engineering,0
+2015,FALL,263,84,0,1.6,Texas A&M University,Mechanical Engineering,0
+2015,FALL,291,0,7.5,1.8,Texas A&M University,Mechanical Engineering,0
+2015,FALL,301,82,0,1.7,Texas A&M University,Mechanical Engineering,0
+2015,FALL,275,0,5.5,1.6,Texas A&M University,Mechanical Engineering,0
+2015,FALL,312,99,0,3,Texas A&M University,Mechanical Engineering,1
+2015,FALL,315,0,6.5,3,Texas A&M University,Mechanical Engineering,1
+2015,FALL,323,93,0,2.9,Texas A&M University,Mechanical Engineering,1
+2015,FALL,321,0,7.5,2.4,Texas A&M University,Mechanical Engineering,1
+2015,FALL,315,100,0,2.1,Texas A&M University,Mechanical Engineering,1
+2015,FALL,318,0,6.5,2.3,University of Arizona,Computer Science,0
+2015,FALL,268,81,0,1.8,University of Arizona,Computer Science,0
+2015,FALL,320,0,6.5,2,University of Arizona,Computer Science,0
+2015,FALL,261,89,0,1.7,University of Arizona,Computer Science,0
+2015,FALL,318,0,6.5,1.9,University of Arizona,Computer Science,0
+2015,FALL,322,93,0,2.9,University of Arizona,Computer Science,1
+2015,FALL,328,0,6.5,2.4,University of Arizona,Computer Science,1
+2015,FALL,326,91,0,3,University of Arizona,Computer Science,1
+2015,FALL,316,0,6.5,3,University of Arizona,Computer Science,1
+2015,FALL,322,97,0,2.3,University of Arizona,Computer Science,1
+2015,FALL,265,0,5.5,1.9,University of Arizona,Computer Engineering,0
+2015,FALL,281,87,0,2.2,University of Arizona,Computer Engineering,0
+2015,FALL,269,0,7.5,2.5,University of Arizona,Computer Engineering,0
+2015,FALL,320,82,0,1.9,University of Arizona,Computer Engineering,0
+2015,FALL,319,0,7.5,1.8,University of Arizona,Computer Engineering,0
+2015,FALL,316,99,0,2.3,University of Arizona,Computer Engineering,1
+2015,FALL,316,0,6.5,2.4,University of Arizona,Computer Engineering,1
+2015,FALL,325,100,0,3,University of Arizona,Computer Engineering,1
+2015,FALL,312,0,6.5,3,University of Arizona,Computer Engineering,1
+2015,FALL,328,95,0,3,University of Arizona,Computer Engineering,1
+2015,FALL,310,0,6.5,2,University of Arizona,Electrical Engineering,0
+2015,FALL,300,86,0,2.4,University of Arizona,Electrical Engineering,0
+2015,FALL,279,0,7.5,2.1,University of Arizona,Electrical Engineering,0
+2015,FALL,268,88,0,2.3,University of Arizona,Electrical Engineering,0
+2015,FALL,283,0,5.5,2.4,University of Arizona,Electrical Engineering,0
+2015,FALL,312,96,0,2.1,University of Arizona,Electrical Engineering,1
+2015,FALL,326,0,7.5,2.7,University of Arizona,Electrical Engineering,1
+2015,FALL,315,98,0,2.7,University of Arizona,Electrical Engineering,1
+2015,FALL,323,0,7.5,2.7,University of Arizona,Electrical Engineering,1
+2015,FALL,314,97,0,3,University of Arizona,Electrical Engineering,1
+2015,FALL,274,0,6.5,1.6,University of Arizona,Management Of Technology,0
+2015,FALL,268,81,0,1.8,University of Arizona,Management Of Technology,0
+2015,FALL,313,0,7.5,1.6,University of Arizona,Management Of Technology,0
+2015,FALL,320,83,0,1.7,University of Arizona,Management Of Technology,0
+2015,FALL,303,0,6.5,1.9,University of Arizona,Management Of Technology,0
+2015,FALL,313,98,0,3,University of Arizona,Management Of Technology,1
+2015,FALL,320,0,6.5,2.5,University of Arizona,Management Of Technology,1
+2015,FALL,314,97,0,2.3,University of Arizona,Management Of Technology,1
+2015,FALL,311,0,7.5,2.8,University of Arizona,Management Of Technology,1
+2015,FALL,311,92,0,2.1,University of Arizona,Management Of Technology,1
+2015,FALL,288,0,5.5,2.1,University of Arizona,Mechanical Engineering,0
+2015,FALL,266,81,0,2,University of Arizona,Mechanical Engineering,0
+2015,FALL,310,0,7.5,1.9,University of Arizona,Mechanical Engineering,0
+2015,FALL,311,90,0,2.3,University of Arizona,Mechanical Engineering,0
+2015,FALL,275,0,5.5,1.6,University of Arizona,Mechanical Engineering,0
+2015,FALL,327,93,0,3,University of Arizona,Mechanical Engineering,1
+2015,FALL,313,0,7.5,2.6,University of Arizona,Mechanical Engineering,1
+2015,FALL,317,100,0,2.3,University of Arizona,Mechanical Engineering,1
+2015,FALL,326,0,6.5,2.5,University of Arizona,Mechanical Engineering,1
+2015,FALL,313,91,0,2.7,University of Arizona,Mechanical Engineering,1
+2015,FALL,288,0,5.5,1.6,North Carolina State University,Computer Science,0
+2015,FALL,307,86,0,2,North Carolina State University,Computer Science,0
+2015,FALL,277,0,5.5,2.4,North Carolina State University,Computer Science,0
+2015,FALL,305,87,0,2.2,North Carolina State University,Computer Science,0
+2015,FALL,297,0,5.5,2,North Carolina State University,Computer Science,0
+2015,FALL,326,97,0,3,North Carolina State University,Computer Science,1
+2015,FALL,319,0,7.5,2.8,North Carolina State University,Computer Science,1
+2015,FALL,330,95,0,2.5,North Carolina State University,Computer Science,1
+2015,FALL,325,0,7.5,2.1,North Carolina State University,Computer Science,1
+2015,FALL,322,97,0,3,North Carolina State University,Computer Science,1
+2015,FALL,263,0,5.5,1.6,North Carolina State University,Computer Engineering,0
+2015,FALL,263,88,0,2.4,North Carolina State University,Computer Engineering,0
+2015,FALL,298,0,7.5,2.3,North Carolina State University,Computer Engineering,0
+2015,FALL,269,81,0,2.2,North Carolina State University,Computer Engineering,0
+2015,FALL,279,0,6.5,1.6,North Carolina State University,Computer Engineering,0
+2015,FALL,320,97,0,2.6,North Carolina State University,Computer Engineering,1
+2015,FALL,325,0,7.5,2.6,North Carolina State University,Computer Engineering,1
+2015,FALL,312,100,0,2.2,North Carolina State University,Computer Engineering,1
+2015,FALL,330,0,7.5,2.6,North Carolina State University,Computer Engineering,1
+2015,FALL,327,96,0,2.7,North Carolina State University,Computer Engineering,1
+2015,FALL,293,0,6.5,2.2,North Carolina State University,Electrical Engineering,0
+2015,FALL,289,85,0,2.4,North Carolina State University,Electrical Engineering,0
+2015,FALL,299,0,5.5,2,North Carolina State University,Electrical Engineering,0
+2015,FALL,315,90,0,1.7,North Carolina State University,Electrical Engineering,0
+2015,FALL,274,0,6.5,2.3,North Carolina State University,Electrical Engineering,0
+2015,FALL,315,99,0,2.1,North Carolina State University,Electrical Engineering,1
+2015,FALL,317,0,6.5,2.1,North Carolina State University,Electrical Engineering,1
+2015,FALL,315,94,0,2.3,North Carolina State University,Electrical Engineering,1
+2015,FALL,314,0,7.5,2.5,North Carolina State University,Electrical Engineering,1
+2015,FALL,318,93,0,2.9,North Carolina State University,Electrical Engineering,1
+2015,FALL,308,0,5.5,2.5,North Carolina State University,Management Of Technology,0
+2015,FALL,285,86,0,2.4,North Carolina State University,Management Of Technology,0
+2015,FALL,288,0,6.5,2.4,North Carolina State University,Management Of Technology,0
+2015,FALL,312,90,0,2.3,North Carolina State University,Management Of Technology,0
+2015,FALL,315,0,5.5,1.9,North Carolina State University,Management Of Technology,0
+2015,FALL,325,92,0,2.5,North Carolina State University,Management Of Technology,1
+2015,FALL,327,0,6.5,2.9,North Carolina State University,Management Of Technology,1
+2015,FALL,318,99,0,3,North Carolina State University,Management Of Technology,1
+2015,FALL,314,0,7.5,3,North Carolina State University,Management Of Technology,1
+2015,FALL,324,97,0,2.7,North Carolina State University,Management Of Technology,1
+2015,FALL,298,0,6.5,1.9,North Carolina State University,Mechanical Engineering,0
+2015,FALL,275,88,0,2.3,North Carolina State University,Mechanical Engineering,0
+2015,FALL,272,0,7.5,1.9,North Carolina State University,Mechanical Engineering,0
+2015,FALL,293,83,0,1.8,North Carolina State University,Mechanical Engineering,0
+2015,FALL,264,0,6.5,2.3,North Carolina State University,Mechanical Engineering,0
+2015,FALL,311,91,0,2.3,North Carolina State University,Mechanical Engineering,1
+2015,FALL,320,0,7.5,2.2,North Carolina State University,Mechanical Engineering,1
+2015,FALL,321,98,0,2.2,North Carolina State University,Mechanical Engineering,1
+2015,FALL,318,0,7.5,2.2,North Carolina State University,Mechanical Engineering,1
+2015,FALL,320,98,0,2.7,North Carolina State University,Mechanical Engineering,1
+2015,FALL,307,0,5.5,2.4,Syracuse University,Computer Science,0
+2015,FALL,265,87,0,2.5,Syracuse University,Computer Science,0
+2015,FALL,298,0,5.5,2,Syracuse University,Computer Science,0
+2015,FALL,279,90,0,1.8,Syracuse University,Computer Science,0
+2015,FALL,303,0,5.5,2.4,Syracuse University,Computer Science,0
+2015,FALL,328,93,0,2.7,Syracuse University,Computer Science,1
+2015,FALL,313,0,6.5,2.7,Syracuse University,Computer Science,1
+2015,FALL,313,94,0,2.3,Syracuse University,Computer Science,1
+2015,FALL,329,0,6.5,2.3,Syracuse University,Computer Science,1
+2015,FALL,312,93,0,3,Syracuse University,Computer Science,1
+2015,FALL,300,0,5.5,1.9,Syracuse University,Computer Engineering,0
+2015,FALL,305,82,0,2.5,Syracuse University,Computer Engineering,0
+2015,FALL,308,0,6.5,2,Syracuse University,Computer Engineering,0
+2015,FALL,320,81,0,2.5,Syracuse University,Computer Engineering,0
+2015,FALL,267,0,6.5,2.2,Syracuse University,Computer Engineering,0
+2015,FALL,329,96,0,2.9,Syracuse University,Computer Engineering,1
+2015,FALL,318,0,7.5,3,Syracuse University,Computer Engineering,1
+2015,FALL,329,100,0,2.9,Syracuse University,Computer Engineering,1
+2015,FALL,315,0,7.5,3,Syracuse University,Computer Engineering,1
+2015,FALL,319,95,0,2.7,Syracuse University,Computer Engineering,1
+2015,FALL,307,0,5.5,1.6,Syracuse University,Electrical Engineering,0
+2015,FALL,303,90,0,2,Syracuse University,Electrical Engineering,0
+2015,FALL,273,0,6.5,2.1,Syracuse University,Electrical Engineering,0
+2015,FALL,292,90,0,2.1,Syracuse University,Electrical Engineering,0
+2015,FALL,316,0,7.5,1.9,Syracuse University,Electrical Engineering,0
+2015,FALL,317,97,0,2.2,Syracuse University,Electrical Engineering,1
+2015,FALL,326,0,6.5,2.3,Syracuse University,Electrical Engineering,1
+2015,FALL,316,100,0,2.5,Syracuse University,Electrical Engineering,1
+2015,FALL,317,0,6.5,2.8,Syracuse University,Electrical Engineering,1
+2015,FALL,315,99,0,2.1,Syracuse University,Electrical Engineering,1
+2015,FALL,299,0,5.5,2.5,Syracuse University,Management Of Technology,0
+2015,FALL,309,87,0,1.6,Syracuse University,Management Of Technology,0
+2015,FALL,307,0,6.5,2.1,Syracuse University,Management Of Technology,0
+2015,FALL,291,86,0,2.3,Syracuse University,Management Of Technology,0
+2015,FALL,319,0,5.5,2,Syracuse University,Management Of Technology,0
+2015,FALL,330,97,0,2.3,Syracuse University,Management Of Technology,1
+2015,FALL,328,0,6.5,2.8,Syracuse University,Management Of Technology,1
+2015,FALL,322,97,0,2.3,Syracuse University,Management Of Technology,1
+2015,FALL,327,0,7.5,2.9,Syracuse University,Management Of Technology,1
+2015,FALL,324,92,0,2.5,Syracuse University,Management Of Technology,1
+2015,FALL,282,0,7.5,2.5,Syracuse University,Mechanical Engineering,0
+2015,FALL,295,83,0,1.7,Syracuse University,Mechanical Engineering,0
+2015,FALL,275,0,7.5,2.3,Syracuse University,Mechanical Engineering,0
+2015,FALL,278,81,0,1.8,Syracuse University,Mechanical Engineering,0
+2015,FALL,271,0,6.5,2,Syracuse University,Mechanical Engineering,0
+2015,FALL,317,94,0,2.9,Syracuse University,Mechanical Engineering,1
+2015,FALL,318,0,7.5,2.5,Syracuse University,Mechanical Engineering,1
+2015,FALL,315,99,0,2.1,Syracuse University,Mechanical Engineering,1
+2015,FALL,311,0,7.5,2.6,Syracuse University,Mechanical Engineering,1
+2015,FALL,318,96,0,2.5,Syracuse University,Mechanical Engineering,1
+2015,FALL,293,0,5.5,1.7,Boston University,Computer Science,0
+2015,FALL,264,82,0,1.7,Boston University,Computer Science,0
+2015,FALL,301,0,6.5,2.5,Boston University,Computer Science,0
+2015,FALL,315,85,0,1.9,Boston University,Computer Science,0
+2015,FALL,302,0,7.5,2.2,Boston University,Computer Science,0
+2015,FALL,312,98,0,3,Boston University,Computer Science,1
+2015,FALL,323,0,6.5,2.6,Boston University,Computer Science,1
+2015,FALL,313,94,0,2.7,Boston University,Computer Science,1
+2015,FALL,326,0,7.5,3,Boston University,Computer Science,1
+2015,FALL,324,91,0,2.5,Boston University,Computer Science,1
+2015,FALL,286,0,5.5,1.6,Boston University,Computer Engineering,0
+2015,FALL,280,83,0,2.4,Boston University,Computer Engineering,0
+2015,FALL,305,0,5.5,1.8,Boston University,Computer Engineering,0
+2015,FALL,302,82,0,2.3,Boston University,Computer Engineering,0
+2015,FALL,316,0,6.5,2.3,Boston University,Computer Engineering,0
+2015,FALL,324,98,0,2.8,Boston University,Computer Engineering,1
+2015,FALL,322,0,7.5,2.6,Boston University,Computer Engineering,1
+2015,FALL,311,97,0,2.7,Boston University,Computer Engineering,1
+2015,FALL,318,0,6.5,2.9,Boston University,Computer Engineering,1
+2015,FALL,324,98,0,2.5,Boston University,Computer Engineering,1
+2015,FALL,264,0,6.5,2.5,Boston University,Electrical Engineering,0
+2015,FALL,318,88,0,1.9,Boston University,Electrical Engineering,0
+2015,FALL,287,0,6.5,2.1,Boston University,Electrical Engineering,0
+2015,FALL,273,85,0,2.1,Boston University,Electrical Engineering,0
+2015,FALL,277,0,7.5,1.7,Boston University,Electrical Engineering,0
+2015,FALL,314,92,0,2.6,Boston University,Electrical Engineering,1
+2015,FALL,329,0,6.5,2.1,Boston University,Electrical Engineering,1
+2015,FALL,313,95,0,2.4,Boston University,Electrical Engineering,1
+2015,FALL,320,0,7.5,3,Boston University,Electrical Engineering,1
+2015,FALL,326,92,0,3,Boston University,Electrical Engineering,1
+2015,FALL,263,0,7.5,1.9,Boston University,Management Of Technology,0
+2015,FALL,307,90,0,2.5,Boston University,Management Of Technology,0
+2015,FALL,272,0,6.5,1.8,Boston University,Management Of Technology,0
+2015,FALL,308,90,0,2.1,Boston University,Management Of Technology,0
+2015,FALL,275,0,6.5,2,Boston University,Management Of Technology,0
+2015,FALL,317,98,0,2.5,Boston University,Management Of Technology,1
+2015,FALL,312,0,7.5,2.9,Boston University,Management Of Technology,1
+2015,FALL,319,100,0,3,Boston University,Management Of Technology,1
+2015,FALL,324,0,7.5,2.3,Boston University,Management Of Technology,1
+2015,FALL,325,100,0,2.8,Boston University,Management Of Technology,1
+2015,FALL,290,0,5.5,1.9,Boston University,Mechanical Engineering,0
+2015,FALL,296,86,0,2.3,Boston University,Mechanical Engineering,0
+2015,FALL,282,0,7.5,1.7,Boston University,Mechanical Engineering,0
+2015,FALL,299,89,0,2.2,Boston University,Mechanical Engineering,0
+2015,FALL,289,0,6.5,2.1,Boston University,Mechanical Engineering,0
+2015,FALL,323,99,0,2.5,Boston University,Mechanical Engineering,1
+2015,FALL,319,0,7.5,2.2,Boston University,Mechanical Engineering,1
+2015,FALL,317,92,0,2.4,Boston University,Mechanical Engineering,1
+2015,FALL,322,0,6.5,2.7,Boston University,Mechanical Engineering,1
+2015,FALL,316,96,0,3,Boston University,Mechanical Engineering,1
+2015,FALL,283,0,6.5,1.8,University of Utah,Computer Science,0
+2015,FALL,278,89,0,1.7,University of Utah,Computer Science,0
+2015,FALL,267,0,7.5,1.9,University of Utah,Computer Science,0
+2015,FALL,290,89,0,2.4,University of Utah,Computer Science,0
+2015,FALL,263,0,6.5,2.1,University of Utah,Computer Science,0
+2015,FALL,312,94,0,3,University of Utah,Computer Science,1
+2015,FALL,322,0,6.5,2.6,University of Utah,Computer Science,1
+2015,FALL,328,91,0,2.8,University of Utah,Computer Science,1
+2015,FALL,312,0,7.5,2.6,University of Utah,Computer Science,1
+2015,FALL,325,96,0,2.5,University of Utah,Computer Science,1
+2015,FALL,303,0,7.5,1.6,University of Utah,Computer Engineering,0
+2015,FALL,290,88,0,1.9,University of Utah,Computer Engineering,0
+2015,FALL,314,0,7.5,2.2,University of Utah,Computer Engineering,0
+2015,FALL,317,81,0,2.4,University of Utah,Computer Engineering,0
+2015,FALL,269,0,5.5,2.5,University of Utah,Computer Engineering,0
+2015,FALL,317,99,0,2.8,University of Utah,Computer Engineering,1
+2015,FALL,324,0,7.5,2.7,University of Utah,Computer Engineering,1
+2015,FALL,316,95,0,2.6,University of Utah,Computer Engineering,1
+2015,FALL,327,0,7.5,2.4,University of Utah,Computer Engineering,1
+2015,FALL,312,98,0,2.8,University of Utah,Computer Engineering,1
+2015,FALL,299,0,7.5,2.5,University of Utah,Electrical Engineering,0
+2015,FALL,285,81,0,2.2,University of Utah,Electrical Engineering,0
+2015,FALL,275,0,7.5,2,University of Utah,Electrical Engineering,0
+2015,FALL,272,90,0,1.8,University of Utah,Electrical Engineering,0
+2015,FALL,269,0,6.5,1.6,University of Utah,Electrical Engineering,0
+2015,FALL,325,91,0,2.6,University of Utah,Electrical Engineering,1
+2015,FALL,328,0,7.5,2.7,University of Utah,Electrical Engineering,1
+2015,FALL,319,91,0,2.8,University of Utah,Electrical Engineering,1
+2015,FALL,320,0,6.5,3,University of Utah,Electrical Engineering,1
+2015,FALL,324,99,0,3,University of Utah,Electrical Engineering,1
+2015,FALL,267,0,6.5,1.8,University of Utah,Management Of Technology,0
+2015,FALL,278,89,0,2.1,University of Utah,Management Of Technology,0
+2015,FALL,296,0,5.5,1.8,University of Utah,Management Of Technology,0
+2015,FALL,268,88,0,2.5,University of Utah,Management Of Technology,0
+2015,FALL,265,0,5.5,2.2,University of Utah,Management Of Technology,0
+2015,FALL,328,100,0,2.3,University of Utah,Management Of Technology,1
+2015,FALL,329,0,7.5,2.1,University of Utah,Management Of Technology,1
+2015,FALL,316,93,0,2.3,University of Utah,Management Of Technology,1
+2015,FALL,312,0,6.5,2.5,University of Utah,Management Of Technology,1
+2015,FALL,316,99,0,2.1,University of Utah,Management Of Technology,1
+2015,FALL,317,0,5.5,2.4,University of Utah,Mechanical Engineering,0
+2015,FALL,285,84,0,1.8,University of Utah,Mechanical Engineering,0
+2015,FALL,285,0,7.5,2,University of Utah,Mechanical Engineering,0
+2015,FALL,320,83,0,2.5,University of Utah,Mechanical Engineering,0
+2015,FALL,279,0,6.5,2.2,University of Utah,Mechanical Engineering,0
+2015,FALL,329,92,0,2.8,University of Utah,Mechanical Engineering,1
+2015,FALL,316,0,7.5,2.2,University of Utah,Mechanical Engineering,1
+2015,FALL,319,91,0,2.1,University of Utah,Mechanical Engineering,1
+2015,FALL,312,0,7.5,2.7,University of Utah,Mechanical Engineering,1
+2015,FALL,316,99,0,2.5,University of Utah,Mechanical Engineering,1
+2015,FALL,304,0,6.5,1.7,Northwestern University,Computer Science,0
+2015,FALL,306,86,0,2,Northwestern University,Computer Science,0
+2015,FALL,299,0,7.5,1.7,Northwestern University,Computer Science,0
+2015,FALL,266,84,0,1.8,Northwestern University,Computer Science,0
+2015,FALL,315,0,5.5,2.2,Northwestern University,Computer Science,0
+2015,FALL,320,96,0,2.1,Northwestern University,Computer Science,1
+2015,FALL,316,0,6.5,2.6,Northwestern University,Computer Science,1
+2015,FALL,325,98,0,2.9,Northwestern University,Computer Science,1
+2015,FALL,315,0,6.5,2.1,Northwestern University,Computer Science,1
+2015,FALL,322,99,0,2.2,Northwestern University,Computer Science,1
+2015,FALL,295,0,5.5,2.3,Northwestern University,Computer Engineering,0
+2015,FALL,310,82,0,2.2,Northwestern University,Computer Engineering,0
+2015,FALL,301,0,7.5,2.1,Northwestern University,Computer Engineering,0
+2015,FALL,261,81,0,1.9,Northwestern University,Computer Engineering,0
+2015,FALL,320,0,7.5,1.6,Northwestern University,Computer Engineering,0
+2015,FALL,317,92,0,2.9,Northwestern University,Computer Engineering,1
+2015,FALL,314,0,7.5,2.6,Northwestern University,Computer Engineering,1
+2015,FALL,325,93,0,2.4,Northwestern University,Computer Engineering,1
+2015,FALL,320,0,6.5,2.8,Northwestern University,Computer Engineering,1
+2015,FALL,315,94,0,2.8,Northwestern University,Computer Engineering,1
+2015,FALL,307,0,7.5,2,Northwestern University,Electrical Engineering,0
+2015,FALL,298,81,0,2.5,Northwestern University,Electrical Engineering,0
+2015,FALL,294,0,7.5,1.7,Northwestern University,Electrical Engineering,0
+2015,FALL,265,85,0,1.9,Northwestern University,Electrical Engineering,0
+2015,FALL,277,0,7.5,1.7,Northwestern University,Electrical Engineering,0
+2015,FALL,323,96,0,2.2,Northwestern University,Electrical Engineering,1
+2015,FALL,323,0,7.5,2.6,Northwestern University,Electrical Engineering,1
+2015,FALL,313,97,0,2.9,Northwestern University,Electrical Engineering,1
+2015,FALL,321,0,6.5,2.9,Northwestern University,Electrical Engineering,1
+2015,FALL,315,94,0,2.2,Northwestern University,Electrical Engineering,1
+2015,FALL,276,0,7.5,2.3,Northwestern University,Management Of Technology,0
+2015,FALL,307,83,0,2.2,Northwestern University,Management Of Technology,0
+2015,FALL,310,0,7.5,1.6,Northwestern University,Management Of Technology,0
+2015,FALL,276,89,0,2.3,Northwestern University,Management Of Technology,0
+2015,FALL,287,0,5.5,1.7,Northwestern University,Management Of Technology,0
+2015,FALL,311,100,0,2.4,Northwestern University,Management Of Technology,1
+2015,FALL,315,0,6.5,2.1,Northwestern University,Management Of Technology,1
+2015,FALL,315,93,0,2.3,Northwestern University,Management Of Technology,1
+2015,FALL,313,0,7.5,2.2,Northwestern University,Management Of Technology,1
+2015,FALL,311,91,0,2.3,Northwestern University,Management Of Technology,1
+2015,FALL,315,0,6.5,2.5,Northwestern University,Mechanical Engineering,0
+2015,FALL,298,86,0,2,Northwestern University,Mechanical Engineering,0
+2015,FALL,310,0,7.5,2.3,Northwestern University,Mechanical Engineering,0
+2015,FALL,313,88,0,2.4,Northwestern University,Mechanical Engineering,0
+2015,FALL,281,0,5.5,1.6,Northwestern University,Mechanical Engineering,0
+2015,FALL,312,93,0,2.2,Northwestern University,Mechanical Engineering,1
+2015,FALL,320,0,6.5,2.2,Northwestern University,Mechanical Engineering,1
+2015,FALL,324,94,0,3,Northwestern University,Mechanical Engineering,1
+2015,FALL,318,0,6.5,2.9,Northwestern University,Mechanical Engineering,1
+2015,FALL,321,97,0,2.6,Northwestern University,Mechanical Engineering,1
+2015,FALL,268,0,5.5,1.9,Georgia Institute of Technology,Computer Science,0
+2015,FALL,268,90,0,1.8,Georgia Institute of Technology,Computer Science,0
+2015,FALL,268,0,5.5,2,Georgia Institute of Technology,Computer Science,0
+2015,FALL,281,86,0,2,Georgia Institute of Technology,Computer Science,0
+2015,FALL,263,0,7.5,2.4,Georgia Institute of Technology,Computer Science,0
+2015,FALL,315,93,0,2.8,Georgia Institute of Technology,Computer Science,1
+2015,FALL,317,0,6.5,2.3,Georgia Institute of Technology,Computer Science,1
+2015,FALL,312,93,0,2.9,Georgia Institute of Technology,Computer Science,1
+2015,FALL,317,0,6.5,2.8,Georgia Institute of Technology,Computer Science,1
+2015,FALL,330,99,0,2.9,Georgia Institute of Technology,Computer Science,1
+2015,FALL,280,0,5.5,1.6,Georgia Institute of Technology,Computer Engineering,0
+2015,FALL,299,85,0,2.1,Georgia Institute of Technology,Computer Engineering,0
+2015,FALL,279,0,6.5,2.2,Georgia Institute of Technology,Computer Engineering,0
+2015,FALL,284,85,0,2.5,Georgia Institute of Technology,Computer Engineering,0
+2015,FALL,290,0,6.5,1.8,Georgia Institute of Technology,Computer Engineering,0
+2015,FALL,323,93,0,2.3,Georgia Institute of Technology,Computer Engineering,1
+2015,FALL,316,0,6.5,2.4,Georgia Institute of Technology,Computer Engineering,1
+2015,FALL,327,92,0,3,Georgia Institute of Technology,Computer Engineering,1
+2015,FALL,317,0,6.5,2.3,Georgia Institute of Technology,Computer Engineering,1
+2015,FALL,321,98,0,2.5,Georgia Institute of Technology,Computer Engineering,1
+2015,FALL,272,0,7.5,1.9,Georgia Institute of Technology,Electrical Engineering,0
+2015,FALL,319,86,0,2.2,Georgia Institute of Technology,Electrical Engineering,0
+2015,FALL,308,0,7.5,2.4,Georgia Institute of Technology,Electrical Engineering,0
+2015,FALL,308,89,0,2.1,Georgia Institute of Technology,Electrical Engineering,0
+2015,FALL,264,0,5.5,2.3,Georgia Institute of Technology,Electrical Engineering,0
+2015,FALL,311,92,0,2.7,Georgia Institute of Technology,Electrical Engineering,1
+2015,FALL,330,0,6.5,2.1,Georgia Institute of Technology,Electrical Engineering,1
+2015,FALL,328,91,0,2.1,Georgia Institute of Technology,Electrical Engineering,1
+2015,FALL,323,0,6.5,2.4,Georgia Institute of Technology,Electrical Engineering,1
+2015,FALL,329,92,0,2.1,Georgia Institute of Technology,Electrical Engineering,1
+2015,FALL,280,0,7.5,2.1,Georgia Institute of Technology,Management Of Technology,0
+2015,FALL,310,87,0,2.3,Georgia Institute of Technology,Management Of Technology,0
+2015,FALL,289,0,7.5,2,Georgia Institute of Technology,Management Of Technology,0
+2015,FALL,317,87,0,2.3,Georgia Institute of Technology,Management Of Technology,0
+2015,FALL,261,0,6.5,2.3,Georgia Institute of Technology,Management Of Technology,0
+2015,FALL,326,95,0,2.4,Georgia Institute of Technology,Management Of Technology,1
+2015,FALL,311,0,7.5,2.5,Georgia Institute of Technology,Management Of Technology,1
+2015,FALL,318,94,0,2.4,Georgia Institute of Technology,Management Of Technology,1
+2015,FALL,326,0,6.5,3,Georgia Institute of Technology,Management Of Technology,1
+2015,FALL,326,91,0,2.9,Georgia Institute of Technology,Management Of Technology,1
+2015,FALL,291,0,7.5,1.6,Georgia Institute of Technology,Mechanical Engineering,0
+2015,FALL,273,86,0,2.1,Georgia Institute of Technology,Mechanical Engineering,0
+2015,FALL,320,0,7.5,2.1,Georgia Institute of Technology,Mechanical Engineering,0
+2015,FALL,318,88,0,2.5,Georgia Institute of Technology,Mechanical Engineering,0
+2015,FALL,305,0,7.5,2.5,Georgia Institute of Technology,Mechanical Engineering,0
+2015,FALL,328,98,0,2.5,Georgia Institute of Technology,Mechanical Engineering,1
+2015,FALL,312,0,6.5,2.5,Georgia Institute of Technology,Mechanical Engineering,1
+2015,FALL,319,93,0,3,Georgia Institute of Technology,Mechanical Engineering,1
+2015,FALL,311,0,6.5,2.9,Georgia Institute of Technology,Mechanical Engineering,1
+2015,FALL,330,98,0,2.7,Georgia Institute of Technology,Mechanical Engineering,1
+2015,FALL,311,0,7.5,1.7,California Institute of Technology,Computer Science,0
+2015,FALL,268,82,0,2.3,California Institute of Technology,Computer Science,0
+2015,FALL,316,0,5.5,2.5,California Institute of Technology,Computer Science,0
+2015,FALL,310,89,0,2.5,California Institute of Technology,Computer Science,0
+2015,FALL,261,0,6.5,2.1,California Institute of Technology,Computer Science,0
+2015,FALL,328,99,0,2.2,California Institute of Technology,Computer Science,1
+2015,FALL,318,0,6.5,2.5,California Institute of Technology,Computer Science,1
+2015,FALL,325,92,0,2.8,California Institute of Technology,Computer Science,1
+2015,FALL,319,0,7.5,2.1,California Institute of Technology,Computer Science,1
+2015,FALL,328,95,0,2.2,California Institute of Technology,Computer Science,1
+2015,FALL,286,0,5.5,1.9,California Institute of Technology,Computer Engineering,0
+2015,FALL,320,82,0,2.1,California Institute of Technology,Computer Engineering,0
+2015,FALL,293,0,6.5,2.5,California Institute of Technology,Computer Engineering,0
+2015,FALL,295,84,0,1.8,California Institute of Technology,Computer Engineering,0
+2015,FALL,265,0,5.5,2.4,California Institute of Technology,Computer Engineering,0
+2015,FALL,312,93,0,2.8,California Institute of Technology,Computer Engineering,1
+2015,FALL,323,0,6.5,2.9,California Institute of Technology,Computer Engineering,1
+2015,FALL,322,94,0,2.8,California Institute of Technology,Computer Engineering,1
+2015,FALL,318,0,6.5,2.5,California Institute of Technology,Computer Engineering,1
+2015,FALL,324,100,0,2.8,California Institute of Technology,Computer Engineering,1
+2015,FALL,288,0,6.5,1.6,California Institute of Technology,Electrical Engineering,0
+2015,FALL,284,82,0,2.3,California Institute of Technology,Electrical Engineering,0
+2015,FALL,309,0,6.5,2.5,California Institute of Technology,Electrical Engineering,0
+2015,FALL,308,90,0,2.1,California Institute of Technology,Electrical Engineering,0
+2015,FALL,314,0,5.5,2.2,California Institute of Technology,Electrical Engineering,0
+2015,FALL,312,95,0,2.8,California Institute of Technology,Electrical Engineering,1
+2015,FALL,329,0,7.5,2.7,California Institute of Technology,Electrical Engineering,1
+2015,FALL,323,92,0,2.6,California Institute of Technology,Electrical Engineering,1
+2015,FALL,320,0,7.5,2.7,California Institute of Technology,Electrical Engineering,1
+2015,FALL,317,99,0,2.1,California Institute of Technology,Electrical Engineering,1
+2015,FALL,304,0,7.5,2.2,California Institute of Technology,Management Of Technology,0
+2015,FALL,316,85,0,2.3,California Institute of Technology,Management Of Technology,0
+2015,FALL,281,0,6.5,2,California Institute of Technology,Management Of Technology,0
+2015,FALL,272,84,0,1.8,California Institute of Technology,Management Of Technology,0
+2015,FALL,289,0,5.5,1.6,California Institute of Technology,Management Of Technology,0
+2015,FALL,318,93,0,2.1,California Institute of Technology,Management Of Technology,1
+2015,FALL,329,0,6.5,2.3,California Institute of Technology,Management Of Technology,1
+2015,FALL,321,100,0,2.2,California Institute of Technology,Management Of Technology,1
+2015,FALL,323,0,7.5,2.2,California Institute of Technology,Management Of Technology,1
+2015,FALL,311,92,0,2.1,California Institute of Technology,Management Of Technology,1
+2015,FALL,307,0,7.5,2.1,California Institute of Technology,Mechanical Engineering,0
+2015,FALL,262,88,0,2.3,California Institute of Technology,Mechanical Engineering,0
+2015,FALL,314,0,7.5,2.2,California Institute of Technology,Mechanical Engineering,0
+2015,FALL,307,83,0,1.7,California Institute of Technology,Mechanical Engineering,0
+2015,FALL,286,0,5.5,1.7,California Institute of Technology,Mechanical Engineering,0
+2015,FALL,318,95,0,2.1,California Institute of Technology,Mechanical Engineering,1
+2015,FALL,317,0,7.5,2.9,California Institute of Technology,Mechanical Engineering,1
+2015,FALL,315,100,0,2.5,California Institute of Technology,Mechanical Engineering,1
+2015,FALL,317,0,6.5,2.3,California Institute of Technology,Mechanical Engineering,1
+2015,FALL,323,94,0,2.3,California Institute of Technology,Mechanical Engineering,1
+2015,FALL,300,0,5.5,2.2,"University of California, Santa Barbara",Computer Science,0
+2015,FALL,300,85,0,1.8,"University of California, Santa Barbara",Computer Science,0
+2015,FALL,314,0,5.5,1.7,"University of California, Santa Barbara",Computer Science,0
+2015,FALL,268,81,0,1.9,"University of California, Santa Barbara",Computer Science,0
+2015,FALL,285,0,6.5,2.2,"University of California, Santa Barbara",Computer Science,0
+2015,FALL,314,97,0,2.4,"University of California, Santa Barbara",Computer Science,1
+2015,FALL,317,0,6.5,2.7,"University of California, Santa Barbara",Computer Science,1
+2015,FALL,328,94,0,2.7,"University of California, Santa Barbara",Computer Science,1
+2015,FALL,322,0,7.5,2.7,"University of California, Santa Barbara",Computer Science,1
+2015,FALL,314,93,0,2.5,"University of California, Santa Barbara",Computer Science,1
+2015,FALL,268,0,7.5,2.5,"University of California, Santa Barbara",Computer Engineering,0
+2015,FALL,261,89,0,1.6,"University of California, Santa Barbara",Computer Engineering,0
+2015,FALL,284,0,6.5,2,"University of California, Santa Barbara",Computer Engineering,0
+2015,FALL,318,88,0,2.4,"University of California, Santa Barbara",Computer Engineering,0
+2015,FALL,289,0,7.5,2.5,"University of California, Santa Barbara",Computer Engineering,0
+2015,FALL,314,96,0,2.9,"University of California, Santa Barbara",Computer Engineering,1
+2015,FALL,327,0,6.5,2.2,"University of California, Santa Barbara",Computer Engineering,1
+2015,FALL,327,92,0,2.9,"University of California, Santa Barbara",Computer Engineering,1
+2015,FALL,315,0,6.5,3,"University of California, Santa Barbara",Computer Engineering,1
+2015,FALL,328,97,0,2.1,"University of California, Santa Barbara",Computer Engineering,1
+2015,FALL,293,0,7.5,2.3,"University of California, Santa Barbara",Electrical Engineering,0
+2015,FALL,270,82,0,1.8,"University of California, Santa Barbara",Electrical Engineering,0
+2015,FALL,318,0,5.5,2.1,"University of California, Santa Barbara",Electrical Engineering,0
+2015,FALL,288,85,0,2.5,"University of California, Santa Barbara",Electrical Engineering,0
+2015,FALL,295,0,5.5,1.8,"University of California, Santa Barbara",Electrical Engineering,0
+2015,FALL,326,92,0,2.4,"University of California, Santa Barbara",Electrical Engineering,1
+2015,FALL,330,0,6.5,2.3,"University of California, Santa Barbara",Electrical Engineering,1
+2015,FALL,317,91,0,3,"University of California, Santa Barbara",Electrical Engineering,1
+2015,FALL,324,0,7.5,3,"University of California, Santa Barbara",Electrical Engineering,1
+2015,FALL,326,93,0,2.8,"University of California, Santa Barbara",Electrical Engineering,1
+2015,FALL,279,0,7.5,2,"University of California, Santa Barbara",Management Of Technology,0
+2015,FALL,306,90,0,1.8,"University of California, Santa Barbara",Management Of Technology,0
+2015,FALL,273,0,7.5,2.5,"University of California, Santa Barbara",Management Of Technology,0
+2015,FALL,316,88,0,2.5,"University of California, Santa Barbara",Management Of Technology,0
+2015,FALL,318,0,6.5,2.2,"University of California, Santa Barbara",Management Of Technology,0
+2015,FALL,311,99,0,2.8,"University of California, Santa Barbara",Management Of Technology,1
+2015,FALL,329,0,6.5,2.6,"University of California, Santa Barbara",Management Of Technology,1
+2015,FALL,325,91,0,2.7,"University of California, Santa Barbara",Management Of Technology,1
+2015,FALL,320,0,6.5,2.9,"University of California, Santa Barbara",Management Of Technology,1
+2015,FALL,326,98,0,2.1,"University of California, Santa Barbara",Management Of Technology,1
+2015,FALL,288,0,6.5,2.2,"University of California, Santa Barbara",Mechanical Engineering,0
+2015,FALL,268,89,0,2.2,"University of California, Santa Barbara",Mechanical Engineering,0
+2015,FALL,269,0,5.5,2,"University of California, Santa Barbara",Mechanical Engineering,0
+2015,FALL,298,83,0,2.4,"University of California, Santa Barbara",Mechanical Engineering,0
+2015,FALL,309,0,7.5,1.6,"University of California, Santa Barbara",Mechanical Engineering,0
+2015,FALL,321,93,0,2.4,"University of California, Santa Barbara",Mechanical Engineering,1
+2015,FALL,319,0,6.5,2.1,"University of California, Santa Barbara",Mechanical Engineering,1
+2015,FALL,328,95,0,2.5,"University of California, Santa Barbara",Mechanical Engineering,1
+2015,FALL,314,0,6.5,2.1,"University of California, Santa Barbara",Mechanical Engineering,1
+2015,FALL,313,96,0,2.2,"University of California, Santa Barbara",Mechanical Engineering,1
+2015,FALL,297,0,6.5,1.8,University of Pittsburgh,Computer Science,0
+2015,FALL,316,84,0,2.4,University of Pittsburgh,Computer Science,0
+2015,FALL,316,0,5.5,1.9,University of Pittsburgh,Computer Science,0
+2015,FALL,313,87,0,2.3,University of Pittsburgh,Computer Science,0
+2015,FALL,284,0,7.5,2.2,University of Pittsburgh,Computer Science,0
+2015,FALL,315,100,0,2.5,University of Pittsburgh,Computer Science,1
+2015,FALL,312,0,6.5,2.1,University of Pittsburgh,Computer Science,1
+2015,FALL,321,98,0,2.1,University of Pittsburgh,Computer Science,1
+2015,FALL,330,0,6.5,2.2,University of Pittsburgh,Computer Science,1
+2015,FALL,318,91,0,2.9,University of Pittsburgh,Computer Science,1
+2015,FALL,299,0,6.5,1.8,University of Pittsburgh,Computer Engineering,0
+2015,FALL,272,84,0,1.6,University of Pittsburgh,Computer Engineering,0
+2015,FALL,266,0,6.5,1.8,University of Pittsburgh,Computer Engineering,0
+2015,FALL,297,83,0,2.2,University of Pittsburgh,Computer Engineering,0
+2015,FALL,274,0,5.5,2.3,University of Pittsburgh,Computer Engineering,0
+2015,FALL,314,98,0,2.9,University of Pittsburgh,Computer Engineering,1
+2015,FALL,326,0,7.5,2.3,University of Pittsburgh,Computer Engineering,1
+2015,FALL,319,91,0,2.4,University of Pittsburgh,Computer Engineering,1
+2015,FALL,328,0,7.5,2.8,University of Pittsburgh,Computer Engineering,1
+2015,FALL,330,97,0,2.7,University of Pittsburgh,Computer Engineering,1
+2015,FALL,308,0,7.5,1.7,University of Pittsburgh,Electrical Engineering,0
+2015,FALL,300,86,0,2.5,University of Pittsburgh,Electrical Engineering,0
+2015,FALL,295,0,7.5,1.7,University of Pittsburgh,Electrical Engineering,0
+2015,FALL,264,83,0,1.7,University of Pittsburgh,Electrical Engineering,0
+2015,FALL,306,0,6.5,2.5,University of Pittsburgh,Electrical Engineering,0
+2015,FALL,325,92,0,2.6,University of Pittsburgh,Electrical Engineering,1
+2015,FALL,318,0,6.5,2.7,University of Pittsburgh,Electrical Engineering,1
+2015,FALL,322,95,0,2.3,University of Pittsburgh,Electrical Engineering,1
+2015,FALL,313,0,7.5,2.6,University of Pittsburgh,Electrical Engineering,1
+2015,FALL,319,99,0,2.1,University of Pittsburgh,Electrical Engineering,1
+2015,FALL,274,0,5.5,1.9,University of Pittsburgh,Management Of Technology,0
+2015,FALL,320,82,0,2,University of Pittsburgh,Management Of Technology,0
+2015,FALL,291,0,7.5,1.6,University of Pittsburgh,Management Of Technology,0
+2015,FALL,289,87,0,2.3,University of Pittsburgh,Management Of Technology,0
+2015,FALL,299,0,7.5,2.5,University of Pittsburgh,Management Of Technology,0
+2015,FALL,323,97,0,2.7,University of Pittsburgh,Management Of Technology,1
+2015,FALL,325,0,7.5,2.6,University of Pittsburgh,Management Of Technology,1
+2015,FALL,317,100,0,2.2,University of Pittsburgh,Management Of Technology,1
+2015,FALL,321,0,7.5,2.8,University of Pittsburgh,Management Of Technology,1
+2015,FALL,317,91,0,2.8,University of Pittsburgh,Management Of Technology,1
+2015,FALL,262,0,7.5,1.6,University of Pittsburgh,Mechanical Engineering,0
+2015,FALL,318,83,0,1.8,University of Pittsburgh,Mechanical Engineering,0
+2015,FALL,315,0,5.5,2.2,University of Pittsburgh,Mechanical Engineering,0
+2015,FALL,306,85,0,2.3,University of Pittsburgh,Mechanical Engineering,0
+2015,FALL,310,0,7.5,2.5,University of Pittsburgh,Mechanical Engineering,0
+2015,FALL,313,93,0,2.5,University of Pittsburgh,Mechanical Engineering,1
+2015,FALL,318,0,6.5,2.7,University of Pittsburgh,Mechanical Engineering,1
+2015,FALL,315,99,0,2.8,University of Pittsburgh,Mechanical Engineering,1
+2015,FALL,322,0,6.5,2.9,University of Pittsburgh,Mechanical Engineering,1
+2015,FALL,314,100,0,2.5,University of Pittsburgh,Mechanical Engineering,1
+2015,FALL,263,0,5.5,2,Colorado State University,Computer Science,0
+2015,FALL,290,87,0,1.9,Colorado State University,Computer Science,0
+2015,FALL,309,0,7.5,1.7,Colorado State University,Computer Science,0
+2015,FALL,309,81,0,1.7,Colorado State University,Computer Science,0
+2015,FALL,312,0,7.5,1.7,Colorado State University,Computer Science,0
+2015,FALL,314,95,0,2.5,Colorado State University,Computer Science,1
+2015,FALL,314,0,6.5,2.5,Colorado State University,Computer Science,1
+2015,FALL,324,99,0,2.4,Colorado State University,Computer Science,1
+2015,FALL,312,0,6.5,2.3,Colorado State University,Computer Science,1
+2015,FALL,327,97,0,2.3,Colorado State University,Computer Science,1
+2015,FALL,300,0,6.5,2.1,Colorado State University,Computer Engineering,0
+2015,FALL,275,82,0,1.7,Colorado State University,Computer Engineering,0
+2015,FALL,274,0,6.5,2,Colorado State University,Computer Engineering,0
+2015,FALL,269,84,0,1.8,Colorado State University,Computer Engineering,0
+2015,FALL,305,0,5.5,1.8,Colorado State University,Computer Engineering,0
+2015,FALL,321,97,0,2.3,Colorado State University,Computer Engineering,1
+2015,FALL,322,0,6.5,2.9,Colorado State University,Computer Engineering,1
+2015,FALL,318,95,0,2.9,Colorado State University,Computer Engineering,1
+2015,FALL,323,0,7.5,2.2,Colorado State University,Computer Engineering,1
+2015,FALL,328,93,0,2.6,Colorado State University,Computer Engineering,1
+2015,FALL,294,0,7.5,2.5,Colorado State University,Electrical Engineering,0
+2015,FALL,291,86,0,2,Colorado State University,Electrical Engineering,0
+2015,FALL,308,0,5.5,2.4,Colorado State University,Electrical Engineering,0
+2015,FALL,293,90,0,2.4,Colorado State University,Electrical Engineering,0
+2015,FALL,304,0,7.5,1.6,Colorado State University,Electrical Engineering,0
+2015,FALL,312,99,0,2.3,Colorado State University,Electrical Engineering,1
+2015,FALL,322,0,6.5,2.6,Colorado State University,Electrical Engineering,1
+2015,FALL,313,91,0,2.5,Colorado State University,Electrical Engineering,1
+2015,FALL,329,0,6.5,2.5,Colorado State University,Electrical Engineering,1
+2015,FALL,320,95,0,2.1,Colorado State University,Electrical Engineering,1
+2015,FALL,315,0,5.5,2.1,Colorado State University,Management Of Technology,0
+2015,FALL,263,88,0,2.5,Colorado State University,Management Of Technology,0
+2015,FALL,315,0,5.5,2.3,Colorado State University,Management Of Technology,0
+2015,FALL,296,88,0,2.5,Colorado State University,Management Of Technology,0
+2015,FALL,281,0,7.5,2.1,Colorado State University,Management Of Technology,0
+2015,FALL,330,96,0,2.8,Colorado State University,Management Of Technology,1
+2015,FALL,329,0,7.5,2.5,Colorado State University,Management Of Technology,1
+2015,FALL,318,94,0,2.2,Colorado State University,Management Of Technology,1
+2015,FALL,317,0,7.5,2.4,Colorado State University,Management Of Technology,1
+2015,FALL,315,98,0,2.9,Colorado State University,Management Of Technology,1
+2015,FALL,273,0,5.5,2,Colorado State University,Mechanical Engineering,0
+2015,FALL,274,86,0,2.4,Colorado State University,Mechanical Engineering,0
+2015,FALL,261,0,5.5,1.7,Colorado State University,Mechanical Engineering,0
+2015,FALL,292,90,0,2.2,Colorado State University,Mechanical Engineering,0
+2015,FALL,268,0,5.5,2.5,Colorado State University,Mechanical Engineering,0
+2015,FALL,329,99,0,2.1,Colorado State University,Mechanical Engineering,1
+2015,FALL,319,0,7.5,2.9,Colorado State University,Mechanical Engineering,1
+2015,FALL,329,92,0,2.5,Colorado State University,Mechanical Engineering,1
+2015,FALL,313,0,6.5,2.6,Colorado State University,Mechanical Engineering,1
+2015,FALL,311,99,0,2.3,Colorado State University,Mechanical Engineering,1
+2015,FALL,311,0,6.5,2.5,George Washington University,Computer Science,0
+2015,FALL,274,82,0,2.4,George Washington University,Computer Science,0
+2015,FALL,263,0,7.5,2.2,George Washington University,Computer Science,0
+2015,FALL,294,90,0,2.5,George Washington University,Computer Science,0
+2015,FALL,267,0,6.5,2,George Washington University,Computer Science,0
+2015,FALL,329,96,0,2.2,George Washington University,Computer Science,1
+2015,FALL,314,0,7.5,2.3,George Washington University,Computer Science,1
+2015,FALL,320,93,0,2.5,George Washington University,Computer Science,1
+2015,FALL,312,0,7.5,2.3,George Washington University,Computer Science,1
+2015,FALL,314,97,0,3,George Washington University,Computer Science,1
+2015,FALL,285,0,6.5,1.9,George Washington University,Computer Engineering,0
+2015,FALL,299,86,0,2.1,George Washington University,Computer Engineering,0
+2015,FALL,287,0,7.5,2.2,George Washington University,Computer Engineering,0
+2015,FALL,279,84,0,2.3,George Washington University,Computer Engineering,0
+2015,FALL,269,0,6.5,1.9,George Washington University,Computer Engineering,0
+2015,FALL,328,98,0,2.6,George Washington University,Computer Engineering,1
+2015,FALL,326,0,7.5,2.9,George Washington University,Computer Engineering,1
+2015,FALL,319,96,0,2.1,George Washington University,Computer Engineering,1
+2015,FALL,328,0,7.5,2.2,George Washington University,Computer Engineering,1
+2015,FALL,314,93,0,2.2,George Washington University,Computer Engineering,1
+2015,FALL,287,0,5.5,1.6,George Washington University,Electrical Engineering,0
+2015,FALL,310,89,0,1.8,George Washington University,Electrical Engineering,0
+2015,FALL,304,0,6.5,2.2,George Washington University,Electrical Engineering,0
+2015,FALL,310,84,0,2.4,George Washington University,Electrical Engineering,0
+2015,FALL,269,0,7.5,2.4,George Washington University,Electrical Engineering,0
+2015,FALL,313,99,0,2.6,George Washington University,Electrical Engineering,1
+2015,FALL,324,0,7.5,2.6,George Washington University,Electrical Engineering,1
+2015,FALL,314,91,0,2.4,George Washington University,Electrical Engineering,1
+2015,FALL,311,0,6.5,2.4,George Washington University,Electrical Engineering,1
+2015,FALL,317,92,0,2.4,George Washington University,Electrical Engineering,1
+2015,FALL,286,0,6.5,1.8,George Washington University,Management Of Technology,0
+2015,FALL,286,87,0,2.1,George Washington University,Management Of Technology,0
+2015,FALL,265,0,5.5,2.2,George Washington University,Management Of Technology,0
+2015,FALL,299,86,0,1.6,George Washington University,Management Of Technology,0
+2015,FALL,293,0,5.5,1.8,George Washington University,Management Of Technology,0
+2015,FALL,328,91,0,2.2,George Washington University,Management Of Technology,1
+2015,FALL,327,0,6.5,3,George Washington University,Management Of Technology,1
+2015,FALL,321,91,0,2.4,George Washington University,Management Of Technology,1
+2015,FALL,315,0,6.5,2.6,George Washington University,Management Of Technology,1
+2015,FALL,319,93,0,2.4,George Washington University,Management Of Technology,1
+2015,FALL,280,0,7.5,2.4,George Washington University,Mechanical Engineering,0
+2015,FALL,267,86,0,2.1,George Washington University,Mechanical Engineering,0
+2015,FALL,267,0,7.5,2.1,George Washington University,Mechanical Engineering,0
+2015,FALL,319,90,0,2.2,George Washington University,Mechanical Engineering,0
+2015,FALL,303,0,6.5,1.9,George Washington University,Mechanical Engineering,0
+2015,FALL,322,94,0,2.8,George Washington University,Mechanical Engineering,1
+2015,FALL,324,0,6.5,3,George Washington University,Mechanical Engineering,1
+2015,FALL,323,95,0,2.7,George Washington University,Mechanical Engineering,1
+2015,FALL,324,0,7.5,2.1,George Washington University,Mechanical Engineering,1
+2015,FALL,318,100,0,2.9,George Washington University,Mechanical Engineering,1
+2015,FALL,308,0,7.5,1.8,Florida State University,Computer Science,0
+2015,FALL,306,83,0,2.2,Florida State University,Computer Science,0
+2015,FALL,261,0,7.5,1.8,Florida State University,Computer Science,0
+2015,FALL,284,89,0,2.3,Florida State University,Computer Science,0
+2015,FALL,320,0,6.5,2.1,Florida State University,Computer Science,0
+2015,FALL,311,92,0,2.9,Florida State University,Computer Science,1
+2015,FALL,314,0,6.5,2.3,Florida State University,Computer Science,1
+2015,FALL,317,97,0,2.7,Florida State University,Computer Science,1
+2015,FALL,318,0,6.5,2.5,Florida State University,Computer Science,1
+2015,FALL,312,98,0,2.3,Florida State University,Computer Science,1
+2015,FALL,278,0,5.5,2.4,Florida State University,Computer Engineering,0
+2015,FALL,305,88,0,2.5,Florida State University,Computer Engineering,0
+2015,FALL,279,0,6.5,1.8,Florida State University,Computer Engineering,0
+2015,FALL,286,84,0,1.6,Florida State University,Computer Engineering,0
+2015,FALL,270,0,6.5,2.5,Florida State University,Computer Engineering,0
+2015,FALL,327,97,0,2.4,Florida State University,Computer Engineering,1
+2015,FALL,329,0,7.5,3,Florida State University,Computer Engineering,1
+2015,FALL,321,98,0,2.8,Florida State University,Computer Engineering,1
+2015,FALL,329,0,6.5,2.8,Florida State University,Computer Engineering,1
+2015,FALL,328,98,0,3,Florida State University,Computer Engineering,1
+2015,FALL,319,0,5.5,1.8,Florida State University,Electrical Engineering,0
+2015,FALL,267,89,0,1.9,Florida State University,Electrical Engineering,0
+2015,FALL,289,0,5.5,2.3,Florida State University,Electrical Engineering,0
+2015,FALL,315,89,0,2.4,Florida State University,Electrical Engineering,0
+2015,FALL,292,0,5.5,2.2,Florida State University,Electrical Engineering,0
+2015,FALL,326,93,0,2.5,Florida State University,Electrical Engineering,1
+2015,FALL,330,0,6.5,2.3,Florida State University,Electrical Engineering,1
+2015,FALL,323,92,0,2.4,Florida State University,Electrical Engineering,1
+2015,FALL,312,0,7.5,2.4,Florida State University,Electrical Engineering,1
+2015,FALL,313,91,0,2.9,Florida State University,Electrical Engineering,1
+2015,FALL,314,0,5.5,1.8,Florida State University,Management Of Technology,0
+2015,FALL,299,84,0,2,Florida State University,Management Of Technology,0
+2015,FALL,294,0,6.5,2.3,Florida State University,Management Of Technology,0
+2015,FALL,293,83,0,2.2,Florida State University,Management Of Technology,0
+2015,FALL,266,0,7.5,1.6,Florida State University,Management Of Technology,0
+2015,FALL,312,94,0,2.4,Florida State University,Management Of Technology,1
+2015,FALL,324,0,6.5,2.7,Florida State University,Management Of Technology,1
+2015,FALL,324,95,0,2.2,Florida State University,Management Of Technology,1
+2015,FALL,329,0,6.5,3,Florida State University,Management Of Technology,1
+2015,FALL,317,100,0,2.8,Florida State University,Management Of Technology,1
+2015,FALL,281,0,7.5,1.7,Florida State University,Mechanical Engineering,0
+2015,FALL,305,84,0,1.8,Florida State University,Mechanical Engineering,0
+2015,FALL,262,0,6.5,2.3,Florida State University,Mechanical Engineering,0
+2015,FALL,286,82,0,2,Florida State University,Mechanical Engineering,0
+2015,FALL,316,0,6.5,1.8,Florida State University,Mechanical Engineering,0
+2015,FALL,327,96,0,2.2,Florida State University,Mechanical Engineering,1
+2015,FALL,318,0,6.5,2.1,Florida State University,Mechanical Engineering,1
+2015,FALL,322,91,0,3,Florida State University,Mechanical Engineering,1
+2015,FALL,311,0,7.5,2.2,Florida State University,Mechanical Engineering,1
+2015,FALL,319,94,0,3,Florida State University,Mechanical Engineering,1
+2015,FALL,280,0,5.5,2.5,George Mason University,Computer Science,0
+2015,FALL,292,88,0,1.9,George Mason University,Computer Science,0
+2015,FALL,276,0,6.5,2.5,George Mason University,Computer Science,0
+2015,FALL,310,83,0,2.1,George Mason University,Computer Science,0
+2015,FALL,301,0,5.5,2,George Mason University,Computer Science,0
+2015,FALL,324,99,0,2.2,George Mason University,Computer Science,1
+2015,FALL,329,0,6.5,2.3,George Mason University,Computer Science,1
+2015,FALL,316,92,0,2.6,George Mason University,Computer Science,1
+2015,FALL,320,0,6.5,2.6,George Mason University,Computer Science,1
+2015,FALL,327,91,0,2.1,George Mason University,Computer Science,1
+2015,FALL,298,0,5.5,1.8,George Mason University,Computer Engineering,0
+2015,FALL,270,83,0,2.2,George Mason University,Computer Engineering,0
+2015,FALL,300,0,6.5,2.2,George Mason University,Computer Engineering,0
+2015,FALL,272,88,0,2.3,George Mason University,Computer Engineering,0
+2015,FALL,290,0,6.5,2.4,George Mason University,Computer Engineering,0
+2015,FALL,329,96,0,2.3,George Mason University,Computer Engineering,1
+2015,FALL,319,0,7.5,2.6,George Mason University,Computer Engineering,1
+2015,FALL,311,99,0,2.2,George Mason University,Computer Engineering,1
+2015,FALL,329,0,7.5,2.8,George Mason University,Computer Engineering,1
+2015,FALL,319,100,0,2.8,George Mason University,Computer Engineering,1
+2015,FALL,261,0,6.5,1.7,George Mason University,Electrical Engineering,0
+2015,FALL,301,82,0,2,George Mason University,Electrical Engineering,0
+2015,FALL,291,0,5.5,2.5,George Mason University,Electrical Engineering,0
+2015,FALL,276,89,0,1.9,George Mason University,Electrical Engineering,0
+2015,FALL,295,0,6.5,2.1,George Mason University,Electrical Engineering,0
+2015,FALL,327,94,0,2.8,George Mason University,Electrical Engineering,1
+2015,FALL,318,0,7.5,2.4,George Mason University,Electrical Engineering,1
+2015,FALL,321,94,0,2.3,George Mason University,Electrical Engineering,1
+2015,FALL,329,0,7.5,2.6,George Mason University,Electrical Engineering,1
+2015,FALL,311,93,0,2.9,George Mason University,Electrical Engineering,1
+2015,FALL,309,0,6.5,2.2,George Mason University,Management Of Technology,0
+2015,FALL,269,81,0,1.8,George Mason University,Management Of Technology,0
+2015,FALL,263,0,6.5,1.9,George Mason University,Management Of Technology,0
+2015,FALL,306,84,0,2,George Mason University,Management Of Technology,0
+2015,FALL,301,0,6.5,2.2,George Mason University,Management Of Technology,0
+2015,FALL,315,95,0,3,George Mason University,Management Of Technology,1
+2015,FALL,327,0,7.5,2.6,George Mason University,Management Of Technology,1
+2015,FALL,318,96,0,2.1,George Mason University,Management Of Technology,1
+2015,FALL,312,0,6.5,2.1,George Mason University,Management Of Technology,1
+2015,FALL,326,100,0,2.1,George Mason University,Management Of Technology,1
+2015,FALL,318,0,5.5,1.6,George Mason University,Mechanical Engineering,0
+2015,FALL,296,86,0,2.4,George Mason University,Mechanical Engineering,0
+2015,FALL,281,0,5.5,1.7,George Mason University,Mechanical Engineering,0
+2015,FALL,287,81,0,1.6,George Mason University,Mechanical Engineering,0
+2015,FALL,263,0,6.5,2.1,George Mason University,Mechanical Engineering,0
+2015,FALL,314,96,0,2.5,George Mason University,Mechanical Engineering,1
+2015,FALL,318,0,6.5,2.6,George Mason University,Mechanical Engineering,1
+2015,FALL,319,99,0,2.2,George Mason University,Mechanical Engineering,1
+2015,FALL,330,0,7.5,2.2,George Mason University,Mechanical Engineering,1
+2015,FALL,330,98,0,2.1,George Mason University,Mechanical Engineering,1
+2015,FALL,263,0,5.5,2.2,University of Notre Dame,Computer Science,0
+2015,FALL,277,81,0,2.2,University of Notre Dame,Computer Science,0
+2015,FALL,320,0,6.5,1.7,University of Notre Dame,Computer Science,0
+2015,FALL,312,87,0,1.6,University of Notre Dame,Computer Science,0
+2015,FALL,289,0,5.5,1.9,University of Notre Dame,Computer Science,0
+2015,FALL,326,97,0,2.7,University of Notre Dame,Computer Science,1
+2015,FALL,321,0,6.5,2.1,University of Notre Dame,Computer Science,1
+2015,FALL,317,94,0,2.7,University of Notre Dame,Computer Science,1
+2015,FALL,324,0,6.5,2.4,University of Notre Dame,Computer Science,1
+2015,FALL,317,92,0,2.6,University of Notre Dame,Computer Science,1
+2015,FALL,274,0,7.5,1.8,University of Notre Dame,Computer Engineering,0
+2015,FALL,272,82,0,2.2,University of Notre Dame,Computer Engineering,0
+2015,FALL,294,0,7.5,1.9,University of Notre Dame,Computer Engineering,0
+2015,FALL,263,90,0,1.7,University of Notre Dame,Computer Engineering,0
+2015,FALL,273,0,7.5,1.6,University of Notre Dame,Computer Engineering,0
+2015,FALL,318,95,0,2.3,University of Notre Dame,Computer Engineering,1
+2015,FALL,313,0,6.5,2.9,University of Notre Dame,Computer Engineering,1
+2015,FALL,319,100,0,2.4,University of Notre Dame,Computer Engineering,1
+2015,FALL,326,0,7.5,2.3,University of Notre Dame,Computer Engineering,1
+2015,FALL,325,95,0,2.1,University of Notre Dame,Computer Engineering,1
+2015,FALL,293,0,7.5,2.2,University of Notre Dame,Electrical Engineering,0
+2015,FALL,299,88,0,1.8,University of Notre Dame,Electrical Engineering,0
+2015,FALL,311,0,7.5,1.7,University of Notre Dame,Electrical Engineering,0
+2015,FALL,296,81,0,2.3,University of Notre Dame,Electrical Engineering,0
+2015,FALL,272,0,6.5,2.5,University of Notre Dame,Electrical Engineering,0
+2015,FALL,329,92,0,2.9,University of Notre Dame,Electrical Engineering,1
+2015,FALL,315,0,7.5,2.6,University of Notre Dame,Electrical Engineering,1
+2015,FALL,328,98,0,3,University of Notre Dame,Electrical Engineering,1
+2015,FALL,315,0,6.5,2.3,University of Notre Dame,Electrical Engineering,1
+2015,FALL,320,92,0,2.9,University of Notre Dame,Electrical Engineering,1
+2015,FALL,274,0,6.5,2.2,University of Notre Dame,Management Of Technology,0
+2015,FALL,315,88,0,1.7,University of Notre Dame,Management Of Technology,0
+2015,FALL,305,0,7.5,1.7,University of Notre Dame,Management Of Technology,0
+2015,FALL,291,88,0,1.7,University of Notre Dame,Management Of Technology,0
+2015,FALL,302,0,7.5,2.4,University of Notre Dame,Management Of Technology,0
+2015,FALL,322,97,0,2.3,University of Notre Dame,Management Of Technology,1
+2015,FALL,315,0,7.5,2.1,University of Notre Dame,Management Of Technology,1
+2015,FALL,317,95,0,2.1,University of Notre Dame,Management Of Technology,1
+2015,FALL,314,0,7.5,2.5,University of Notre Dame,Management Of Technology,1
+2015,FALL,323,97,0,2.4,University of Notre Dame,Management Of Technology,1
+2015,FALL,284,0,6.5,2.5,University of Notre Dame,Mechanical Engineering,0
+2015,FALL,293,83,0,2,University of Notre Dame,Mechanical Engineering,0
+2015,FALL,279,0,6.5,2,University of Notre Dame,Mechanical Engineering,0
+2015,FALL,270,90,0,2.4,University of Notre Dame,Mechanical Engineering,0
+2015,FALL,279,0,7.5,1.8,University of Notre Dame,Mechanical Engineering,0
+2015,FALL,324,91,0,2.3,University of Notre Dame,Mechanical Engineering,1
+2015,FALL,330,0,6.5,2.5,University of Notre Dame,Mechanical Engineering,1
+2015,FALL,323,92,0,2.2,University of Notre Dame,Mechanical Engineering,1
+2015,FALL,314,0,6.5,2.9,University of Notre Dame,Mechanical Engineering,1
+2015,FALL,329,99,0,2.7,University of Notre Dame,Mechanical Engineering,1
+2015,FALL,315,0,5.5,2.3,"University at Buffalo, State University of New York",Computer Science,0
+2015,FALL,274,89,0,2.2,"University at Buffalo, State University of New York",Computer Science,0
+2015,FALL,319,0,5.5,1.8,"University at Buffalo, State University of New York",Computer Science,0
+2015,FALL,320,86,0,1.8,"University at Buffalo, State University of New York",Computer Science,0
+2015,FALL,291,0,6.5,1.7,"University at Buffalo, State University of New York",Computer Science,0
+2015,FALL,316,96,0,2.7,"University at Buffalo, State University of New York",Computer Science,1
+2015,FALL,313,0,6.5,2.7,"University at Buffalo, State University of New York",Computer Science,1
+2015,FALL,316,96,0,2.8,"University at Buffalo, State University of New York",Computer Science,1
+2015,FALL,320,0,7.5,2.3,"University at Buffalo, State University of New York",Computer Science,1
+2015,FALL,317,99,0,2.2,"University at Buffalo, State University of New York",Computer Science,1
+2015,FALL,274,0,5.5,2.1,"University at Buffalo, State University of New York",Computer Engineering,0
+2015,FALL,310,81,0,1.9,"University at Buffalo, State University of New York",Computer Engineering,0
+2015,FALL,271,0,5.5,2.3,"University at Buffalo, State University of New York",Computer Engineering,0
+2015,FALL,294,88,0,1.7,"University at Buffalo, State University of New York",Computer Engineering,0
+2015,FALL,309,0,7.5,1.8,"University at Buffalo, State University of New York",Computer Engineering,0
+2015,FALL,321,100,0,2.8,"University at Buffalo, State University of New York",Computer Engineering,1
+2015,FALL,330,0,7.5,2.5,"University at Buffalo, State University of New York",Computer Engineering,1
+2015,FALL,323,97,0,2.1,"University at Buffalo, State University of New York",Computer Engineering,1
+2015,FALL,324,0,7.5,2.4,"University at Buffalo, State University of New York",Computer Engineering,1
+2015,FALL,315,93,0,2.4,"University at Buffalo, State University of New York",Computer Engineering,1
+2015,FALL,266,0,5.5,1.6,"University at Buffalo, State University of New York",Electrical Engineering,0
+2015,FALL,317,85,0,2.3,"University at Buffalo, State University of New York",Electrical Engineering,0
+2015,FALL,317,0,7.5,1.8,"University at Buffalo, State University of New York",Electrical Engineering,0
+2015,FALL,280,90,0,2.1,"University at Buffalo, State University of New York",Electrical Engineering,0
+2015,FALL,282,0,5.5,2,"University at Buffalo, State University of New York",Electrical Engineering,0
+2015,FALL,330,95,0,2.3,"University at Buffalo, State University of New York",Electrical Engineering,1
+2015,FALL,327,0,7.5,2.3,"University at Buffalo, State University of New York",Electrical Engineering,1
+2015,FALL,312,92,0,2.1,"University at Buffalo, State University of New York",Electrical Engineering,1
+2015,FALL,320,0,7.5,2.4,"University at Buffalo, State University of New York",Electrical Engineering,1
+2015,FALL,324,92,0,2.5,"University at Buffalo, State University of New York",Electrical Engineering,1
+2015,FALL,282,0,6.5,2.3,"University at Buffalo, State University of New York",Management Of Technology,0
+2015,FALL,303,87,0,2.2,"University at Buffalo, State University of New York",Management Of Technology,0
+2015,FALL,282,0,7.5,1.8,"University at Buffalo, State University of New York",Management Of Technology,0
+2015,FALL,268,90,0,2.5,"University at Buffalo, State University of New York",Management Of Technology,0
+2015,FALL,314,0,5.5,1.8,"University at Buffalo, State University of New York",Management Of Technology,0
+2015,FALL,327,92,0,2.7,"University at Buffalo, State University of New York",Management Of Technology,1
+2015,FALL,312,0,7.5,2.4,"University at Buffalo, State University of New York",Management Of Technology,1
+2015,FALL,323,97,0,2.9,"University at Buffalo, State University of New York",Management Of Technology,1
+2015,FALL,312,0,7.5,3,"University at Buffalo, State University of New York",Management Of Technology,1
+2015,FALL,312,96,0,2.3,"University at Buffalo, State University of New York",Management Of Technology,1
+2015,FALL,296,0,5.5,2.5,"University at Buffalo, State University of New York",Mechanical Engineering,0
+2015,FALL,300,84,0,2.2,"University at Buffalo, State University of New York",Mechanical Engineering,0
+2015,FALL,283,0,7.5,1.6,"University at Buffalo, State University of New York",Mechanical Engineering,0
+2015,FALL,314,85,0,1.7,"University at Buffalo, State University of New York",Mechanical Engineering,0
+2015,FALL,308,0,7.5,1.6,"University at Buffalo, State University of New York",Mechanical Engineering,0
+2015,FALL,330,92,0,2.4,"University at Buffalo, State University of New York",Mechanical Engineering,1
+2015,FALL,330,0,7.5,2.2,"University at Buffalo, State University of New York",Mechanical Engineering,1
+2015,FALL,321,99,0,2.1,"University at Buffalo, State University of New York",Mechanical Engineering,1
+2015,FALL,315,0,6.5,2.2,"University at Buffalo, State University of New York",Mechanical Engineering,1
+2015,FALL,313,99,0,2.7,"University at Buffalo, State University of New York",Mechanical Engineering,1
+2015,FALL,270,0,7.5,1.6,University of Illinois at Chicago,Computer Science,0
+2015,FALL,297,78,0,1.8,University of Illinois at Chicago,Computer Science,0
+2015,FALL,284,0,7.5,2,University of Illinois at Chicago,Computer Science,0
+2015,FALL,281,82,0,1.7,University of Illinois at Chicago,Computer Science,0
+2015,FALL,304,0,6.5,1.7,University of Illinois at Chicago,Computer Science,0
+2015,FALL,314,81,0,1.7,University of Illinois at Chicago,Computer Science,1
+2015,FALL,301,0,5.5,2.3,University of Illinois at Chicago,Computer Science,1
+2015,FALL,308,85,0,2.5,University of Illinois at Chicago,Computer Science,1
+2015,FALL,312,0,6.5,1.6,University of Illinois at Chicago,Computer Science,1
+2015,FALL,300,89,0,2.1,University of Illinois at Chicago,Computer Science,1
+2015,FALL,291,0,5.5,1.6,University of Illinois at Chicago,Computer Engineering,0
+2015,FALL,315,83,0,1.9,University of Illinois at Chicago,Computer Engineering,0
+2015,FALL,263,0,7.5,1.7,University of Illinois at Chicago,Computer Engineering,0
+2015,FALL,304,80,0,1.8,University of Illinois at Chicago,Computer Engineering,0
+2015,FALL,268,0,5.5,1.7,University of Illinois at Chicago,Computer Engineering,0
+2015,FALL,310,88,0,2.5,University of Illinois at Chicago,Computer Engineering,1
+2015,FALL,313,0,5.5,2.2,University of Illinois at Chicago,Computer Engineering,1
+2015,FALL,308,81,0,2.2,University of Illinois at Chicago,Computer Engineering,1
+2015,FALL,302,0,6.5,1.6,University of Illinois at Chicago,Computer Engineering,1
+2015,FALL,314,85,0,2.2,University of Illinois at Chicago,Computer Engineering,1
+2015,FALL,295,0,5.5,1.9,University of Illinois at Chicago,Electrical Engineering,0
+2015,FALL,303,81,0,1.7,University of Illinois at Chicago,Electrical Engineering,0
+2015,FALL,298,0,7.5,1.9,University of Illinois at Chicago,Electrical Engineering,0
+2015,FALL,290,79,0,1.6,University of Illinois at Chicago,Electrical Engineering,0
+2015,FALL,282,0,5.5,1.6,University of Illinois at Chicago,Electrical Engineering,0
+2015,FALL,302,86,0,1.8,University of Illinois at Chicago,Electrical Engineering,1
+2015,FALL,312,0,5.5,1.9,University of Illinois at Chicago,Electrical Engineering,1
+2015,FALL,299,89,0,2.3,University of Illinois at Chicago,Electrical Engineering,1
+2015,FALL,309,0,6.5,2.4,University of Illinois at Chicago,Electrical Engineering,1
+2015,FALL,302,83,0,1.9,University of Illinois at Chicago,Electrical Engineering,1
+2015,FALL,310,0,6.5,1.7,University of Illinois at Chicago,Management Of Technology,0
+2015,FALL,308,76,0,1.9,University of Illinois at Chicago,Management Of Technology,0
+2015,FALL,313,0,7.5,1.9,University of Illinois at Chicago,Management Of Technology,0
+2015,FALL,276,82,0,1.6,University of Illinois at Chicago,Management Of Technology,0
+2015,FALL,266,0,5.5,1.6,University of Illinois at Chicago,Management Of Technology,0
+2015,FALL,311,90,0,1.8,University of Illinois at Chicago,Management Of Technology,1
+2015,FALL,296,0,6.5,2.3,University of Illinois at Chicago,Management Of Technology,1
+2015,FALL,305,89,0,1.9,University of Illinois at Chicago,Management Of Technology,1
+2015,FALL,305,0,5.5,2.3,University of Illinois at Chicago,Management Of Technology,1
+2015,FALL,308,84,0,2,University of Illinois at Chicago,Management Of Technology,1
+2015,FALL,261,0,6.5,1.7,University of Illinois at Chicago,Mechanical Engineering,0
+2015,FALL,301,85,0,1.6,University of Illinois at Chicago,Mechanical Engineering,0
+2015,FALL,301,0,7.5,1.7,University of Illinois at Chicago,Mechanical Engineering,0
+2015,FALL,309,84,0,1.7,University of Illinois at Chicago,Mechanical Engineering,0
+2015,FALL,318,0,6.5,1.8,University of Illinois at Chicago,Mechanical Engineering,0
+2015,FALL,313,89,0,2.2,University of Illinois at Chicago,Mechanical Engineering,1
+2015,FALL,299,0,5.5,2,University of Illinois at Chicago,Mechanical Engineering,1
+2015,FALL,306,83,0,2.3,University of Illinois at Chicago,Mechanical Engineering,1
+2015,FALL,309,0,6.5,1.6,University of Illinois at Chicago,Mechanical Engineering,1
+2015,FALL,308,84,0,2.2,University of Illinois at Chicago,Mechanical Engineering,1
+2015,FALL,264,0,5.5,1.7,Rochester Institute of Technology,Computer Science,0
+2015,FALL,265,80,0,2,Rochester Institute of Technology,Computer Science,0
+2015,FALL,306,0,7.5,1.9,Rochester Institute of Technology,Computer Science,0
+2015,FALL,315,85,0,1.9,Rochester Institute of Technology,Computer Science,0
+2015,FALL,299,0,6.5,1.9,Rochester Institute of Technology,Computer Science,0
+2015,FALL,308,81,0,1.8,Rochester Institute of Technology,Computer Science,1
+2015,FALL,313,0,5.5,2.4,Rochester Institute of Technology,Computer Science,1
+2015,FALL,308,88,0,1.7,Rochester Institute of Technology,Computer Science,1
+2015,FALL,315,0,5.5,1.9,Rochester Institute of Technology,Computer Science,1
+2015,FALL,307,90,0,1.6,Rochester Institute of Technology,Computer Science,1
+2015,FALL,289,0,6.5,1.7,Rochester Institute of Technology,Computer Engineering,0
+2015,FALL,307,81,0,2,Rochester Institute of Technology,Computer Engineering,0
+2015,FALL,265,0,5.5,1.9,Rochester Institute of Technology,Computer Engineering,0
+2015,FALL,296,84,0,1.9,Rochester Institute of Technology,Computer Engineering,0
+2015,FALL,310,0,6.5,1.8,Rochester Institute of Technology,Computer Engineering,0
+2015,FALL,299,90,0,1.9,Rochester Institute of Technology,Computer Engineering,1
+2015,FALL,298,0,5.5,1.6,Rochester Institute of Technology,Computer Engineering,1
+2015,FALL,300,86,0,1.6,Rochester Institute of Technology,Computer Engineering,1
+2015,FALL,313,0,6.5,2,Rochester Institute of Technology,Computer Engineering,1
+2015,FALL,297,88,0,1.7,Rochester Institute of Technology,Computer Engineering,1
+2015,FALL,270,0,5.5,1.7,Rochester Institute of Technology,Electrical Engineering,0
+2015,FALL,302,80,0,2,Rochester Institute of Technology,Electrical Engineering,0
+2015,FALL,280,0,5.5,2,Rochester Institute of Technology,Electrical Engineering,0
+2015,FALL,303,85,0,2,Rochester Institute of Technology,Electrical Engineering,0
+2015,FALL,277,0,7.5,1.6,Rochester Institute of Technology,Electrical Engineering,0
+2015,FALL,314,82,0,1.6,Rochester Institute of Technology,Electrical Engineering,1
+2015,FALL,307,0,6.5,2.5,Rochester Institute of Technology,Electrical Engineering,1
+2015,FALL,310,87,0,2.4,Rochester Institute of Technology,Electrical Engineering,1
+2015,FALL,309,0,5.5,2.3,Rochester Institute of Technology,Electrical Engineering,1
+2015,FALL,310,88,0,1.7,Rochester Institute of Technology,Electrical Engineering,1
+2015,FALL,306,0,5.5,1.8,Rochester Institute of Technology,Management Of Technology,0
+2015,FALL,290,76,0,1.7,Rochester Institute of Technology,Management Of Technology,0
+2015,FALL,320,0,6.5,2,Rochester Institute of Technology,Management Of Technology,0
+2015,FALL,269,78,0,1.6,Rochester Institute of Technology,Management Of Technology,0
+2015,FALL,304,0,5.5,2,Rochester Institute of Technology,Management Of Technology,0
+2015,FALL,308,90,0,2.2,Rochester Institute of Technology,Management Of Technology,1
+2015,FALL,301,0,6.5,2.2,Rochester Institute of Technology,Management Of Technology,1
+2015,FALL,306,87,0,2,Rochester Institute of Technology,Management Of Technology,1
+2015,FALL,314,0,6.5,2,Rochester Institute of Technology,Management Of Technology,1
+2015,FALL,309,86,0,2.4,Rochester Institute of Technology,Management Of Technology,1
+2015,FALL,310,0,5.5,1.9,Rochester Institute of Technology,Mechanical Engineering,0
+2015,FALL,278,78,0,1.7,Rochester Institute of Technology,Mechanical Engineering,0
+2015,FALL,304,0,7.5,1.9,Rochester Institute of Technology,Mechanical Engineering,0
+2015,FALL,308,82,0,2,Rochester Institute of Technology,Mechanical Engineering,0
+2015,FALL,280,0,5.5,1.7,Rochester Institute of Technology,Mechanical Engineering,0
+2015,FALL,306,88,0,2.4,Rochester Institute of Technology,Mechanical Engineering,1
+2015,FALL,304,0,6.5,1.6,Rochester Institute of Technology,Mechanical Engineering,1
+2015,FALL,315,86,0,2.4,Rochester Institute of Technology,Mechanical Engineering,1
+2015,FALL,305,0,6.5,2.1,Rochester Institute of Technology,Mechanical Engineering,1
+2015,FALL,299,81,0,2,Rochester Institute of Technology,Mechanical Engineering,1
+2015,FALL,311,0,5.5,2,San Diego State University,Computer Science,0
+2015,FALL,302,85,0,1.9,San Diego State University,Computer Science,0
+2015,FALL,306,0,5.5,1.9,San Diego State University,Computer Science,0
+2015,FALL,301,85,0,1.8,San Diego State University,Computer Science,0
+2015,FALL,315,0,7.5,1.7,San Diego State University,Computer Science,0
+2015,FALL,305,89,0,1.8,San Diego State University,Computer Science,1
+2015,FALL,298,0,5.5,2.4,San Diego State University,Computer Science,1
+2015,FALL,312,85,0,1.6,San Diego State University,Computer Science,1
+2015,FALL,310,0,5.5,1.6,San Diego State University,Computer Science,1
+2015,FALL,298,88,0,1.8,San Diego State University,Computer Science,1
+2015,FALL,284,0,6.5,2,San Diego State University,Computer Engineering,0
+2015,FALL,306,77,0,1.6,San Diego State University,Computer Engineering,0
+2015,FALL,276,0,7.5,1.8,San Diego State University,Computer Engineering,0
+2015,FALL,290,83,0,1.6,San Diego State University,Computer Engineering,0
+2015,FALL,294,0,6.5,1.6,San Diego State University,Computer Engineering,0
+2015,FALL,297,86,0,2.1,San Diego State University,Computer Engineering,1
+2015,FALL,311,0,5.5,2.5,San Diego State University,Computer Engineering,1
+2015,FALL,304,85,0,2.4,San Diego State University,Computer Engineering,1
+2015,FALL,313,0,5.5,1.7,San Diego State University,Computer Engineering,1
+2015,FALL,296,89,0,1.8,San Diego State University,Computer Engineering,1
+2015,FALL,316,0,6.5,1.8,San Diego State University,Electrical Engineering,0
+2015,FALL,309,83,0,1.6,San Diego State University,Electrical Engineering,0
+2015,FALL,303,0,7.5,1.8,San Diego State University,Electrical Engineering,0
+2015,FALL,267,81,0,2,San Diego State University,Electrical Engineering,0
+2015,FALL,264,0,7.5,1.8,San Diego State University,Electrical Engineering,0
+2015,FALL,297,84,0,2,San Diego State University,Electrical Engineering,1
+2015,FALL,313,0,6.5,2,San Diego State University,Electrical Engineering,1
+2015,FALL,304,90,0,1.8,San Diego State University,Electrical Engineering,1
+2015,FALL,312,0,5.5,2.1,San Diego State University,Electrical Engineering,1
+2015,FALL,312,88,0,2.3,San Diego State University,Electrical Engineering,1
+2015,FALL,309,0,6.5,1.8,San Diego State University,Management Of Technology,0
+2015,FALL,288,76,0,1.6,San Diego State University,Management Of Technology,0
+2015,FALL,316,0,5.5,1.6,San Diego State University,Management Of Technology,0
+2015,FALL,294,84,0,2,San Diego State University,Management Of Technology,0
+2015,FALL,293,0,7.5,1.9,San Diego State University,Management Of Technology,0
+2015,FALL,299,86,0,1.8,San Diego State University,Management Of Technology,1
+2015,FALL,307,0,5.5,1.6,San Diego State University,Management Of Technology,1
+2015,FALL,303,83,0,2.5,San Diego State University,Management Of Technology,1
+2015,FALL,312,0,5.5,2.5,San Diego State University,Management Of Technology,1
+2015,FALL,303,82,0,1.6,San Diego State University,Management Of Technology,1
+2015,FALL,318,0,7.5,1.7,San Diego State University,Mechanical Engineering,0
+2015,FALL,307,84,0,1.9,San Diego State University,Mechanical Engineering,0
+2015,FALL,312,0,5.5,1.9,San Diego State University,Mechanical Engineering,0
+2015,FALL,305,82,0,1.6,San Diego State University,Mechanical Engineering,0
+2015,FALL,316,0,5.5,1.9,San Diego State University,Mechanical Engineering,0
+2015,FALL,308,89,0,2,San Diego State University,Mechanical Engineering,1
+2015,FALL,302,0,5.5,2.4,San Diego State University,Mechanical Engineering,1
+2015,FALL,309,84,0,1.8,San Diego State University,Mechanical Engineering,1
+2015,FALL,312,0,6.5,1.6,San Diego State University,Mechanical Engineering,1
+2015,FALL,311,89,0,1.8,San Diego State University,Mechanical Engineering,1
+2015,FALL,280,0,6.5,1.6,"California State University, Fullerton",Computer Science,0
+2015,FALL,262,82,0,1.6,"California State University, Fullerton",Computer Science,0
+2015,FALL,313,0,6.5,1.9,"California State University, Fullerton",Computer Science,0
+2015,FALL,298,76,0,2,"California State University, Fullerton",Computer Science,0
+2015,FALL,297,0,5.5,1.6,"California State University, Fullerton",Computer Science,0
+2015,FALL,309,87,0,1.9,"California State University, Fullerton",Computer Science,1
+2015,FALL,315,0,6.5,2,"California State University, Fullerton",Computer Science,1
+2015,FALL,310,87,0,1.6,"California State University, Fullerton",Computer Science,1
+2015,FALL,304,0,6.5,2,"California State University, Fullerton",Computer Science,1
+2015,FALL,308,81,0,2.3,"California State University, Fullerton",Computer Science,1
+2015,FALL,290,0,6.5,1.7,"California State University, Fullerton",Computer Engineering,0
+2015,FALL,311,84,0,1.8,"California State University, Fullerton",Computer Engineering,0
+2015,FALL,285,0,7.5,1.8,"California State University, Fullerton",Computer Engineering,0
+2015,FALL,261,80,0,1.6,"California State University, Fullerton",Computer Engineering,0
+2015,FALL,320,0,7.5,1.9,"California State University, Fullerton",Computer Engineering,0
+2015,FALL,308,89,0,1.8,"California State University, Fullerton",Computer Engineering,1
+2015,FALL,308,0,6.5,2.3,"California State University, Fullerton",Computer Engineering,1
+2015,FALL,307,81,0,2,"California State University, Fullerton",Computer Engineering,1
+2015,FALL,308,0,5.5,2.3,"California State University, Fullerton",Computer Engineering,1
+2015,FALL,301,88,0,2.2,"California State University, Fullerton",Computer Engineering,1
+2015,FALL,283,0,7.5,1.6,"California State University, Fullerton",Electrical Engineering,0
+2015,FALL,292,78,0,1.9,"California State University, Fullerton",Electrical Engineering,0
+2015,FALL,286,0,5.5,1.8,"California State University, Fullerton",Electrical Engineering,0
+2015,FALL,302,85,0,1.6,"California State University, Fullerton",Electrical Engineering,0
+2015,FALL,288,0,6.5,1.6,"California State University, Fullerton",Electrical Engineering,0
+2015,FALL,307,88,0,1.8,"California State University, Fullerton",Electrical Engineering,1
+2015,FALL,305,0,5.5,1.8,"California State University, Fullerton",Electrical Engineering,1
+2015,FALL,312,86,0,2.3,"California State University, Fullerton",Electrical Engineering,1
+2015,FALL,314,0,5.5,1.9,"California State University, Fullerton",Electrical Engineering,1
+2015,FALL,301,86,0,2.1,"California State University, Fullerton",Electrical Engineering,1
+2015,FALL,306,0,7.5,1.6,"California State University, Fullerton",Management Of Technology,0
+2015,FALL,299,76,0,1.9,"California State University, Fullerton",Management Of Technology,0
+2015,FALL,307,0,5.5,1.6,"California State University, Fullerton",Management Of Technology,0
+2015,FALL,284,82,0,1.6,"California State University, Fullerton",Management Of Technology,0
+2015,FALL,301,0,6.5,2,"California State University, Fullerton",Management Of Technology,0
+2015,FALL,311,84,0,1.9,"California State University, Fullerton",Management Of Technology,1
+2015,FALL,300,0,6.5,1.9,"California State University, Fullerton",Management Of Technology,1
+2015,FALL,301,82,0,1.9,"California State University, Fullerton",Management Of Technology,1
+2015,FALL,304,0,6.5,2.5,"California State University, Fullerton",Management Of Technology,1
+2015,FALL,305,81,0,2.3,"California State University, Fullerton",Management Of Technology,1
+2015,FALL,269,0,7.5,1.6,"California State University, Fullerton",Mechanical Engineering,0
+2015,FALL,272,82,0,1.9,"California State University, Fullerton",Mechanical Engineering,0
+2015,FALL,311,0,5.5,1.6,"California State University, Fullerton",Mechanical Engineering,0
+2015,FALL,267,83,0,1.8,"California State University, Fullerton",Mechanical Engineering,0
+2015,FALL,293,0,7.5,1.8,"California State University, Fullerton",Mechanical Engineering,0
+2015,FALL,300,84,0,1.9,"California State University, Fullerton",Mechanical Engineering,1
+2015,FALL,311,0,5.5,2.2,"California State University, Fullerton",Mechanical Engineering,1
+2015,FALL,315,89,0,2.2,"California State University, Fullerton",Mechanical Engineering,1
+2015,FALL,302,0,5.5,1.6,"California State University, Fullerton",Mechanical Engineering,1
+2015,FALL,312,89,0,2,"California State University, Fullerton",Mechanical Engineering,1
+2015,FALL,301,0,7.5,1.6,The University of Texas at Dallas,Computer Science,0
+2015,FALL,293,79,0,1.8,The University of Texas at Dallas,Computer Science,0
+2015,FALL,283,0,5.5,1.8,The University of Texas at Dallas,Computer Science,0
+2015,FALL,298,81,0,1.9,The University of Texas at Dallas,Computer Science,0
+2015,FALL,267,0,5.5,1.9,The University of Texas at Dallas,Computer Science,0
+2015,FALL,299,88,0,1.6,The University of Texas at Dallas,Computer Science,1
+2015,FALL,310,0,6.5,2,The University of Texas at Dallas,Computer Science,1
+2015,FALL,315,81,0,2.3,The University of Texas at Dallas,Computer Science,1
+2015,FALL,308,0,5.5,1.8,The University of Texas at Dallas,Computer Science,1
+2015,FALL,308,89,0,1.7,The University of Texas at Dallas,Computer Science,1
+2015,FALL,310,0,7.5,1.7,The University of Texas at Dallas,Computer Engineering,0
+2015,FALL,320,84,0,1.8,The University of Texas at Dallas,Computer Engineering,0
+2015,FALL,269,0,5.5,2,The University of Texas at Dallas,Computer Engineering,0
+2015,FALL,315,80,0,2,The University of Texas at Dallas,Computer Engineering,0
+2015,FALL,307,0,5.5,2,The University of Texas at Dallas,Computer Engineering,0
+2015,FALL,313,87,0,1.8,The University of Texas at Dallas,Computer Engineering,1
+2015,FALL,306,0,6.5,2.1,The University of Texas at Dallas,Computer Engineering,1
+2015,FALL,315,84,0,2.5,The University of Texas at Dallas,Computer Engineering,1
+2015,FALL,303,0,6.5,2.1,The University of Texas at Dallas,Computer Engineering,1
+2015,FALL,306,81,0,2.1,The University of Texas at Dallas,Computer Engineering,1
+2015,FALL,309,0,5.5,1.9,The University of Texas at Dallas,Electrical Engineering,0
+2015,FALL,262,76,0,2,The University of Texas at Dallas,Electrical Engineering,0
+2015,FALL,311,0,5.5,2,The University of Texas at Dallas,Electrical Engineering,0
+2015,FALL,304,84,0,1.9,The University of Texas at Dallas,Electrical Engineering,0
+2015,FALL,306,0,6.5,1.8,The University of Texas at Dallas,Electrical Engineering,0
+2015,FALL,302,82,0,2.4,The University of Texas at Dallas,Electrical Engineering,1
+2015,FALL,305,0,6.5,2.5,The University of Texas at Dallas,Electrical Engineering,1
+2015,FALL,301,88,0,2.1,The University of Texas at Dallas,Electrical Engineering,1
+2015,FALL,306,0,5.5,2,The University of Texas at Dallas,Electrical Engineering,1
+2015,FALL,299,89,0,1.7,The University of Texas at Dallas,Electrical Engineering,1
+2015,FALL,314,0,7.5,1.9,The University of Texas at Dallas,Management Of Technology,0
+2015,FALL,298,77,0,1.9,The University of Texas at Dallas,Management Of Technology,0
+2015,FALL,301,0,7.5,1.7,The University of Texas at Dallas,Management Of Technology,0
+2015,FALL,294,84,0,1.8,The University of Texas at Dallas,Management Of Technology,0
+2015,FALL,264,0,7.5,1.9,The University of Texas at Dallas,Management Of Technology,0
+2015,FALL,296,84,0,1.8,The University of Texas at Dallas,Management Of Technology,1
+2015,FALL,308,0,5.5,1.9,The University of Texas at Dallas,Management Of Technology,1
+2015,FALL,305,82,0,1.8,The University of Texas at Dallas,Management Of Technology,1
+2015,FALL,297,0,6.5,1.9,The University of Texas at Dallas,Management Of Technology,1
+2015,FALL,311,87,0,2.1,The University of Texas at Dallas,Management Of Technology,1
+2015,FALL,302,0,6.5,2,The University of Texas at Dallas,Mechanical Engineering,0
+2015,FALL,294,84,0,1.9,The University of Texas at Dallas,Mechanical Engineering,0
+2015,FALL,316,0,7.5,1.6,The University of Texas at Dallas,Mechanical Engineering,0
+2015,FALL,261,79,0,1.6,The University of Texas at Dallas,Mechanical Engineering,0
+2015,FALL,261,0,7.5,2,The University of Texas at Dallas,Mechanical Engineering,0
+2015,FALL,299,85,0,1.8,The University of Texas at Dallas,Mechanical Engineering,1
+2015,FALL,310,0,6.5,2,The University of Texas at Dallas,Mechanical Engineering,1
+2015,FALL,302,90,0,2.5,The University of Texas at Dallas,Mechanical Engineering,1
+2015,FALL,314,0,5.5,2.1,The University of Texas at Dallas,Mechanical Engineering,1
+2015,FALL,305,82,0,2.1,The University of Texas at Dallas,Mechanical Engineering,1
+2015,FALL,285,0,5.5,1.9,West Virginia University,Computer Science,0
+2015,FALL,300,76,0,1.8,West Virginia University,Computer Science,0
+2015,FALL,264,0,7.5,1.6,West Virginia University,Computer Science,0
+2015,FALL,297,79,0,1.8,West Virginia University,Computer Science,0
+2015,FALL,265,0,5.5,1.7,West Virginia University,Computer Science,0
+2015,FALL,301,82,0,2.4,West Virginia University,Computer Science,1
+2015,FALL,307,0,5.5,1.7,West Virginia University,Computer Science,1
+2015,FALL,298,88,0,2.4,West Virginia University,Computer Science,1
+2015,FALL,299,0,5.5,2.3,West Virginia University,Computer Science,1
+2015,FALL,303,87,0,2,West Virginia University,Computer Science,1
+2015,FALL,310,0,7.5,1.7,West Virginia University,Computer Engineering,0
+2015,FALL,300,79,0,1.8,West Virginia University,Computer Engineering,0
+2015,FALL,319,0,5.5,1.6,West Virginia University,Computer Engineering,0
+2015,FALL,275,82,0,1.7,West Virginia University,Computer Engineering,0
+2015,FALL,261,0,7.5,1.7,West Virginia University,Computer Engineering,0
+2015,FALL,299,90,0,2.3,West Virginia University,Computer Engineering,1
+2015,FALL,315,0,6.5,1.9,West Virginia University,Computer Engineering,1
+2015,FALL,307,81,0,1.9,West Virginia University,Computer Engineering,1
+2015,FALL,297,0,6.5,2,West Virginia University,Computer Engineering,1
+2015,FALL,303,85,0,2.2,West Virginia University,Computer Engineering,1
+2015,FALL,273,0,5.5,2,West Virginia University,Electrical Engineering,0
+2015,FALL,287,81,0,1.6,West Virginia University,Electrical Engineering,0
+2015,FALL,311,0,5.5,1.7,West Virginia University,Electrical Engineering,0
+2015,FALL,270,79,0,2,West Virginia University,Electrical Engineering,0
+2015,FALL,263,0,6.5,2,West Virginia University,Electrical Engineering,0
+2015,FALL,313,83,0,2.5,West Virginia University,Electrical Engineering,1
+2015,FALL,307,0,6.5,2.5,West Virginia University,Electrical Engineering,1
+2015,FALL,310,87,0,2,West Virginia University,Electrical Engineering,1
+2015,FALL,296,0,6.5,1.6,West Virginia University,Electrical Engineering,1
+2015,FALL,301,84,0,2.3,West Virginia University,Electrical Engineering,1
+2015,FALL,298,0,5.5,1.7,West Virginia University,Management Of Technology,0
+2015,FALL,274,82,0,2,West Virginia University,Management Of Technology,0
+2015,FALL,282,0,6.5,2,West Virginia University,Management Of Technology,0
+2015,FALL,268,83,0,1.8,West Virginia University,Management Of Technology,0
+2015,FALL,318,0,7.5,1.7,West Virginia University,Management Of Technology,0
+2015,FALL,301,89,0,2.3,West Virginia University,Management Of Technology,1
+2015,FALL,310,0,5.5,1.6,West Virginia University,Management Of Technology,1
+2015,FALL,301,87,0,1.6,West Virginia University,Management Of Technology,1
+2015,FALL,305,0,5.5,1.9,West Virginia University,Management Of Technology,1
+2015,FALL,308,84,0,1.9,West Virginia University,Management Of Technology,1
+2015,FALL,317,0,6.5,1.8,West Virginia University,Mechanical Engineering,0
+2015,FALL,289,78,0,1.6,West Virginia University,Mechanical Engineering,0
+2015,FALL,287,0,6.5,1.7,West Virginia University,Mechanical Engineering,0
+2015,FALL,306,82,0,1.9,West Virginia University,Mechanical Engineering,0
+2015,FALL,285,0,6.5,1.7,West Virginia University,Mechanical Engineering,0
+2015,FALL,301,85,0,2.2,West Virginia University,Mechanical Engineering,1
+2015,FALL,305,0,5.5,2.3,West Virginia University,Mechanical Engineering,1
+2015,FALL,301,88,0,2.4,West Virginia University,Mechanical Engineering,1
+2015,FALL,313,0,6.5,1.7,West Virginia University,Mechanical Engineering,1
+2015,FALL,309,90,0,1.9,West Virginia University,Mechanical Engineering,1
+2015,FALL,265,0,7.5,1.6,"University of Maryland, Baltimore County",Computer Science,0
+2015,FALL,306,80,0,1.9,"University of Maryland, Baltimore County",Computer Science,0
+2015,FALL,299,0,5.5,1.9,"University of Maryland, Baltimore County",Computer Science,0
+2015,FALL,292,79,0,1.8,"University of Maryland, Baltimore County",Computer Science,0
+2015,FALL,287,0,6.5,1.9,"University of Maryland, Baltimore County",Computer Science,0
+2015,FALL,306,85,0,1.9,"University of Maryland, Baltimore County",Computer Science,1
+2015,FALL,298,0,6.5,1.8,"University of Maryland, Baltimore County",Computer Science,1
+2015,FALL,313,90,0,1.7,"University of Maryland, Baltimore County",Computer Science,1
+2015,FALL,296,0,5.5,2,"University of Maryland, Baltimore County",Computer Science,1
+2015,FALL,308,85,0,2.3,"University of Maryland, Baltimore County",Computer Science,1
+2015,FALL,269,0,5.5,1.9,"University of Maryland, Baltimore County",Computer Engineering,0
+2015,FALL,319,83,0,1.6,"University of Maryland, Baltimore County",Computer Engineering,0
+2015,FALL,275,0,5.5,2,"University of Maryland, Baltimore County",Computer Engineering,0
+2015,FALL,270,79,0,2,"University of Maryland, Baltimore County",Computer Engineering,0
+2015,FALL,261,0,5.5,2,"University of Maryland, Baltimore County",Computer Engineering,0
+2015,FALL,309,83,0,1.6,"University of Maryland, Baltimore County",Computer Engineering,1
+2015,FALL,311,0,6.5,2.4,"University of Maryland, Baltimore County",Computer Engineering,1
+2015,FALL,305,81,0,2.4,"University of Maryland, Baltimore County",Computer Engineering,1
+2015,FALL,309,0,6.5,2,"University of Maryland, Baltimore County",Computer Engineering,1
+2015,FALL,298,90,0,2.3,"University of Maryland, Baltimore County",Computer Engineering,1
+2015,FALL,273,0,7.5,1.6,"University of Maryland, Baltimore County",Electrical Engineering,0
+2015,FALL,281,85,0,1.8,"University of Maryland, Baltimore County",Electrical Engineering,0
+2015,FALL,264,0,6.5,1.9,"University of Maryland, Baltimore County",Electrical Engineering,0
+2015,FALL,298,80,0,1.7,"University of Maryland, Baltimore County",Electrical Engineering,0
+2015,FALL,312,0,6.5,1.9,"University of Maryland, Baltimore County",Electrical Engineering,0
+2015,FALL,307,83,0,1.9,"University of Maryland, Baltimore County",Electrical Engineering,1
+2015,FALL,298,0,5.5,2.3,"University of Maryland, Baltimore County",Electrical Engineering,1
+2015,FALL,305,87,0,1.8,"University of Maryland, Baltimore County",Electrical Engineering,1
+2015,FALL,301,0,5.5,2.3,"University of Maryland, Baltimore County",Electrical Engineering,1
+2015,FALL,315,86,0,2,"University of Maryland, Baltimore County",Electrical Engineering,1
+2015,FALL,287,0,6.5,1.8,"University of Maryland, Baltimore County",Management Of Technology,0
+2015,FALL,304,76,0,1.7,"University of Maryland, Baltimore County",Management Of Technology,0
+2015,FALL,303,0,6.5,1.9,"University of Maryland, Baltimore County",Management Of Technology,0
+2015,FALL,261,85,0,1.7,"University of Maryland, Baltimore County",Management Of Technology,0
+2015,FALL,286,0,7.5,1.9,"University of Maryland, Baltimore County",Management Of Technology,0
+2015,FALL,315,85,0,2,"University of Maryland, Baltimore County",Management Of Technology,1
+2015,FALL,311,0,6.5,2.3,"University of Maryland, Baltimore County",Management Of Technology,1
+2015,FALL,298,87,0,2.2,"University of Maryland, Baltimore County",Management Of Technology,1
+2015,FALL,313,0,5.5,2.4,"University of Maryland, Baltimore County",Management Of Technology,1
+2015,FALL,297,89,0,2.2,"University of Maryland, Baltimore County",Management Of Technology,1
+2015,FALL,273,0,7.5,1.9,"University of Maryland, Baltimore County",Mechanical Engineering,0
+2015,FALL,299,77,0,1.7,"University of Maryland, Baltimore County",Mechanical Engineering,0
+2015,FALL,284,0,5.5,1.9,"University of Maryland, Baltimore County",Mechanical Engineering,0
+2015,FALL,271,78,0,1.6,"University of Maryland, Baltimore County",Mechanical Engineering,0
+2015,FALL,288,0,6.5,2,"University of Maryland, Baltimore County",Mechanical Engineering,0
+2015,FALL,297,81,0,1.6,"University of Maryland, Baltimore County",Mechanical Engineering,1
+2015,FALL,302,0,5.5,1.6,"University of Maryland, Baltimore County",Mechanical Engineering,1
+2015,FALL,301,88,0,2.3,"University of Maryland, Baltimore County",Mechanical Engineering,1
+2015,FALL,307,0,5.5,2.4,"University of Maryland, Baltimore County",Mechanical Engineering,1
+2015,FALL,307,89,0,1.6,"University of Maryland, Baltimore County",Mechanical Engineering,1
+2015,FALL,264,0,7.5,1.7,Indiana University - Purdue University Indianapolis,Computer Science,0
+2015,FALL,266,85,0,1.9,Indiana University - Purdue University Indianapolis,Computer Science,0
+2015,FALL,273,0,6.5,1.9,Indiana University - Purdue University Indianapolis,Computer Science,0
+2015,FALL,272,85,0,1.7,Indiana University - Purdue University Indianapolis,Computer Science,0
+2015,FALL,266,0,6.5,2,Indiana University - Purdue University Indianapolis,Computer Science,0
+2015,FALL,277,90,0,1.7,Indiana University - Purdue University Indianapolis,Computer Science,1
+2015,FALL,280,0,5.5,2.4,Indiana University - Purdue University Indianapolis,Computer Science,1
+2015,FALL,283,90,0,1.9,Indiana University - Purdue University Indianapolis,Computer Science,1
+2015,FALL,292,0,5.5,2.5,Indiana University - Purdue University Indianapolis,Computer Science,1
+2015,FALL,290,84,0,2.1,Indiana University - Purdue University Indianapolis,Computer Science,1
+2015,FALL,266,0,6.5,1.8,Indiana University - Purdue University Indianapolis,Computer Engineering,0
+2015,FALL,263,83,0,1.9,Indiana University - Purdue University Indianapolis,Computer Engineering,0
+2015,FALL,270,0,7.5,1.9,Indiana University - Purdue University Indianapolis,Computer Engineering,0
+2015,FALL,270,81,0,1.6,Indiana University - Purdue University Indianapolis,Computer Engineering,0
+2015,FALL,271,0,6.5,1.9,Indiana University - Purdue University Indianapolis,Computer Engineering,0
+2015,FALL,278,88,0,1.8,Indiana University - Purdue University Indianapolis,Computer Engineering,1
+2015,FALL,300,0,5.5,2.1,Indiana University - Purdue University Indianapolis,Computer Engineering,1
+2015,FALL,273,89,0,2.1,Indiana University - Purdue University Indianapolis,Computer Engineering,1
+2015,FALL,288,0,6.5,2,Indiana University - Purdue University Indianapolis,Computer Engineering,1
+2015,FALL,282,83,0,1.9,Indiana University - Purdue University Indianapolis,Computer Engineering,1
+2015,FALL,270,0,5.5,2,Indiana University - Purdue University Indianapolis,Electrical Engineering,0
+2015,FALL,268,76,0,1.6,Indiana University - Purdue University Indianapolis,Electrical Engineering,0
+2015,FALL,264,0,7.5,1.6,Indiana University - Purdue University Indianapolis,Electrical Engineering,0
+2015,FALL,263,77,0,2,Indiana University - Purdue University Indianapolis,Electrical Engineering,0
+2015,FALL,263,0,7.5,1.9,Indiana University - Purdue University Indianapolis,Electrical Engineering,0
+2015,FALL,291,89,0,2,Indiana University - Purdue University Indianapolis,Electrical Engineering,1
+2015,FALL,284,0,5.5,2.5,Indiana University - Purdue University Indianapolis,Electrical Engineering,1
+2015,FALL,279,90,0,2.5,Indiana University - Purdue University Indianapolis,Electrical Engineering,1
+2015,FALL,297,0,5.5,1.6,Indiana University - Purdue University Indianapolis,Electrical Engineering,1
+2015,FALL,273,89,0,2.4,Indiana University - Purdue University Indianapolis,Electrical Engineering,1
+2015,FALL,273,0,6.5,1.7,Indiana University - Purdue University Indianapolis,Management Of Technology,0
+2015,FALL,275,76,0,1.6,Indiana University - Purdue University Indianapolis,Management Of Technology,0
+2015,FALL,265,0,7.5,1.9,Indiana University - Purdue University Indianapolis,Management Of Technology,0
+2015,FALL,263,83,0,1.7,Indiana University - Purdue University Indianapolis,Management Of Technology,0
+2015,FALL,262,0,5.5,2,Indiana University - Purdue University Indianapolis,Management Of Technology,0
+2015,FALL,295,89,0,2.4,Indiana University - Purdue University Indianapolis,Management Of Technology,1
+2015,FALL,271,0,5.5,2.4,Indiana University - Purdue University Indianapolis,Management Of Technology,1
+2015,FALL,295,87,0,2.4,Indiana University - Purdue University Indianapolis,Management Of Technology,1
+2015,FALL,274,0,6.5,1.6,Indiana University - Purdue University Indianapolis,Management Of Technology,1
+2015,FALL,275,84,0,1.7,Indiana University - Purdue University Indianapolis,Management Of Technology,1
+2015,FALL,266,0,6.5,1.9,Indiana University - Purdue University Indianapolis,Mechanical Engineering,0
+2015,FALL,265,78,0,1.9,Indiana University - Purdue University Indianapolis,Mechanical Engineering,0
+2015,FALL,272,0,7.5,1.9,Indiana University - Purdue University Indianapolis,Mechanical Engineering,0
+2015,FALL,269,82,0,2,Indiana University - Purdue University Indianapolis,Mechanical Engineering,0
+2015,FALL,267,0,6.5,1.6,Indiana University - Purdue University Indianapolis,Mechanical Engineering,0
+2015,FALL,278,82,0,1.7,Indiana University - Purdue University Indianapolis,Mechanical Engineering,1
+2015,FALL,291,0,5.5,2.5,Indiana University - Purdue University Indianapolis,Mechanical Engineering,1
+2015,FALL,280,88,0,2.4,Indiana University - Purdue University Indianapolis,Mechanical Engineering,1
+2015,FALL,292,0,5.5,2.1,Indiana University - Purdue University Indianapolis,Mechanical Engineering,1
+2015,FALL,290,82,0,2.3,Indiana University - Purdue University Indianapolis,Mechanical Engineering,1
+2015,FALL,261,0,5.5,1.8,University of Arkansas,Computer Science,0
+2015,FALL,265,85,0,1.8,University of Arkansas,Computer Science,0
+2015,FALL,267,0,6.5,1.9,University of Arkansas,Computer Science,0
+2015,FALL,269,76,0,1.8,University of Arkansas,Computer Science,0
+2015,FALL,265,0,6.5,1.6,University of Arkansas,Computer Science,0
+2015,FALL,297,83,0,1.7,University of Arkansas,Computer Science,1
+2015,FALL,297,0,5.5,1.6,University of Arkansas,Computer Science,1
+2015,FALL,289,83,0,2.5,University of Arkansas,Computer Science,1
+2015,FALL,289,0,6.5,2.2,University of Arkansas,Computer Science,1
+2015,FALL,299,89,0,2.1,University of Arkansas,Computer Science,1
+2015,FALL,265,0,7.5,1.6,University of Arkansas,Computer Engineering,0
+2015,FALL,265,82,0,1.8,University of Arkansas,Computer Engineering,0
+2015,FALL,265,0,6.5,2,University of Arkansas,Computer Engineering,0
+2015,FALL,261,82,0,1.9,University of Arkansas,Computer Engineering,0
+2015,FALL,275,0,7.5,1.7,University of Arkansas,Computer Engineering,0
+2015,FALL,287,84,0,2.4,University of Arkansas,Computer Engineering,1
+2015,FALL,279,0,6.5,1.8,University of Arkansas,Computer Engineering,1
+2015,FALL,296,90,0,2,University of Arkansas,Computer Engineering,1
+2015,FALL,285,0,5.5,1.9,University of Arkansas,Computer Engineering,1
+2015,FALL,278,85,0,2.2,University of Arkansas,Computer Engineering,1
+2015,FALL,268,0,7.5,1.6,University of Arkansas,Electrical Engineering,0
+2015,FALL,261,79,0,1.8,University of Arkansas,Electrical Engineering,0
+2015,FALL,272,0,6.5,2,University of Arkansas,Electrical Engineering,0
+2015,FALL,263,79,0,1.8,University of Arkansas,Electrical Engineering,0
+2015,FALL,261,0,6.5,2,University of Arkansas,Electrical Engineering,0
+2015,FALL,274,86,0,2.1,University of Arkansas,Electrical Engineering,1
+2015,FALL,281,0,5.5,2.1,University of Arkansas,Electrical Engineering,1
+2015,FALL,286,81,0,2.2,University of Arkansas,Electrical Engineering,1
+2015,FALL,282,0,5.5,1.8,University of Arkansas,Electrical Engineering,1
+2015,FALL,283,89,0,1.6,University of Arkansas,Electrical Engineering,1
+2015,FALL,268,0,5.5,1.8,University of Arkansas,Management Of Technology,0
+2015,FALL,263,77,0,2,University of Arkansas,Management Of Technology,0
+2015,FALL,273,0,6.5,1.9,University of Arkansas,Management Of Technology,0
+2015,FALL,274,76,0,1.9,University of Arkansas,Management Of Technology,0
+2015,FALL,261,0,5.5,1.7,University of Arkansas,Management Of Technology,0
+2015,FALL,275,88,0,2.3,University of Arkansas,Management Of Technology,1
+2015,FALL,296,0,6.5,1.7,University of Arkansas,Management Of Technology,1
+2015,FALL,272,84,0,2.1,University of Arkansas,Management Of Technology,1
+2015,FALL,290,0,5.5,2.1,University of Arkansas,Management Of Technology,1
+2015,FALL,281,90,0,2.2,University of Arkansas,Management Of Technology,1
+2015,FALL,270,0,7.5,1.8,University of Arkansas,Mechanical Engineering,0
+2015,FALL,264,77,0,1.7,University of Arkansas,Mechanical Engineering,0
+2015,FALL,268,0,5.5,1.9,University of Arkansas,Mechanical Engineering,0
+2015,FALL,269,78,0,1.8,University of Arkansas,Mechanical Engineering,0
+2015,FALL,273,0,7.5,1.6,University of Arkansas,Mechanical Engineering,0
+2015,FALL,275,87,0,2.4,University of Arkansas,Mechanical Engineering,1
+2015,FALL,279,0,5.5,2,University of Arkansas,Mechanical Engineering,1
+2015,FALL,284,87,0,2.5,University of Arkansas,Mechanical Engineering,1
+2015,FALL,297,0,5.5,1.9,University of Arkansas,Mechanical Engineering,1
+2015,FALL,277,82,0,2.2,University of Arkansas,Mechanical Engineering,1
+2015,FALL,273,0,5.5,2,Stony Brook University,Computer Science,0
+2015,FALL,269,78,0,2,Stony Brook University,Computer Science,0
+2015,FALL,273,0,5.5,2,Stony Brook University,Computer Science,0
+2015,FALL,274,76,0,1.9,Stony Brook University,Computer Science,0
+2015,FALL,269,0,5.5,1.8,Stony Brook University,Computer Science,0
+2015,FALL,275,85,0,2,Stony Brook University,Computer Science,1
+2015,FALL,287,0,5.5,1.7,Stony Brook University,Computer Science,1
+2015,FALL,281,87,0,1.8,Stony Brook University,Computer Science,1
+2015,FALL,281,0,5.5,1.9,Stony Brook University,Computer Science,1
+2015,FALL,298,81,0,2.3,Stony Brook University,Computer Science,1
+2015,FALL,261,0,5.5,1.6,Stony Brook University,Computer Engineering,0
+2015,FALL,265,77,0,1.9,Stony Brook University,Computer Engineering,0
+2015,FALL,270,0,7.5,2,Stony Brook University,Computer Engineering,0
+2015,FALL,264,77,0,1.9,Stony Brook University,Computer Engineering,0
+2015,FALL,272,0,7.5,1.6,Stony Brook University,Computer Engineering,0
+2015,FALL,286,86,0,2.5,Stony Brook University,Computer Engineering,1
+2015,FALL,271,0,5.5,1.7,Stony Brook University,Computer Engineering,1
+2015,FALL,283,90,0,2.2,Stony Brook University,Computer Engineering,1
+2015,FALL,275,0,5.5,1.9,Stony Brook University,Computer Engineering,1
+2015,FALL,278,89,0,2.1,Stony Brook University,Computer Engineering,1
+2015,FALL,271,0,7.5,1.8,Stony Brook University,Electrical Engineering,0
+2015,FALL,274,80,0,1.9,Stony Brook University,Electrical Engineering,0
+2015,FALL,275,0,6.5,1.8,Stony Brook University,Electrical Engineering,0
+2015,FALL,270,80,0,1.7,Stony Brook University,Electrical Engineering,0
+2015,FALL,268,0,6.5,2,Stony Brook University,Electrical Engineering,0
+2015,FALL,289,83,0,2.2,Stony Brook University,Electrical Engineering,1
+2015,FALL,276,0,5.5,2.1,Stony Brook University,Electrical Engineering,1
+2015,FALL,291,84,0,1.9,Stony Brook University,Electrical Engineering,1
+2015,FALL,280,0,6.5,2.5,Stony Brook University,Electrical Engineering,1
+2015,FALL,272,89,0,2.3,Stony Brook University,Electrical Engineering,1
+2015,FALL,275,0,7.5,1.6,Stony Brook University,Management Of Technology,0
+2015,FALL,262,85,0,1.7,Stony Brook University,Management Of Technology,0
+2015,FALL,266,0,6.5,1.7,Stony Brook University,Management Of Technology,0
+2015,FALL,271,81,0,1.7,Stony Brook University,Management Of Technology,0
+2015,FALL,266,0,7.5,1.8,Stony Brook University,Management Of Technology,0
+2015,FALL,295,89,0,1.7,Stony Brook University,Management Of Technology,1
+2015,FALL,289,0,6.5,2.4,Stony Brook University,Management Of Technology,1
+2015,FALL,281,85,0,1.9,Stony Brook University,Management Of Technology,1
+2015,FALL,291,0,6.5,2.5,Stony Brook University,Management Of Technology,1
+2015,FALL,299,88,0,1.9,Stony Brook University,Management Of Technology,1
+2015,FALL,272,0,5.5,1.9,Stony Brook University,Mechanical Engineering,0
+2015,FALL,272,77,0,1.6,Stony Brook University,Mechanical Engineering,0
+2015,FALL,264,0,5.5,1.7,Stony Brook University,Mechanical Engineering,0
+2015,FALL,263,83,0,1.6,Stony Brook University,Mechanical Engineering,0
+2015,FALL,270,0,5.5,1.8,Stony Brook University,Mechanical Engineering,0
+2015,FALL,288,88,0,2.4,Stony Brook University,Mechanical Engineering,1
+2015,FALL,279,0,5.5,1.7,Stony Brook University,Mechanical Engineering,1
+2015,FALL,282,82,0,1.9,Stony Brook University,Mechanical Engineering,1
+2015,FALL,278,0,6.5,2.2,Stony Brook University,Mechanical Engineering,1
+2015,FALL,290,83,0,2.5,Stony Brook University,Mechanical Engineering,1
+2015,FALL,274,0,7.5,1.8,"California State University, Long Beach",Computer Science,0
+2015,FALL,261,82,0,2,"California State University, Long Beach",Computer Science,0
+2015,FALL,273,0,7.5,1.6,"California State University, Long Beach",Computer Science,0
+2015,FALL,266,79,0,1.6,"California State University, Long Beach",Computer Science,0
+2015,FALL,269,0,5.5,1.8,"California State University, Long Beach",Computer Science,0
+2015,FALL,294,87,0,2,"California State University, Long Beach",Computer Science,1
+2015,FALL,300,0,6.5,1.7,"California State University, Long Beach",Computer Science,1
+2015,FALL,291,82,0,1.7,"California State University, Long Beach",Computer Science,1
+2015,FALL,281,0,6.5,1.6,"California State University, Long Beach",Computer Science,1
+2015,FALL,275,88,0,2,"California State University, Long Beach",Computer Science,1
+2015,FALL,270,0,6.5,1.9,"California State University, Long Beach",Computer Engineering,0
+2015,FALL,263,81,0,1.9,"California State University, Long Beach",Computer Engineering,0
+2015,FALL,270,0,7.5,1.7,"California State University, Long Beach",Computer Engineering,0
+2015,FALL,275,78,0,1.6,"California State University, Long Beach",Computer Engineering,0
+2015,FALL,266,0,7.5,1.6,"California State University, Long Beach",Computer Engineering,0
+2015,FALL,283,86,0,2.5,"California State University, Long Beach",Computer Engineering,1
+2015,FALL,283,0,6.5,1.9,"California State University, Long Beach",Computer Engineering,1
+2015,FALL,287,83,0,1.9,"California State University, Long Beach",Computer Engineering,1
+2015,FALL,275,0,5.5,1.6,"California State University, Long Beach",Computer Engineering,1
+2015,FALL,274,88,0,2,"California State University, Long Beach",Computer Engineering,1
+2015,FALL,269,0,6.5,1.6,"California State University, Long Beach",Electrical Engineering,0
+2015,FALL,273,77,0,2,"California State University, Long Beach",Electrical Engineering,0
+2015,FALL,262,0,7.5,2,"California State University, Long Beach",Electrical Engineering,0
+2015,FALL,272,78,0,1.8,"California State University, Long Beach",Electrical Engineering,0
+2015,FALL,267,0,6.5,1.6,"California State University, Long Beach",Electrical Engineering,0
+2015,FALL,288,85,0,2.1,"California State University, Long Beach",Electrical Engineering,1
+2015,FALL,274,0,6.5,2.4,"California State University, Long Beach",Electrical Engineering,1
+2015,FALL,291,82,0,2.4,"California State University, Long Beach",Electrical Engineering,1
+2015,FALL,281,0,5.5,2.4,"California State University, Long Beach",Electrical Engineering,1
+2015,FALL,295,82,0,1.6,"California State University, Long Beach",Electrical Engineering,1
+2015,FALL,268,0,5.5,1.9,"California State University, Long Beach",Management Of Technology,0
+2015,FALL,265,79,0,1.8,"California State University, Long Beach",Management Of Technology,0
+2015,FALL,274,0,7.5,1.9,"California State University, Long Beach",Management Of Technology,0
+2015,FALL,268,77,0,1.9,"California State University, Long Beach",Management Of Technology,0
+2015,FALL,262,0,6.5,1.8,"California State University, Long Beach",Management Of Technology,0
+2015,FALL,298,83,0,1.6,"California State University, Long Beach",Management Of Technology,1
+2015,FALL,277,0,6.5,1.6,"California State University, Long Beach",Management Of Technology,1
+2015,FALL,289,88,0,1.9,"California State University, Long Beach",Management Of Technology,1
+2015,FALL,277,0,5.5,1.8,"California State University, Long Beach",Management Of Technology,1
+2015,FALL,287,82,0,2.3,"California State University, Long Beach",Management Of Technology,1
+2015,FALL,275,0,7.5,1.9,"California State University, Long Beach",Mechanical Engineering,0
+2015,FALL,275,80,0,1.9,"California State University, Long Beach",Mechanical Engineering,0
+2015,FALL,265,0,5.5,1.8,"California State University, Long Beach",Mechanical Engineering,0
+2015,FALL,268,83,0,1.8,"California State University, Long Beach",Mechanical Engineering,0
+2015,FALL,273,0,5.5,1.7,"California State University, Long Beach",Mechanical Engineering,0
+2015,FALL,298,87,0,1.8,"California State University, Long Beach",Mechanical Engineering,1
+2015,FALL,290,0,6.5,2,"California State University, Long Beach",Mechanical Engineering,1
+2015,FALL,280,84,0,2.4,"California State University, Long Beach",Mechanical Engineering,1
+2015,FALL,289,0,5.5,1.6,"California State University, Long Beach",Mechanical Engineering,1
+2015,FALL,290,88,0,2.5,"California State University, Long Beach",Mechanical Engineering,1
+2015,FALL,268,0,6.5,1.8,Northeastern University,Computer Science,0
+2015,FALL,266,76,0,1.7,Northeastern University,Computer Science,0
+2015,FALL,271,0,7.5,1.6,Northeastern University,Computer Science,0
+2015,FALL,262,81,0,1.6,Northeastern University,Computer Science,0
+2015,FALL,268,0,7.5,1.9,Northeastern University,Computer Science,0
+2015,FALL,280,84,0,1.9,Northeastern University,Computer Science,1
+2015,FALL,275,0,5.5,1.8,Northeastern University,Computer Science,1
+2015,FALL,273,84,0,2.3,Northeastern University,Computer Science,1
+2015,FALL,298,0,6.5,1.9,Northeastern University,Computer Science,1
+2015,FALL,274,83,0,2.4,Northeastern University,Computer Science,1
+2015,FALL,273,0,7.5,1.8,Northeastern University,Computer Engineering,0
+2015,FALL,268,78,0,1.8,Northeastern University,Computer Engineering,0
+2015,FALL,273,0,7.5,1.6,Northeastern University,Computer Engineering,0
+2015,FALL,266,77,0,1.9,Northeastern University,Computer Engineering,0
+2015,FALL,274,0,7.5,1.8,Northeastern University,Computer Engineering,0
+2015,FALL,286,88,0,2.5,Northeastern University,Computer Engineering,1
+2015,FALL,272,0,6.5,2.5,Northeastern University,Computer Engineering,1
+2015,FALL,278,85,0,2.4,Northeastern University,Computer Engineering,1
+2015,FALL,282,0,5.5,2.1,Northeastern University,Computer Engineering,1
+2015,FALL,282,83,0,2,Northeastern University,Computer Engineering,1
+2015,FALL,273,0,6.5,2,Northeastern University,Electrical Engineering,0
+2015,FALL,270,82,0,1.7,Northeastern University,Electrical Engineering,0
+2015,FALL,264,0,6.5,2,Northeastern University,Electrical Engineering,0
+2015,FALL,261,79,0,2,Northeastern University,Electrical Engineering,0
+2015,FALL,267,0,5.5,2,Northeastern University,Electrical Engineering,0
+2015,FALL,278,83,0,1.9,Northeastern University,Electrical Engineering,1
+2015,FALL,284,0,5.5,1.9,Northeastern University,Electrical Engineering,1
+2015,FALL,272,89,0,2.1,Northeastern University,Electrical Engineering,1
+2015,FALL,298,0,5.5,2.1,Northeastern University,Electrical Engineering,1
+2015,FALL,294,82,0,1.9,Northeastern University,Electrical Engineering,1
+2015,FALL,263,0,7.5,1.8,Northeastern University,Management Of Technology,0
+2015,FALL,267,80,0,1.9,Northeastern University,Management Of Technology,0
+2015,FALL,272,0,5.5,1.8,Northeastern University,Management Of Technology,0
+2015,FALL,261,80,0,2,Northeastern University,Management Of Technology,0
+2015,FALL,267,0,5.5,2,Northeastern University,Management Of Technology,0
+2015,FALL,299,86,0,2.5,Northeastern University,Management Of Technology,1
+2015,FALL,283,0,5.5,1.7,Northeastern University,Management Of Technology,1
+2015,FALL,283,85,0,2.4,Northeastern University,Management Of Technology,1
+2015,FALL,294,0,6.5,1.6,Northeastern University,Management Of Technology,1
+2015,FALL,285,87,0,1.9,Northeastern University,Management Of Technology,1
+2015,FALL,267,0,6.5,2,Northeastern University,Mechanical Engineering,0
+2015,FALL,275,77,0,1.6,Northeastern University,Mechanical Engineering,0
+2015,FALL,272,0,7.5,1.6,Northeastern University,Mechanical Engineering,0
+2015,FALL,269,82,0,1.7,Northeastern University,Mechanical Engineering,0
+2015,FALL,268,0,5.5,1.7,Northeastern University,Mechanical Engineering,0
+2015,FALL,293,84,0,1.7,Northeastern University,Mechanical Engineering,1
+2015,FALL,282,0,6.5,2.2,Northeastern University,Mechanical Engineering,1
+2015,FALL,273,89,0,2.1,Northeastern University,Mechanical Engineering,1
+2015,FALL,284,0,5.5,1.9,Northeastern University,Mechanical Engineering,1
+2015,FALL,289,85,0,1.6,Northeastern University,Mechanical Engineering,1
+2015,FALL,264,0,5.5,1.7,New Jersey Institute of Technology,Computer Science,0
+2015,FALL,265,77,0,1.8,New Jersey Institute of Technology,Computer Science,0
+2015,FALL,275,0,6.5,1.6,New Jersey Institute of Technology,Computer Science,0
+2015,FALL,270,76,0,1.9,New Jersey Institute of Technology,Computer Science,0
+2015,FALL,274,0,7.5,1.9,New Jersey Institute of Technology,Computer Science,0
+2015,FALL,295,84,0,2.2,New Jersey Institute of Technology,Computer Science,1
+2015,FALL,300,0,5.5,2.3,New Jersey Institute of Technology,Computer Science,1
+2015,FALL,294,86,0,2.1,New Jersey Institute of Technology,Computer Science,1
+2015,FALL,292,0,5.5,2.3,New Jersey Institute of Technology,Computer Science,1
+2015,FALL,286,87,0,2.4,New Jersey Institute of Technology,Computer Science,1
+2015,FALL,261,0,5.5,1.7,New Jersey Institute of Technology,Computer Engineering,0
+2015,FALL,261,76,0,1.7,New Jersey Institute of Technology,Computer Engineering,0
+2015,FALL,265,0,6.5,1.9,New Jersey Institute of Technology,Computer Engineering,0
+2015,FALL,263,82,0,1.6,New Jersey Institute of Technology,Computer Engineering,0
+2015,FALL,267,0,5.5,1.7,New Jersey Institute of Technology,Computer Engineering,0
+2015,FALL,278,84,0,1.6,New Jersey Institute of Technology,Computer Engineering,1
+2015,FALL,282,0,6.5,2.5,New Jersey Institute of Technology,Computer Engineering,1
+2015,FALL,278,82,0,1.7,New Jersey Institute of Technology,Computer Engineering,1
+2015,FALL,284,0,5.5,2.1,New Jersey Institute of Technology,Computer Engineering,1
+2015,FALL,281,83,0,2,New Jersey Institute of Technology,Computer Engineering,1
+2015,FALL,265,0,7.5,1.9,New Jersey Institute of Technology,Electrical Engineering,0
+2015,FALL,273,79,0,1.7,New Jersey Institute of Technology,Electrical Engineering,0
+2015,FALL,262,0,7.5,1.7,New Jersey Institute of Technology,Electrical Engineering,0
+2015,FALL,261,81,0,1.6,New Jersey Institute of Technology,Electrical Engineering,0
+2015,FALL,273,0,7.5,1.9,New Jersey Institute of Technology,Electrical Engineering,0
+2015,FALL,289,85,0,2.4,New Jersey Institute of Technology,Electrical Engineering,1
+2015,FALL,292,0,6.5,2.5,New Jersey Institute of Technology,Electrical Engineering,1
+2015,FALL,282,90,0,2.1,New Jersey Institute of Technology,Electrical Engineering,1
+2015,FALL,273,0,5.5,2.5,New Jersey Institute of Technology,Electrical Engineering,1
+2015,FALL,280,82,0,2.1,New Jersey Institute of Technology,Electrical Engineering,1
+2015,FALL,272,0,5.5,2,New Jersey Institute of Technology,Management Of Technology,0
+2015,FALL,272,79,0,1.8,New Jersey Institute of Technology,Management Of Technology,0
+2015,FALL,261,0,6.5,1.6,New Jersey Institute of Technology,Management Of Technology,0
+2015,FALL,264,77,0,1.6,New Jersey Institute of Technology,Management Of Technology,0
+2015,FALL,267,0,7.5,2,New Jersey Institute of Technology,Management Of Technology,0
+2015,FALL,273,86,0,2.4,New Jersey Institute of Technology,Management Of Technology,1
+2015,FALL,275,0,5.5,2.3,New Jersey Institute of Technology,Management Of Technology,1
+2015,FALL,281,82,0,1.9,New Jersey Institute of Technology,Management Of Technology,1
+2015,FALL,287,0,5.5,2,New Jersey Institute of Technology,Management Of Technology,1
+2015,FALL,272,90,0,2,New Jersey Institute of Technology,Management Of Technology,1
+2015,FALL,274,0,5.5,1.6,New Jersey Institute of Technology,Mechanical Engineering,0
+2015,FALL,263,78,0,1.8,New Jersey Institute of Technology,Mechanical Engineering,0
+2015,FALL,262,0,7.5,1.8,New Jersey Institute of Technology,Mechanical Engineering,0
+2015,FALL,269,83,0,1.8,New Jersey Institute of Technology,Mechanical Engineering,0
+2015,FALL,266,0,6.5,1.8,New Jersey Institute of Technology,Mechanical Engineering,0
+2015,FALL,284,83,0,1.9,New Jersey Institute of Technology,Mechanical Engineering,1
+2015,FALL,299,0,6.5,2.2,New Jersey Institute of Technology,Mechanical Engineering,1
+2015,FALL,272,90,0,2.3,New Jersey Institute of Technology,Mechanical Engineering,1
+2015,FALL,282,0,6.5,2.1,New Jersey Institute of Technology,Mechanical Engineering,1
+2015,FALL,274,83,0,1.8,New Jersey Institute of Technology,Mechanical Engineering,1
+2015,FALL,264,0,7.5,1.6,University of North Carolina at Charlotte,Computer Science,0
+2015,FALL,271,84,0,1.6,University of North Carolina at Charlotte,Computer Science,0
+2015,FALL,266,0,6.5,1.9,University of North Carolina at Charlotte,Computer Science,0
+2015,FALL,261,85,0,1.8,University of North Carolina at Charlotte,Computer Science,0
+2015,FALL,268,0,6.5,1.7,University of North Carolina at Charlotte,Computer Science,0
+2015,FALL,281,88,0,2.4,University of North Carolina at Charlotte,Computer Science,1
+2015,FALL,284,0,5.5,1.8,University of North Carolina at Charlotte,Computer Science,1
+2015,FALL,290,87,0,2.2,University of North Carolina at Charlotte,Computer Science,1
+2015,FALL,297,0,6.5,1.8,University of North Carolina at Charlotte,Computer Science,1
+2015,FALL,290,87,0,1.6,University of North Carolina at Charlotte,Computer Science,1
+2015,FALL,268,0,7.5,1.8,University of North Carolina at Charlotte,Computer Engineering,0
+2015,FALL,269,84,0,1.6,University of North Carolina at Charlotte,Computer Engineering,0
+2015,FALL,266,0,6.5,1.6,University of North Carolina at Charlotte,Computer Engineering,0
+2015,FALL,265,81,0,2,University of North Carolina at Charlotte,Computer Engineering,0
+2015,FALL,263,0,7.5,1.7,University of North Carolina at Charlotte,Computer Engineering,0
+2015,FALL,274,84,0,2,University of North Carolina at Charlotte,Computer Engineering,1
+2015,FALL,293,0,5.5,1.9,University of North Carolina at Charlotte,Computer Engineering,1
+2015,FALL,282,86,0,2.1,University of North Carolina at Charlotte,Computer Engineering,1
+2015,FALL,278,0,6.5,1.7,University of North Carolina at Charlotte,Computer Engineering,1
+2015,FALL,278,85,0,2.5,University of North Carolina at Charlotte,Computer Engineering,1
+2015,FALL,261,0,6.5,2,University of North Carolina at Charlotte,Electrical Engineering,0
+2015,FALL,270,84,0,1.7,University of North Carolina at Charlotte,Electrical Engineering,0
+2015,FALL,270,0,5.5,2,University of North Carolina at Charlotte,Electrical Engineering,0
+2015,FALL,267,77,0,1.8,University of North Carolina at Charlotte,Electrical Engineering,0
+2015,FALL,266,0,7.5,1.6,University of North Carolina at Charlotte,Electrical Engineering,0
+2015,FALL,276,82,0,1.9,University of North Carolina at Charlotte,Electrical Engineering,1
+2015,FALL,290,0,6.5,2.3,University of North Carolina at Charlotte,Electrical Engineering,1
+2015,FALL,273,90,0,2.1,University of North Carolina at Charlotte,Electrical Engineering,1
+2015,FALL,277,0,6.5,2.1,University of North Carolina at Charlotte,Electrical Engineering,1
+2015,FALL,295,85,0,1.7,University of North Carolina at Charlotte,Electrical Engineering,1
+2015,FALL,264,0,7.5,1.7,University of North Carolina at Charlotte,Management Of Technology,0
+2015,FALL,263,85,0,1.8,University of North Carolina at Charlotte,Management Of Technology,0
+2015,FALL,262,0,6.5,1.7,University of North Carolina at Charlotte,Management Of Technology,0
+2015,FALL,274,79,0,1.7,University of North Carolina at Charlotte,Management Of Technology,0
+2015,FALL,262,0,6.5,2,University of North Carolina at Charlotte,Management Of Technology,0
+2015,FALL,273,89,0,2,University of North Carolina at Charlotte,Management Of Technology,1
+2015,FALL,276,0,6.5,2,University of North Carolina at Charlotte,Management Of Technology,1
+2015,FALL,296,83,0,1.8,University of North Carolina at Charlotte,Management Of Technology,1
+2015,FALL,299,0,6.5,2.1,University of North Carolina at Charlotte,Management Of Technology,1
+2015,FALL,273,83,0,2.1,University of North Carolina at Charlotte,Management Of Technology,1
+2015,FALL,263,0,6.5,1.7,University of North Carolina at Charlotte,Mechanical Engineering,0
+2015,FALL,275,84,0,1.8,University of North Carolina at Charlotte,Mechanical Engineering,0
+2015,FALL,263,0,5.5,1.6,University of North Carolina at Charlotte,Mechanical Engineering,0
+2015,FALL,272,76,0,1.8,University of North Carolina at Charlotte,Mechanical Engineering,0
+2015,FALL,271,0,5.5,1.9,University of North Carolina at Charlotte,Mechanical Engineering,0
+2015,FALL,272,89,0,1.7,University of North Carolina at Charlotte,Mechanical Engineering,1
+2015,FALL,292,0,6.5,2.5,University of North Carolina at Charlotte,Mechanical Engineering,1
+2015,FALL,272,87,0,1.8,University of North Carolina at Charlotte,Mechanical Engineering,1
+2015,FALL,299,0,6.5,2.5,University of North Carolina at Charlotte,Mechanical Engineering,1
+2015,FALL,280,90,0,1.8,University of North Carolina at Charlotte,Mechanical Engineering,1

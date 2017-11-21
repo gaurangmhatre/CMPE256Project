@@ -1,0 +1,501 @@
+Admit,Reject,Department,GRE,Quants,Verbal,TOEFL,IELTS,GPA,Work_Ex
+NA,Massachusetts Institute of Technology,Computer Science,290,150,140,0,5.5,2.6,12
+Massachusetts Institute of Technology,NA,Computer Science,323,165,158,110,0,3.2,1
+NA,Massachusetts Institute of Technology,Computer Engineering,289,148,141,0,7.5,1.7,14
+Massachusetts Institute of Technology,NA,Computer Engineering,328,168,160,0,8.5,3.9,2
+NA,Massachusetts Institute of Technology,Electrical Engineering,318,162,156,99,0,1.7,13
+Massachusetts Institute of Technology,NA,Electrical Engineering,337,170,167,0,8.5,3.9,16
+NA,Massachusetts Institute of Technology,Management Of Technology,263,136,127,94,0,2.3,8
+Massachusetts Institute of Technology,NA,Management Of Technology,331,167,164,117,0,3.5,4
+NA,Massachusetts Institute of Technology,Mechanical Engineering,279,141,138,0,7.5,1.8,24
+Massachusetts Institute of Technology,NA,Mechanical Engineering,338,170,168,0,8.5,3.6,11
+NA,Stanford University,Computer Science,312,160,152,0,7.5,3.5,3
+Stanford University,NA,Computer Science,321,163,158,117,0,3.8,22
+NA,Stanford University,Computer Engineering,298,150,148,0,5.5,2,17
+Stanford University,NA,Computer Engineering,337,170,167,0,6.5,3.9,16
+NA,Stanford University,Electrical Engineering,304,157,147,0,5.5,2.5,9
+Stanford University,NA,Electrical Engineering,325,166,159,119,0,4,4
+NA,Stanford University,Management Of Technology,305,157,148,0,5.5,2.8,15
+Stanford University,NA,Management Of Technology,328,169,159,103,0,3.4,19
+NA,Stanford University,Mechanical Engineering,314,162,152,87,0,3,14
+Stanford University,NA,Mechanical Engineering,327,166,161,0,9.5,4,17
+NA,Cornell University,Computer Science,275,139,136,90,0,1.6,9
+Cornell University,NA,Computer Science,338,170,168,0,7.5,3.9,3
+NA,Cornell University,Computer Engineering,283,145,138,93,0,1.6,18
+Cornell University,NA,Computer Engineering,331,170,161,114,0,4,23
+NA,Cornell University,Electrical Engineering,296,151,145,0,6.5,2.3,24
+Cornell University,NA,Electrical Engineering,338,170,168,114,0,3.3,15
+NA,Cornell University,Management Of Technology,293,149,144,0,6.5,1.8,2
+Cornell University,NA,Management Of Technology,323,166,157,113,0,3.7,12
+NA,Cornell University,Mechanical Engineering,312,158,154,87,0,2.6,4
+Cornell University,NA,Mechanical Engineering,322,165,157,0,9.5,3.3,1
+NA,Purdue University,Computer Science,269,139,130,102,0,1.7,1
+Purdue University,NA,Computer Science,333,171,162,0,7.5,3.3,22
+NA,Purdue University,Computer Engineering,314,160,154,0,6.5,2.7,18
+Purdue University,NA,Computer Engineering,328,165,163,105,0,3.4,10
+NA,Purdue University,Electrical Engineering,300,152,148,0,5.5,2.5,12
+Purdue University,NA,Electrical Engineering,327,168,159,0,6.5,3.2,14
+NA,Purdue University,Management Of Technology,281,146,135,0,7.5,3.5,8
+Purdue University,NA,Management Of Technology,331,168,163,109,0,3.1,24
+NA,Purdue University,Mechanical Engineering,274,141,133,99,0,3.4,4
+Purdue University,NA,Mechanical Engineering,326,168,158,0,8.5,3.5,3
+NA,Penn State University,Computer Science,304,154,150,0,6.5,1.7,7
+Penn State University,NA,Computer Science,336,170,166,113,0,3.4,6
+NA,Penn State University,Computer Engineering,297,155,142,93,0,2.1,23
+Penn State University,NA,Computer Engineering,328,165,163,0,7.5,4,16
+NA,Penn State University,Electrical Engineering,303,158,145,0,6.5,2.8,17
+Penn State University,NA,Electrical Engineering,329,169,160,112,0,3.3,12
+NA,Penn State University,Management Of Technology,317,163,154,0,5.5,2.2,11
+Penn State University,NA,Management Of Technology,326,167,159,105,0,3.3,20
+NA,Penn State University,Mechanical Engineering,271,141,130,100,0,2.8,20
+Penn State University,NA,Mechanical Engineering,327,168,159,0,8.5,3.3,17
+NA,"University of California, Los Angeles",Computer Science,288,148,140,0,5.5,1.9,6
+"University of California, Los Angeles",NA,Computer Science,321,162,159,0,6.5,3.5,15
+NA,"University of California, Los Angeles",Computer Engineering,310,160,150,0,6.5,2.1,22
+"University of California, Los Angeles",NA,Computer Engineering,335,169,166,104,0,3.5,5
+NA,"University of California, Los Angeles",Electrical Engineering,261,132,129,0,7.5,3.2,14
+"University of California, Los Angeles",NA,Electrical Engineering,323,166,157,116,0,3.7,20
+NA,"University of California, Los Angeles",Management Of Technology,293,148,145,85,0,2.7,13
+"University of California, Los Angeles",NA,Management Of Technology,335,170,165,0,8.5,3.4,17
+NA,"University of California, Los Angeles",Mechanical Engineering,282,146,136,0,5.5,2,24
+"University of California, Los Angeles",NA,Mechanical Engineering,332,171,161,109,0,3.1,12
+NA,The University of Texas at Austin,Computer Science,275,141,134,0,7.5,1.6,17
+The University of Texas at Austin,NA,Computer Science,333,170,163,0,6.5,3.6,15
+NA,The University of Texas at Austin,Computer Engineering,269,138,131,0,6.5,2.2,16
+The University of Texas at Austin,NA,Computer Engineering,332,170,162,0,8.5,4,6
+NA,The University of Texas at Austin,Electrical Engineering,319,165,154,89,0,1.8,1
+The University of Texas at Austin,NA,Electrical Engineering,327,170,157,0,6.5,3.5,2
+NA,The University of Texas at Austin,Management Of Technology,316,163,153,0,5.5,2.3,18
+The University of Texas at Austin,NA,Management Of Technology,336,171,165,109,0,4,6
+NA,The University of Texas at Austin,Mechanical Engineering,270,141,129,92,0,3,24
+The University of Texas at Austin,NA,Mechanical Engineering,333,170,163,102,0,3.5,11
+NA,University of Pennsylvania,Computer Science,316,162,154,83,0,3.4,10
+University of Pennsylvania,NA,Computer Science,327,169,158,0,8.5,3.9,21
+NA,University of Pennsylvania,Computer Engineering,315,164,151,83,0,2.5,11
+University of Pennsylvania,NA,Computer Engineering,337,170,167,108,0,3.3,20
+NA,University of Pennsylvania,Electrical Engineering,263,135,128,0,7.5,3.1,4
+University of Pennsylvania,NA,Electrical Engineering,330,166,164,0,8.5,3.1,6
+NA,University of Pennsylvania,Management Of Technology,266,136,130,0,6.5,2.7,10
+University of Pennsylvania,NA,Management Of Technology,336,170,166,0,7.5,3.2,1
+NA,University of Pennsylvania,Mechanical Engineering,265,135,130,83,0,2.7,11
+University of Pennsylvania,NA,Mechanical Engineering,336,174,162,120,0,3.7,9
+NA,New York University,Computer Science,289,151,138,102,0,3.4,14
+New York University,NA,Computer Science,327,169,158,0,7.5,3.8,4
+NA,New York University,Computer Engineering,319,165,154,0,7.5,1.7,23
+New York University,NA,Computer Engineering,327,169,158,120,0,3.9,15
+NA,New York University,Electrical Engineering,314,158,156,96,0,2.3,11
+New York University,NA,Electrical Engineering,324,166,158,117,0,3.1,23
+NA,New York University,Management Of Technology,266,134,132,0,5.5,3.4,20
+New York University,NA,Management Of Technology,328,168,160,111,0,3.1,1
+NA,New York University,Mechanical Engineering,282,144,138,99,0,3.2,4
+New York University,NA,Mechanical Engineering,336,170,166,110,0,3.9,1
+NA,Carnegie Mellon University,Computer Science,270,139,131,83,0,3.2,14
+Carnegie Mellon University,NA,Computer Science,330,169,161,104,0,3.7,21
+NA,Carnegie Mellon University,Computer Engineering,278,142,136,0,7.5,3.4,9
+Carnegie Mellon University,NA,Computer Engineering,334,169,165,0,9.5,3.9,17
+NA,Carnegie Mellon University,Electrical Engineering,296,154,142,0,7.5,2.7,18
+Carnegie Mellon University,NA,Electrical Engineering,330,167,163,0,9.5,3.1,7
+NA,Carnegie Mellon University,Management Of Technology,282,146,136,91,0,2.6,13
+Carnegie Mellon University,NA,Management Of Technology,330,167,163,119,0,3.4,7
+NA,Carnegie Mellon University,Mechanical Engineering,292,151,141,87,0,2.8,2
+Carnegie Mellon University,NA,Mechanical Engineering,323,163,160,103,0,3.5,20
+NA,"University of California, Davis",Computer Science,304,156,148,0,6.5,3.3,3
+"University of California, Davis",NA,Computer Science,327,165,162,101,0,3.8,22
+NA,"University of California, Davis",Computer Engineering,284,145,139,0,7.5,3.4,17
+"University of California, Davis",NA,Computer Engineering,324,166,158,111,0,3.8,19
+NA,"University of California, Davis",Electrical Engineering,318,161,157,102,0,2.4,12
+"University of California, Davis",NA,Electrical Engineering,328,165,163,118,0,3.7,12
+NA,"University of California, Davis",Management Of Technology,305,158,147,0,5.5,3.2,14
+"University of California, Davis",NA,Management Of Technology,333,170,163,0,9.5,3.9,10
+NA,"University of California, Davis",Mechanical Engineering,302,153,149,100,0,2.3,19
+"University of California, Davis",NA,Mechanical Engineering,327,170,157,0,8.5,4,6
+NA,"University of California, San Diego",Computer Science,267,140,127,0,6.5,3.3,17
+"University of California, San Diego",NA,Computer Science,324,163,161,0,6.5,3.5,1
+NA,"University of California, San Diego",Computer Engineering,289,148,141,0,7.5,1.7,12
+"University of California, San Diego",NA,Computer Engineering,323,166,157,108,0,3.7,11
+NA,"University of California, San Diego",Electrical Engineering,283,146,137,102,0,2.1,19
+"University of California, San Diego",NA,Electrical Engineering,326,169,157,0,7.5,3.4,15
+NA,"University of California, San Diego",Management Of Technology,281,143,138,102,0,2.4,18
+"University of California, San Diego",NA,Management Of Technology,334,170,164,111,0,3.7,17
+NA,"University of California, San Diego",Mechanical Engineering,271,139,132,0,7.5,2,23
+"University of California, San Diego",NA,Mechanical Engineering,321,162,159,0,7.5,3.1,9
+NA,University of Illinois at Urbana-Champaign,Computer Science,271,142,129,93,0,2.9,5
+University of Illinois at Urbana-Champaign,NA,Computer Science,328,166,162,110,0,3.4,24
+NA,University of Illinois at Urbana-Champaign,Computer Engineering,303,158,145,91,0,3.3,3
+University of Illinois at Urbana-Champaign,NA,Computer Engineering,328,166,162,0,6.5,3.4,15
+NA,University of Illinois at Urbana-Champaign,Electrical Engineering,309,157,152,83,0,1.8,22
+University of Illinois at Urbana-Champaign,NA,Electrical Engineering,337,170,167,120,0,3.2,18
+NA,University of Illinois at Urbana-Champaign,Management Of Technology,287,147,140,0,6.5,2.1,23
+University of Illinois at Urbana-Champaign,NA,Management Of Technology,325,167,158,0,9.5,4,23
+NA,University of Illinois at Urbana-Champaign,Mechanical Engineering,271,138,133,0,6.5,2.9,23
+University of Illinois at Urbana-Champaign,NA,Mechanical Engineering,335,170,165,0,9.5,3.7,9
+NA,University of Florida,Computer Science,318,164,154,94,0,3.3,13
+University of Florida,NA,Computer Science,326,165,161,0,9.5,3.8,13
+NA,University of Florida,Computer Engineering,305,159,146,0,5.5,2.7,15
+University of Florida,NA,Computer Engineering,322,166,156,0,7.5,4,2
+NA,University of Florida,Electrical Engineering,269,137,132,100,0,1.9,11
+University of Florida,NA,Electrical Engineering,335,170,165,111,0,3.9,5
+NA,University of Florida,Management Of Technology,279,145,134,92,0,2.9,16
+University of Florida,NA,Management Of Technology,329,170,159,108,0,3.8,8
+NA,University of Florida,Mechanical Engineering,302,156,146,0,6.5,3.4,11
+University of Florida,NA,Mechanical Engineering,335,170,165,0,8.5,3.2,1
+NA,"University of California, Irvine",Computer Science,307,160,147,0,7.5,2,23
+"University of California, Irvine",NA,Computer Science,338,170,168,0,6.5,3.6,5
+NA,"University of California, Irvine",Computer Engineering,285,147,138,0,5.5,2.3,12
+"University of California, Irvine",NA,Computer Engineering,330,170,160,102,0,3.1,23
+NA,"University of California, Irvine",Electrical Engineering,266,138,128,0,5.5,2.6,14
+"University of California, Irvine",NA,Electrical Engineering,337,170,167,0,6.5,3.4,7
+NA,"University of California, Irvine",Management Of Technology,305,154,151,88,0,2.1,2
+"University of California, Irvine",NA,Management Of Technology,330,169,161,0,8.5,3.6,19
+NA,"University of California, Irvine",Mechanical Engineering,308,156,152,0,5.5,2.4,4
+"University of California, Irvine",NA,Mechanical Engineering,333,172,161,0,6.5,3.9,15
+NA,University of Maryland,Computer Science,261,134,127,89,0,3.1,24
+University of Maryland,NA,Computer Science,323,165,158,105,0,3.8,5
+NA,University of Maryland,Computer Engineering,284,146,138,81,0,2.9,2
+University of Maryland,NA,Computer Engineering,337,170,167,0,7.5,3.2,17
+NA,University of Maryland,Electrical Engineering,316,159,157,98,0,3.3,4
+University of Maryland,NA,Electrical Engineering,328,170,158,0,7.5,3.2,14
+NA,University of Maryland,Management Of Technology,293,151,142,0,7.5,2.7,6
+University of Maryland,NA,Management Of Technology,337,170,167,0,8.5,3.1,14
+NA,University of Maryland,Mechanical Engineering,298,152,146,84,0,2.7,17
+University of Maryland,NA,Mechanical Engineering,330,169,161,0,8.5,3.1,9
+NA,University of Southern California,Computer Science,310,157,153,102,0,3.3,24
+University of Southern California,NA,Computer Science,325,169,156,105,0,3.7,21
+NA,University of Southern California,Computer Engineering,318,164,154,101,0,2.3,11
+University of Southern California,NA,Computer Engineering,338,170,168,115,0,3.8,14
+NA,University of Southern California,Electrical Engineering,312,160,152,0,6.5,1.8,20
+University of Southern California,NA,Electrical Engineering,323,167,156,105,0,3.6,4
+NA,University of Southern California,Management Of Technology,298,154,144,83,0,1.6,22
+University of Southern California,NA,Management Of Technology,340,170,170,0,7.5,3.1,17
+NA,University of Southern California,Mechanical Engineering,288,145,143,96,0,1.9,5
+University of Southern California,NA,Mechanical Engineering,321,165,156,107,0,3.4,22
+NA,University of North Carolina at Chapel Hill,Computer Science,305,159,146,83,0,2.3,9
+University of North Carolina at Chapel Hill,NA,Computer Science,336,170,166,0,9.5,3.3,22
+NA,University of North Carolina at Chapel Hill,Computer Engineering,280,141,139,0,6.5,3.4,3
+University of North Carolina at Chapel Hill,NA,Computer Engineering,330,168,162,119,0,3.4,8
+NA,University of North Carolina at Chapel Hill,Electrical Engineering,291,148,143,99,0,2.9,19
+University of North Carolina at Chapel Hill,NA,Electrical Engineering,338,170,168,118,0,3.8,2
+NA,University of North Carolina at Chapel Hill,Management Of Technology,285,149,136,0,5.5,2.3,11
+University of North Carolina at Chapel Hill,NA,Management Of Technology,333,170,163,0,8.5,3.3,14
+NA,University of North Carolina at Chapel Hill,Mechanical Engineering,272,140,132,87,0,3.3,7
+University of North Carolina at Chapel Hill,NA,Mechanical Engineering,335,170,165,0,9.5,3.6,3
+NA,Arizona State University,Computer Science,263,134,129,0,5.5,2.1,22
+Arizona State University,NA,Computer Science,323,164,159,102,0,3.5,15
+NA,Arizona State University,Computer Engineering,296,149,147,99,0,2.7,23
+Arizona State University,NA,Computer Engineering,339,170,169,109,0,3.2,22
+NA,Arizona State University,Electrical Engineering,297,152,145,95,0,1.9,2
+Arizona State University,NA,Electrical Engineering,337,170,167,0,9.5,3.4,20
+NA,Arizona State University,Management Of Technology,281,143,138,85,0,3.2,4
+Arizona State University,NA,Management Of Technology,331,168,163,0,6.5,3.9,16
+NA,Arizona State University,Mechanical Engineering,269,139,130,0,6.5,2.1,12
+Arizona State University,NA,Mechanical Engineering,333,168,165,0,7.5,3.3,8
+NA,Texas A&M University,Computer Science,306,156,150,95,0,3.4,22
+Texas A&M University,NA,Computer Science,337,170,167,0,8.5,3.9,20
+NA,Texas A&M University,Computer Engineering,291,147,144,0,5.5,3.1,15
+Texas A&M University,NA,Computer Engineering,325,168,157,0,9.5,3.9,3
+NA,Texas A&M University,Electrical Engineering,282,147,135,89,0,1.9,2
+Texas A&M University,NA,Electrical Engineering,334,170,164,0,6.5,3.7,1
+NA,Texas A&M University,Management Of Technology,267,139,128,89,0,1.7,2
+Texas A&M University,NA,Management Of Technology,331,168,163,0,8.5,3.7,13
+NA,Texas A&M University,Mechanical Engineering,313,162,151,0,7.5,3.3,16
+Texas A&M University,NA,Mechanical Engineering,340,170,170,0,8.5,3.9,10
+NA,University of Arizona,Computer Science,311,157,154,0,7.5,2.5,12
+University of Arizona,NA,Computer Science,323,167,156,0,7.5,3.5,14
+NA,University of Arizona,Computer Engineering,288,147,141,102,0,3.1,9
+University of Arizona,NA,Computer Engineering,337,170,167,0,7.5,3.8,5
+NA,University of Arizona,Electrical Engineering,285,149,136,93,0,1.7,17
+University of Arizona,NA,Electrical Engineering,321,164,157,0,6.5,3.3,14
+NA,University of Arizona,Management Of Technology,267,136,131,99,0,3.2,22
+University of Arizona,NA,Management Of Technology,329,170,159,0,6.5,3.2,6
+NA,University of Arizona,Mechanical Engineering,305,156,149,0,6.5,1.7,21
+University of Arizona,NA,Mechanical Engineering,336,170,166,106,0,4,24
+NA,North Carolina State University,Computer Science,275,144,131,0,5.5,1.6,20
+North Carolina State University,NA,Computer Science,327,169,158,120,0,3.3,5
+NA,North Carolina State University,Computer Engineering,278,143,135,0,7.5,3.4,5
+North Carolina State University,NA,Computer Engineering,338,170,168,0,6.5,4,10
+NA,North Carolina State University,Electrical Engineering,320,166,154,96,0,2.7,15
+North Carolina State University,NA,Electrical Engineering,337,170,167,105,0,3.8,18
+NA,North Carolina State University,Management Of Technology,281,145,136,93,0,2.9,24
+North Carolina State University,NA,Management Of Technology,329,171,158,118,0,3.5,9
+NA,North Carolina State University,Mechanical Engineering,320,164,156,100,0,3.5,22
+North Carolina State University,NA,Mechanical Engineering,328,168,160,108,0,3.5,1
+NA,Syracuse University,Computer Science,311,159,152,93,0,3.1,10
+Syracuse University,NA,Computer Science,333,169,164,0,6.5,3.3,16
+NA,Syracuse University,Computer Engineering,266,138,128,0,6.5,2.1,2
+Syracuse University,NA,Computer Engineering,328,169,159,105,0,3.8,5
+NA,Syracuse University,Electrical Engineering,262,134,128,0,5.5,2.3,14
+Syracuse University,NA,Electrical Engineering,337,170,167,105,0,3.5,2
+NA,Syracuse University,Management Of Technology,286,144,142,0,5.5,2,3
+Syracuse University,NA,Management Of Technology,336,173,163,0,8.5,3.5,21
+NA,Syracuse University,Mechanical Engineering,288,148,140,0,7.5,3.2,1
+Syracuse University,NA,Mechanical Engineering,327,166,161,0,7.5,3.7,5
+NA,Boston University,Computer Science,308,155,153,96,0,2.8,23
+Boston University,NA,Computer Science,338,170,168,0,9.5,3.3,9
+NA,Boston University,Computer Engineering,309,158,151,0,5.5,2.2,14
+Boston University,NA,Computer Engineering,330,166,164,0,8.5,3.2,15
+NA,Boston University,Electrical Engineering,276,142,134,0,7.5,3.5,24
+Boston University,NA,Electrical Engineering,321,162,159,120,0,3.5,24
+NA,Boston University,Management Of Technology,277,142,135,87,0,1.9,18
+Boston University,NA,Management Of Technology,339,170,169,0,6.5,3.7,7
+NA,Boston University,Mechanical Engineering,302,153,149,96,0,2.8,5
+Boston University,NA,Mechanical Engineering,337,170,167,0,7.5,3.4,16
+NA,University of Utah,Computer Science,288,149,139,0,5.5,3,21
+University of Utah,NA,Computer Science,322,166,156,0,8.5,3.4,20
+NA,University of Utah,Computer Engineering,302,152,150,0,6.5,2.3,6
+University of Utah,NA,Computer Engineering,331,170,161,0,7.5,3.6,15
+NA,University of Utah,Electrical Engineering,302,156,146,0,5.5,2.7,15
+University of Utah,NA,Electrical Engineering,327,165,162,0,9.5,3.4,6
+NA,University of Utah,Management Of Technology,299,153,146,81,0,1.8,24
+University of Utah,NA,Management Of Technology,336,170,166,0,9.5,3.6,7
+NA,University of Utah,Mechanical Engineering,290,150,140,0,5.5,3,4
+University of Utah,NA,Mechanical Engineering,324,166,158,0,7.5,3.7,3
+NA,Northwestern University,Computer Science,274,140,134,92,0,2.5,19
+Northwestern University,NA,Computer Science,335,169,166,120,0,4,21
+NA,Northwestern University,Computer Engineering,274,138,136,93,0,3.2,6
+Northwestern University,NA,Computer Engineering,327,170,157,0,6.5,3.4,22
+NA,Northwestern University,Electrical Engineering,268,135,133,94,0,3,2
+Northwestern University,NA,Electrical Engineering,324,163,161,0,8.5,3.5,3
+NA,Northwestern University,Management Of Technology,282,142,140,0,5.5,2,12
+Northwestern University,NA,Management Of Technology,329,166,163,0,9.5,3.7,5
+NA,Northwestern University,Mechanical Engineering,275,142,133,85,0,1.6,18
+Northwestern University,NA,Mechanical Engineering,329,170,159,110,0,3.4,21
+NA,Georgia Institute of Technology,Computer Science,316,164,152,0,6.5,3.3,7
+Georgia Institute of Technology,NA,Computer Science,321,164,157,120,0,3.6,11
+NA,Georgia Institute of Technology,Computer Engineering,309,156,153,0,6.5,2.9,3
+Georgia Institute of Technology,NA,Computer Engineering,323,164,159,0,9.5,3.7,17
+NA,Georgia Institute of Technology,Electrical Engineering,283,144,139,0,6.5,3.4,3
+Georgia Institute of Technology,NA,Electrical Engineering,337,170,167,0,8.5,3.8,23
+NA,Georgia Institute of Technology,Management Of Technology,281,142,139,0,5.5,2.2,15
+Georgia Institute of Technology,NA,Management Of Technology,322,167,155,0,9.5,3.6,7
+NA,Georgia Institute of Technology,Mechanical Engineering,264,133,131,0,7.5,2.7,17
+Georgia Institute of Technology,NA,Mechanical Engineering,324,168,156,106,0,3.9,2
+NA,California Institute of Technology,Computer Science,304,154,150,0,5.5,2.8,14
+California Institute of Technology,NA,Computer Science,323,163,160,110,0,3.6,5
+NA,California Institute of Technology,Computer Engineering,273,141,132,0,6.5,2.2,6
+California Institute of Technology,NA,Computer Engineering,325,164,161,0,9.5,3.1,18
+NA,California Institute of Technology,Electrical Engineering,296,153,143,0,7.5,2,19
+California Institute of Technology,NA,Electrical Engineering,331,169,162,0,8.5,3.9,6
+NA,California Institute of Technology,Management Of Technology,290,150,140,0,5.5,3.4,11
+California Institute of Technology,NA,Management Of Technology,335,174,161,106,0,4,23
+NA,California Institute of Technology,Mechanical Engineering,264,134,130,99,0,2.6,16
+California Institute of Technology,NA,Mechanical Engineering,324,166,158,0,8.5,3.8,9
+NA,"University of California, Santa Barbara",Computer Science,307,157,150,99,0,2.6,19
+"University of California, Santa Barbara",NA,Computer Science,331,168,163,0,7.5,3.7,10
+NA,"University of California, Santa Barbara",Computer Engineering,312,160,152,0,7.5,2.3,5
+"University of California, Santa Barbara",NA,Computer Engineering,329,168,161,0,7.5,3.4,10
+NA,"University of California, Santa Barbara",Electrical Engineering,294,151,143,0,5.5,2.7,7
+"University of California, Santa Barbara",NA,Electrical Engineering,339,170,169,116,0,3.8,17
+NA,"University of California, Santa Barbara",Management Of Technology,314,158,156,0,6.5,2.4,1
+"University of California, Santa Barbara",NA,Management Of Technology,322,165,157,0,9.5,3.3,22
+NA,"University of California, Santa Barbara",Mechanical Engineering,299,156,143,99,0,1.7,4
+"University of California, Santa Barbara",NA,Mechanical Engineering,328,168,160,113,0,3.4,22
+NA,University of Pittsburgh,Computer Science,314,162,152,0,6.5,2.6,23
+University of Pittsburgh,NA,Computer Science,334,172,162,112,0,3.2,21
+NA,University of Pittsburgh,Computer Engineering,276,140,136,90,0,3.4,15
+University of Pittsburgh,NA,Computer Engineering,322,163,159,113,0,3.2,13
+NA,University of Pittsburgh,Electrical Engineering,268,139,129,84,0,2.2,8
+University of Pittsburgh,NA,Electrical Engineering,326,167,159,0,9.5,3.2,4
+NA,University of Pittsburgh,Management Of Technology,295,150,145,97,0,2.3,8
+University of Pittsburgh,NA,Management Of Technology,326,166,160,117,0,3.6,1
+NA,University of Pittsburgh,Mechanical Engineering,317,163,154,0,7.5,3,15
+University of Pittsburgh,NA,Mechanical Engineering,337,170,167,0,8.5,3.2,18
+NA,Colorado State University,Computer Science,293,150,143,99,0,2.7,10
+Colorado State University,NA,Computer Science,333,170,163,0,6.5,3.9,22
+NA,Colorado State University,Computer Engineering,311,159,152,0,7.5,3.5,20
+Colorado State University,NA,Computer Engineering,332,168,164,0,8.5,3.6,23
+NA,Colorado State University,Electrical Engineering,318,164,154,0,6.5,3.2,10
+Colorado State University,NA,Electrical Engineering,324,163,161,110,0,3.3,22
+NA,Colorado State University,Management Of Technology,273,140,133,83,0,1.9,19
+Colorado State University,NA,Management Of Technology,340,170,170,0,9.5,3.7,24
+NA,Colorado State University,Mechanical Engineering,289,146,143,99,0,2.4,7
+Colorado State University,NA,Mechanical Engineering,337,170,167,0,9.5,3.6,18
+NA,George Washington University,Computer Science,291,150,141,0,6.5,2.3,5
+George Washington University,NA,Computer Science,338,170,168,119,0,3.3,15
+NA,George Washington University,Computer Engineering,266,138,128,0,7.5,1.8,11
+George Washington University,NA,Computer Engineering,327,166,161,105,0,3.3,24
+NA,George Washington University,Electrical Engineering,281,142,139,84,0,2,23
+George Washington University,NA,Electrical Engineering,325,166,159,0,6.5,3.2,20
+NA,George Washington University,Management Of Technology,300,153,147,98,0,1.8,7
+George Washington University,NA,Management Of Technology,331,168,163,0,7.5,3.1,10
+NA,George Washington University,Mechanical Engineering,261,136,125,0,7.5,3.1,23
+George Washington University,NA,Mechanical Engineering,338,170,168,106,0,3.4,22
+NA,Florida State University,Computer Science,279,141,138,0,6.5,3.3,21
+Florida State University,NA,Computer Science,337,170,167,0,6.5,3.2,23
+NA,Florida State University,Computer Engineering,285,146,139,81,0,2,7
+Florida State University,NA,Computer Engineering,334,170,164,0,8.5,3.1,17
+NA,Florida State University,Electrical Engineering,317,161,156,0,6.5,3,20
+Florida State University,NA,Electrical Engineering,337,172,165,116,0,3.5,13
+NA,Florida State University,Management Of Technology,274,138,136,0,5.5,3.2,15
+Florida State University,NA,Management Of Technology,324,166,158,119,0,3.5,3
+NA,Florida State University,Mechanical Engineering,281,143,138,0,6.5,3.5,6
+Florida State University,NA,Mechanical Engineering,321,165,156,0,6.5,3.2,5
+NA,George Mason University,Computer Science,275,140,135,86,0,3.3,8
+George Mason University,NA,Computer Science,322,166,156,118,0,3.8,11
+NA,George Mason University,Computer Engineering,306,158,148,0,5.5,2.8,2
+George Mason University,NA,Computer Engineering,324,167,157,0,9.5,3.2,9
+NA,George Mason University,Electrical Engineering,311,157,154,102,0,3.3,7
+George Mason University,NA,Electrical Engineering,334,170,164,0,6.5,4,8
+NA,George Mason University,Management Of Technology,285,148,137,91,0,2.6,10
+George Mason University,NA,Management Of Technology,329,168,161,0,7.5,3.5,21
+NA,George Mason University,Mechanical Engineering,312,160,152,100,0,2.4,8
+George Mason University,NA,Mechanical Engineering,339,170,169,0,7.5,3.3,1
+NA,University of Notre Dame,Computer Science,309,158,151,94,0,2.2,6
+University of Notre Dame,NA,Computer Science,337,170,167,111,0,3.7,9
+NA,University of Notre Dame,Computer Engineering,303,153,150,84,0,3.3,21
+University of Notre Dame,NA,Computer Engineering,325,168,157,110,0,3.2,24
+NA,University of Notre Dame,Electrical Engineering,269,140,129,90,0,2.3,6
+University of Notre Dame,NA,Electrical Engineering,327,166,161,0,6.5,3.3,13
+NA,University of Notre Dame,Management Of Technology,283,144,139,93,0,2,16
+University of Notre Dame,NA,Management Of Technology,327,167,160,0,9.5,4,3
+NA,University of Notre Dame,Mechanical Engineering,316,162,154,101,0,2.7,11
+University of Notre Dame,NA,Mechanical Engineering,325,165,160,120,0,3.6,21
+NA,"University at Buffalo, State University of New York",Computer Science,312,161,151,0,7.5,1.8,24
+"University at Buffalo, State University of New York",NA,Computer Science,332,171,161,0,6.5,3.1,1
+NA,"University at Buffalo, State University of New York",Computer Engineering,266,138,128,0,6.5,2.1,22
+"University at Buffalo, State University of New York",NA,Computer Engineering,324,168,156,104,0,3.4,9
+NA,"University at Buffalo, State University of New York",Electrical Engineering,285,148,137,0,6.5,3.4,15
+"University at Buffalo, State University of New York",NA,Electrical Engineering,322,164,158,0,8.5,3.6,5
+NA,"University at Buffalo, State University of New York",Management Of Technology,296,153,143,100,0,3.4,1
+"University at Buffalo, State University of New York",NA,Management Of Technology,327,170,157,0,9.5,3.7,24
+NA,"University at Buffalo, State University of New York",Mechanical Engineering,313,163,150,91,0,2.1,17
+"University at Buffalo, State University of New York",NA,Mechanical Engineering,321,162,159,0,8.5,4,5
+NA,University of Illinois at Chicago,Computer Science,310,159,151,92,0,2.2,4
+University of Illinois at Chicago,NA,Computer Science,335,170,165,110,0,3.3,24
+NA,University of Illinois at Chicago,Computer Engineering,316,161,155,0,5.5,2.3,15
+University of Illinois at Chicago,NA,Computer Engineering,335,170,165,0,8.5,3.5,23
+NA,University of Illinois at Chicago,Electrical Engineering,265,135,130,0,7.5,2.4,6
+University of Illinois at Chicago,NA,Electrical Engineering,333,170,163,0,7.5,3.2,14
+NA,University of Illinois at Chicago,Management Of Technology,312,158,154,0,7.5,2.3,12
+University of Illinois at Chicago,NA,Management Of Technology,322,165,157,118,0,3.8,9
+NA,University of Illinois at Chicago,Mechanical Engineering,305,156,149,0,7.5,3.5,8
+University of Illinois at Chicago,NA,Mechanical Engineering,333,170,163,103,0,4,23
+NA,Rochester Institute of Technology,Computer Science,310,161,149,0,7.5,2.6,3
+Rochester Institute of Technology,NA,Computer Science,332,170,162,0,9.5,3.9,20
+NA,Rochester Institute of Technology,Computer Engineering,263,134,129,0,6.5,2.4,18
+Rochester Institute of Technology,NA,Computer Engineering,333,169,164,109,0,3.4,14
+NA,Rochester Institute of Technology,Electrical Engineering,279,146,133,96,0,2.8,13
+Rochester Institute of Technology,NA,Electrical Engineering,340,170,170,111,0,3.2,5
+NA,Rochester Institute of Technology,Management Of Technology,265,136,129,98,0,3.4,2
+Rochester Institute of Technology,NA,Management Of Technology,322,165,157,101,0,3.2,8
+NA,Rochester Institute of Technology,Mechanical Engineering,281,147,134,82,0,2.8,16
+Rochester Institute of Technology,NA,Mechanical Engineering,331,170,161,107,0,3.1,1
+NA,San Diego State University,Computer Science,298,152,146,0,7.5,2.9,12
+San Diego State University,NA,Computer Science,326,167,159,0,8.5,3.6,9
+NA,San Diego State University,Computer Engineering,277,144,133,102,0,3.3,15
+San Diego State University,NA,Computer Engineering,322,167,155,0,9.5,4,5
+NA,San Diego State University,Electrical Engineering,271,140,131,0,7.5,2.1,10
+San Diego State University,NA,Electrical Engineering,326,166,160,0,6.5,4,7
+NA,San Diego State University,Management Of Technology,319,163,156,82,0,2.1,9
+San Diego State University,NA,Management Of Technology,325,167,158,120,0,3.9,17
+NA,San Diego State University,Mechanical Engineering,271,142,129,0,6.5,2.9,10
+San Diego State University,NA,Mechanical Engineering,330,171,159,111,0,3.5,18
+NA,"California State University, Fullerton",Computer Science,271,142,129,98,0,2.2,21
+"California State University, Fullerton",NA,Computer Science,332,170,162,113,0,3.5,16
+NA,"California State University, Fullerton",Computer Engineering,306,157,149,0,5.5,2.8,15
+"California State University, Fullerton",NA,Computer Engineering,329,169,160,0,6.5,3.6,14
+NA,"California State University, Fullerton",Electrical Engineering,318,160,158,93,0,2.2,14
+"California State University, Fullerton",NA,Electrical Engineering,325,169,156,101,0,3.1,22
+NA,"California State University, Fullerton",Management Of Technology,283,147,136,85,0,3.3,11
+"California State University, Fullerton",NA,Management Of Technology,335,170,165,0,8.5,3.9,23
+NA,"California State University, Fullerton",Mechanical Engineering,299,154,145,97,0,3.2,17
+"California State University, Fullerton",NA,Mechanical Engineering,334,170,164,0,7.5,3.7,6
+NA,The University of Texas at Dallas,Computer Science,297,151,146,0,6.5,1.8,12
+The University of Texas at Dallas,NA,Computer Science,331,170,161,0,8.5,3.1,11
+NA,The University of Texas at Dallas,Computer Engineering,295,154,141,88,0,2.9,1
+The University of Texas at Dallas,NA,Computer Engineering,340,170,170,113,0,4,16
+NA,The University of Texas at Dallas,Electrical Engineering,309,159,150,98,0,1.8,9
+The University of Texas at Dallas,NA,Electrical Engineering,327,167,160,111,0,4,20
+NA,The University of Texas at Dallas,Management Of Technology,319,166,153,81,0,3.3,8
+The University of Texas at Dallas,NA,Management Of Technology,334,170,164,0,8.5,3.2,7
+NA,The University of Texas at Dallas,Mechanical Engineering,262,134,128,0,7.5,2.9,23
+The University of Texas at Dallas,NA,Mechanical Engineering,323,167,156,0,8.5,3.1,2
+NA,West Virginia University,Computer Science,298,154,144,99,0,3.5,17
+West Virginia University,NA,Computer Science,332,172,160,0,9.5,3.8,13
+NA,West Virginia University,Computer Engineering,281,143,138,0,7.5,2.9,7
+West Virginia University,NA,Computer Engineering,335,170,165,0,8.5,3.1,13
+NA,West Virginia University,Electrical Engineering,261,133,128,0,6.5,2.5,9
+West Virginia University,NA,Electrical Engineering,336,170,166,109,0,3.6,21
+NA,West Virginia University,Management Of Technology,319,162,157,99,0,1.8,7
+West Virginia University,NA,Management Of Technology,334,170,164,111,0,4,11
+NA,West Virginia University,Mechanical Engineering,285,149,136,0,5.5,2.9,23
+West Virginia University,NA,Mechanical Engineering,331,171,160,0,7.5,3.7,16
+NA,"University of Maryland, Baltimore County",Computer Science,278,142,136,102,0,3.5,24
+"University of Maryland, Baltimore County",NA,Computer Science,322,166,156,0,8.5,3.6,11
+NA,"University of Maryland, Baltimore County",Computer Engineering,289,151,138,0,6.5,3.1,11
+"University of Maryland, Baltimore County",NA,Computer Engineering,340,170,170,0,8.5,4,8
+NA,"University of Maryland, Baltimore County",Electrical Engineering,319,164,155,95,0,3.1,11
+"University of Maryland, Baltimore County",NA,Electrical Engineering,340,170,170,0,6.5,3.9,5
+NA,"University of Maryland, Baltimore County",Management Of Technology,265,135,130,99,0,3,21
+"University of Maryland, Baltimore County",NA,Management Of Technology,323,168,155,113,0,3.4,3
+NA,"University of Maryland, Baltimore County",Mechanical Engineering,285,148,137,87,0,3.2,13
+"University of Maryland, Baltimore County",NA,Mechanical Engineering,331,172,159,0,7.5,3.2,24
+NA,Indiana University - Purdue University Indianapolis,Computer Science,273,141,132,0,6.5,2.1,23
+Indiana University - Purdue University Indianapolis,NA,Computer Science,333,170,163,119,0,4,3
+NA,Indiana University - Purdue University Indianapolis,Computer Engineering,262,135,127,93,0,3,20
+Indiana University - Purdue University Indianapolis,NA,Computer Engineering,334,170,164,0,7.5,3.1,15
+NA,Indiana University - Purdue University Indianapolis,Electrical Engineering,270,137,133,84,0,3.1,10
+Indiana University - Purdue University Indianapolis,NA,Electrical Engineering,337,170,167,114,0,3.5,13
+NA,Indiana University - Purdue University Indianapolis,Management Of Technology,316,164,152,0,7.5,3.2,16
+Indiana University - Purdue University Indianapolis,NA,Management Of Technology,322,165,157,108,0,3.3,21
+NA,Indiana University - Purdue University Indianapolis,Mechanical Engineering,315,159,156,98,0,3.1,9
+Indiana University - Purdue University Indianapolis,NA,Mechanical Engineering,323,166,157,0,6.5,3.2,19
+NA,University of Arkansas,Computer Science,274,143,131,95,0,2.6,14
+University of Arkansas,NA,Computer Science,324,166,158,110,0,3.2,10
+NA,University of Arkansas,Computer Engineering,263,138,125,0,5.5,3,22
+University of Arkansas,NA,Computer Engineering,336,170,166,113,0,4,19
+NA,University of Arkansas,Electrical Engineering,266,134,132,0,5.5,3.1,10
+University of Arkansas,NA,Electrical Engineering,339,170,169,0,9.5,4,22
+NA,University of Arkansas,Management Of Technology,305,159,146,0,7.5,2.9,18
+University of Arkansas,NA,Management Of Technology,324,166,158,109,0,3.8,8
+NA,University of Arkansas,Mechanical Engineering,313,162,151,94,0,2.8,14
+University of Arkansas,NA,Mechanical Engineering,327,165,162,0,9.5,3.6,4
+NA,Stony Brook University,Computer Science,271,139,132,102,0,3.2,13
+Stony Brook University,NA,Computer Science,334,172,162,108,0,3.7,13
+NA,Stony Brook University,Computer Engineering,304,157,147,0,5.5,2.7,5
+Stony Brook University,NA,Computer Engineering,332,170,162,0,6.5,3.1,20
+NA,Stony Brook University,Electrical Engineering,261,132,129,98,0,1.7,8
+Stony Brook University,NA,Electrical Engineering,330,171,159,104,0,3.4,1
+NA,Stony Brook University,Management Of Technology,295,154,141,83,0,2.1,9
+Stony Brook University,NA,Management Of Technology,329,168,161,104,0,3.1,21
+NA,Stony Brook University,Mechanical Engineering,266,139,127,97,0,2.5,11
+Stony Brook University,NA,Mechanical Engineering,340,170,170,0,8.5,3.8,17
+NA,"California State University, Long Beach",Computer Science,293,149,144,0,5.5,3.1,1
+"California State University, Long Beach",NA,Computer Science,334,170,164,0,6.5,3.3,5
+NA,"California State University, Long Beach",Computer Engineering,303,153,150,90,0,2,6
+"California State University, Long Beach",NA,Computer Engineering,325,167,158,119,0,3.4,6
+NA,"California State University, Long Beach",Electrical Engineering,314,163,151,0,5.5,2.4,24
+"California State University, Long Beach",NA,Electrical Engineering,335,169,166,0,6.5,3.8,6
+NA,"California State University, Long Beach",Management Of Technology,281,147,134,92,0,3.3,3
+"California State University, Long Beach",NA,Management Of Technology,328,170,158,120,0,3.6,18
+NA,"California State University, Long Beach",Mechanical Engineering,267,137,130,0,5.5,2,14
+"California State University, Long Beach",NA,Mechanical Engineering,340,170,170,0,7.5,3.9,19
+NA,Northeastern University,Computer Science,316,160,156,0,7.5,1.7,14
+Northeastern University,NA,Computer Science,334,170,164,0,6.5,3.4,8
+NA,Northeastern University,Computer Engineering,278,144,134,84,0,2.7,4
+Northeastern University,NA,Computer Engineering,321,163,158,116,0,3.8,7
+NA,Northeastern University,Electrical Engineering,298,151,147,0,6.5,1.8,18
+Northeastern University,NA,Electrical Engineering,327,167,160,106,0,4,8
+NA,Northeastern University,Management Of Technology,310,159,151,0,7.5,2.9,17
+Northeastern University,NA,Management Of Technology,329,167,162,108,0,3.2,18
+NA,Northeastern University,Mechanical Engineering,284,146,138,90,0,2.7,14
+Northeastern University,NA,Mechanical Engineering,328,170,158,102,0,3.3,16
+NA,New Jersey Institute of Technology,Computer Science,268,139,129,90,0,3.1,20
+New Jersey Institute of Technology,NA,Computer Science,338,170,168,104,0,3.3,21
+NA,New Jersey Institute of Technology,Computer Engineering,320,166,154,0,6.5,2.7,17
+New Jersey Institute of Technology,NA,Computer Engineering,333,170,163,0,7.5,3.3,16
+NA,New Jersey Institute of Technology,Electrical Engineering,266,137,129,101,0,3,11
+New Jersey Institute of Technology,NA,Electrical Engineering,332,170,162,0,8.5,3.2,12
+NA,New Jersey Institute of Technology,Management Of Technology,320,166,154,0,7.5,1.8,23
+New Jersey Institute of Technology,NA,Management Of Technology,332,167,165,114,0,3.3,8
+NA,New Jersey Institute of Technology,Mechanical Engineering,319,162,157,81,0,2.3,9
+New Jersey Institute of Technology,NA,Mechanical Engineering,331,168,163,0,6.5,3.9,1
+NA,University of North Carolina at Charlotte,Computer Science,266,138,128,95,0,2.2,4
+University of North Carolina at Charlotte,NA,Computer Science,324,168,156,104,0,3.9,15
+NA,University of North Carolina at Charlotte,Computer Engineering,308,159,149,0,7.5,3.1,8
+University of North Carolina at Charlotte,NA,Computer Engineering,337,170,167,113,0,3.5,17
+NA,University of North Carolina at Charlotte,Electrical Engineering,291,148,143,0,6.5,1.9,8
+University of North Carolina at Charlotte,NA,Electrical Engineering,331,168,163,0,8.5,3.7,18
+NA,University of North Carolina at Charlotte,Management Of Technology,317,160,157,84,0,2.9,14
+University of North Carolina at Charlotte,NA,Management Of Technology,336,170,166,0,9.5,3.6,5
+NA,University of North Carolina at Charlotte,Mechanical Engineering,266,136,130,87,0,3.2,23
+University of North Carolina at Charlotte,NA,Mechanical Engineering,339,170,169,117,0,3.8,13

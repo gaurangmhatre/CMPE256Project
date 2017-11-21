@@ -1,0 +1,881 @@
+---
+title: "FDS_Project"
+author: "Durvesh Patil and Shivaraj Nesaragi (dsp372 and ssn314)"
+date: "December 10, 2016"
+output: html_document
+always_allow_html: yes
+---
+
+
+```{r}
+install.packages("devtools")
+library(devtools)
+install_github("filipstachura/Rook")
+
+install.packages("data.table", dependencies=TRUE)
+install.packages(Rook)
+install.packages(DT)
+
+library(Rook) //
+library(Rfacebook)
+library(stringr)
+library(base)
+library(data.table)
+library(ggplot2)
+library(magrittr)
+library(DT) //
+library(crayon)
+
+
+#Data Retrival
+
+#Data to Be Retrieved from Excel Sheets Downloaded from Facebook Groups
+
+Spring_Data_2016_FB_Excel_list=read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Spring_2016_FB_Excel_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+Fall_Data_2016_FB_Excel_list  =read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Fall_2016_FB_Excel_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+Spring_Data_2015_FB_Excel_list =read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Spring_2015_FB_Excel_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+Fall_Data_2015_FB_Excel_list  =read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Fall_2015_FB_Excel_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+
+
+#Fall
+#FALL 2015
+
+temp_2015_fall_excel=data.frame(Year=integer(),Term=character(),GRE=integer(),TOEFL=integer(),IELTS=numeric(),GPA=numeric(),University=character(),Department=character(),Admit=integer(),stringsAsFactors = FALSE)
+
+for (i in 1 : nrow(Fall_Data_2015_FB_Excel_list))
+{
+  Admit_University = as.character(Fall_Data_2015_FB_Excel_list[i,]$Admit) 
+  Reject_University= as.character(Fall_Data_2015_FB_Excel_list[i,]$Reject)
+  dept=as.character(Fall_Data_2015_FB_Excel_list[i,]$Department)
+  GRE=Fall_Data_2015_FB_Excel_list[i,]$GRE
+  TOEFL=Fall_Data_2015_FB_Excel_list[i,]$TOEFL
+  IELTS=Fall_Data_2015_FB_Excel_list[i,]$IELTS
+  GPA=Fall_Data_2015_FB_Excel_list[i,]$GPA
+  TERM="FALL"
+  YEAR="2015"
+  
+  if(is.na(Admit_University)) 
+  {
+    Admit=0
+    university=Reject_University
+  }
+  else
+  {
+    Admit=1
+    university=Admit_University
+  }
+  
+  temp_2015_fall_excel[nrow(temp_2015_fall_excel)+1,] <-c(YEAR,TERM,GRE,TOEFL,IELTS,GPA,university,dept,Admit)
+  
+}
+
+#FALL 2016
+temp_2016_fall_excel=data.frame(Year=integer(),Term=character(),GRE=integer(),TOEFL=integer(),IELTS=numeric(),GPA=numeric(),University=character(),Department=character(),Admit=integer(),stringsAsFactors = FALSE)
+
+for (i in 1 : nrow(Fall_Data_2016_FB_Excel_list))
+{
+  Admit_University = as.character(Fall_Data_2016_FB_Excel_list[i,]$Admit) 
+  Reject_University= as.character(Fall_Data_2016_FB_Excel_list[i,]$Reject)
+  dept=as.character(Fall_Data_2016_FB_Excel_list[i,]$Department)
+  GRE=Fall_Data_2016_FB_Excel_list[i,]$GRE
+  TOEFL=Fall_Data_2016_FB_Excel_list[i,]$TOEFL
+  IELTS=Fall_Data_2016_FB_Excel_list[i,]$IELTS
+  GPA=Fall_Data_2016_FB_Excel_list[i,]$GPA
+  TERM="FALL"
+  YEAR="2016"
+  
+  if(is.na(Admit_University)) 
+  {
+    Admit=0
+    university=Reject_University
+  }
+  else
+  {
+    Admit=1
+    university=Admit_University
+  }
+  
+  temp_2016_fall_excel[nrow(temp_2016_fall_excel)+1,] <-c(YEAR,TERM,GRE,TOEFL,IELTS,GPA,university,dept,Admit)
+  
+}
+
+
+
+##Spring
+
+#SPRING 2015
+temp_2015_spring_excel=data.frame(Year=integer(),Term=character(),GRE=integer(),TOEFL=integer(),IELTS=numeric(),GPA=numeric(),University=character(),Department=character(),Admit=integer(),stringsAsFactors = FALSE)
+
+for (i in 1 : nrow(Spring_Data_2015_FB_Excel_list))
+{
+  Admit_University = as.character(Spring_Data_2015_FB_Excel_list[i,]$Admit) 
+  Reject_University= as.character(Spring_Data_2015_FB_Excel_list[i,]$Reject)
+  dept=as.character(Spring_Data_2015_FB_Excel_list[i,]$Department)
+  GRE=Spring_Data_2015_FB_Excel_list[i,]$GRE
+  TOEFL=Spring_Data_2015_FB_Excel_list[i,]$TOEFL
+  IELTS=Spring_Data_2015_FB_Excel_list[i,]$IELTS
+  GPA=Spring_Data_2015_FB_Excel_list[i,]$GPA
+  TERM="SPRING"
+  YEAR="2015"
+  
+  if(is.na(Admit_University)) 
+  {
+    Admit=0
+    university=Reject_University
+  }
+  else
+  {
+    Admit=1
+    university=Admit_University
+  }
+  
+  temp_2015_spring_excel[nrow(temp_2015_spring_excel)+1,] <-c(YEAR,TERM,GRE,TOEFL,IELTS,GPA,university,dept,Admit)
+  
+}
+
+
+#SPRING 2016
+temp_2016_spring_excel=data.frame(Year=integer(),Term=character(),GRE=integer(),TOEFL=integer(),IELTS=numeric(),GPA=numeric(),University=character(),Department=character(),Admit=integer(),stringsAsFactors = FALSE)
+
+for (i in 1 : nrow(Spring_Data_2016_FB_Excel_list))
+{
+  Admit_University = as.character(Spring_Data_2016_FB_Excel_list[i,]$Admit) 
+  Reject_University= as.character(Spring_Data_2016_FB_Excel_list[i,]$Reject)
+  dept=as.character(Spring_Data_2016_FB_Excel_list[i,]$Department)
+  GRE=Spring_Data_2016_FB_Excel_list[i,]$GRE
+  TOEFL=Spring_Data_2016_FB_Excel_list[i,]$TOEFL
+  IELTS=Spring_Data_2016_FB_Excel_list[i,]$IELTS
+  GPA=Spring_Data_2016_FB_Excel_list[i,]$GPA
+  TERM="SPRING"
+  YEAR="2016"
+  
+  if(is.na(Admit_University)) 
+  {
+    Admit=0
+    university=Reject_University
+  }
+  else
+  {
+    Admit=1
+    university=Admit_University
+  }
+  
+  temp_2016_spring_excel[nrow(temp_2016_spring_excel)+1,] <-c(YEAR,TERM,GRE,TOEFL,IELTS,GPA,university,dept,Admit)
+  
+}
+
+#Data read from Facebook Post
+
+univ_list=read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Universities_list.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+dept_list=read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Department_list.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+
+univ_abbreviations_list=as.character(univ_list$Abbreviations) 
+univ_name_list=as.character(univ_list$Universities) 
+
+dept_abbreviations_list=as.character(dept_list$Abbreviations)
+dept_name_list=as.character(dept_list$Department)
+
+#Here the number of facebook posts cannot be fully loaded as there is a limit to how many 
+#facebook posts can be loaded at one time. 
+#So only a sample of data is downloaded below using the facebook api to demonstrate 
+#the data retrieval process. The data has already been downloaded and saved in excel sheets.
+
+
+
+#Authenticating The FB account used to setup the connection between R and Facebook API
+#fb_oauth <- fbOAuth(app_id="1392359674126690", app_secret="021f1ca9e4f2506d6475a23726d40101")
+#save(fb_oauth, file="C:/Durvesh/SEM 1/FDS/Project/fb_oauth")
+
+load("C:/Durvesh/SEM 1/FDS/Project/fb_oauth")
+#Getting details of group from which data is to be extracted
+my_group<-searchGroup('msinusfall16',token=fb_oauth)
+
+#msinusfall16 group_id: 465940110177397
+#msinusfall15 group_id: 414922995254033
+#msinusspring15 group_id: 546594598709302
+#msinusspring16 group_id: 1408188616088277
+
+fall_group_2016<-getGroup(my_group$id,fb_oauth,1000,since ="2016/01/05",until="2016/05/01")
+
+#Dataframe for Admitted Post
+
+admitDf <-data.frame(Year=integer(),Term=character(),GRE=integer(),TOEFL=integer(),IELTS=numeric(),GPA=numeric(),University=character(),Department=character(),Admit=integer(),stringsAsFactors = FALSE)
+
+for (i in 1:nrow(fall_group_2016))
+{
+  message=fall_group_2016$message[i]
+  message=iconv(message, "UTF-8", "ASCII", sub = "")
+  message=tolower(message)
+  
+  year="2016"
+  term="FALL"
+  
+  if(grepl("admit",message))
+  {
+    #Using regex to get data related to GRE,TOEFL,IELTS,GPA.
+    
+    gre<- regmatches(message, gregexpr('(?i:gre)\\D*\\K\\d+', message, perl = TRUE))
+    gpa <- regmatches(message, gregexpr('(?i:cgpa)\\D*\\K\\d{1}\\.\\d{0,2}', message, perl = TRUE))
+    toefl <- regmatches(message, gregexpr('(?i:toefl)\\D*\\K\\d+', message, perl = TRUE))
+    ielts <- regmatches(message, gregexpr('(?i:ielts)\\D*\\K\\d{1}\\.\\d{0,2}', message, perl = TRUE))
+    
+    flag=0
+    
+    if(!identical(gre[[1]],character(0)))
+    {flag=flag+1
+    }
+    
+    if(!identical(gpa[[1]],character(0)))
+    {flag=flag+1
+    }
+    
+    if(identical(toefl[[1]],character(0)))
+    {if(!identical(ielts[[1]],character(0)))
+    {flag=flag+1
+    toefl[[1]]=0 
+    }
+    }
+    
+    if(identical(ielts[[1]],character(0)))
+    {if(!identical(toefl[[1]],character(0)))
+    {flag=flag+1
+    ielts[[1]]=0 
+    }
+    }
+    
+    character_list <- unlist(regmatches(message, gregexpr('\\(?[a-z]+', message)))
+    
+    #Gathering data related to University and Department Name in the post
+    for (i in 1:length(character_list))
+    {
+      compare_string=character_list[i]
+      if(compare_string %in% univ_abbreviations_list)
+      {
+        university=as.charavter(univ_list$Universities[univ_list$Abbreviations==compare_string])
+      }else
+      {
+        if(character_list[i] %in% univ_name_list)
+        {
+          university=compare_string
+        }
+      }
+      
+      if(compare_string %in% dept_abbreviations_list)
+      {
+        dept=as.character(dept_list$Department[dept_list$Abbreviations==compare_string])
+      }else
+      {
+        if(compare_string %in% univ_name_list)
+        {
+          dept=compare_string
+        }
+      }
+      
+    }
+    
+    #If data contatins all necessary data for a proper profile, then it is inserted into the dataframe
+    if(flag>2)
+    {
+      admitDf[nrow(admitDf)+1,]<-c(year,term,as.integer(gre[[1]]),as.integer(toefl[[1]]),as.double(ielts[[1]]),as.double(gpa[[1]]),university,dept,1)
+    }
+  }
+  
+  if(grepl("reject",message))
+  {
+    #Using regex to get data related to GRE,TOEFL,IELTS,GPA.
+    
+    gre<- regmatches(message, gregexpr('(?i:gre)\\D*\\K\\d+', message, perl = TRUE))
+    gpa <- regmatches(message, gregexpr('(?i:cgpa)\\D*\\K\\d{1}\\.\\d{0,2}', message, perl = TRUE))
+    toefl <- regmatches(message, gregexpr('(?i:toefl)\\D*\\K\\d+', message, perl = TRUE))
+    ielts <- regmatches(message, gregexpr('(?i:ielts)\\D*\\K\\d{1}\\.\\d{0,2}', message, perl = TRUE))
+    
+    flag=0
+    
+    if(!identical(gre[[1]],character(0)))
+    {flag=flag+1
+    }
+    
+    if(!identical(gpa[[1]],character(0)))
+    {flag=flag+1
+    }
+    
+    if(identical(toefl[[1]],character(0)))
+    {if(!identical(ielts[[1]],character(0)))
+    {flag=flag+1
+    toefl[[1]]=0 
+    }
+    }
+    
+    if(identical(ielts[[1]],character(0)))
+    {if(!identical(toefl[[1]],character(0)))
+    {flag=flag+1
+    ielts[[1]]=0 
+    }
+    }
+    
+    character_list <- unlist(regmatches(message, gregexpr('\\(?[a-z]+', message)))
+    
+    #Gathering data related to University and Department Name in the post
+    for (i in 1:length(character_list))
+    {
+      compare_string=character_list[i]
+      if(compare_string %in% univ_abbreviations_list)
+      {
+        university=as.charavter(univ_list$Universities[univ_list$Abbreviations==compare_string])
+      }else
+      {
+        if(character_list[i] %in% univ_name_list)
+        {
+          university=compare_string
+        }
+      }
+      
+      if(compare_string %in% dept_abbreviations_list)
+      {
+        dept=as.character(dept_list$Department[dept_list$Abbreviations==compare_string])
+      }else
+      {
+        if(compare_string %in% univ_name_list)
+        {
+          dept=compare_string
+        }
+      }
+      
+    }
+    
+    #If data contatins all necessary data for a proper profile, then it is inserted into the dataframe
+    if(flag>2)
+    {
+      admitDf[nrow(admitDf)+1,]<-c(year,term,as.integer(gre[[1]]),as.integer(toefl[[1]]),as.double(ielts[[1]]),as.double(gpa[[1]]),university,dept,0)
+    }
+  }
+}
+
+#The data gathered from above dataframes was stored in excel sheets
+#Spring_2016_Data.csv
+#Fall_2016_Data.csv
+#Spring_2015_Data.csv
+#Fall_2015_Data.csv
+#This data is further loaded into our dataframes as shown below.
+
+
+#Data Analysis, Modelling , Evaluation and Result
+
+Spring_Data_2016_list=read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Spring_2016_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+Fall_Data_2016_list  =read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Fall_2016_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+Spring_Data_2015_list =read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Spring_2015_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+Fall_Data_2015_list  =read.csv("C:\\Users\\gaurangmhatre\\Downloads\\CMPE256\\CleanProject256\\Data\\Data\\Fall_2015_Data.csv",header=TRUE, skipNul=TRUE,blank.lines.skip = TRUE,sep=",")
+
+#SPRING DATA
+i <- sapply(Spring_Data_2016_list, is.factor)
+Spring_Data_2016_list[i] <- lapply(Spring_Data_2016_list[i], as.character)
+Spring_2016_DT <- data.table(Spring_Data_2016_list)
+
+
+i <- sapply(Spring_Data_2015_list, is.factor)
+Spring_Data_2015_list[i] <- lapply(Spring_Data_2015_list[i], as.character)
+Spring_2015_DT <- data.table(Spring_Data_2015_list)
+
+
+#FALL DATA
+i <- sapply(Fall_Data_2016_list, is.factor)
+Fall_Data_2016_list[i] <- lapply(Fall_Data_2016_list[i], as.character)
+Fall_2016_DT <- data.table(Fall_Data_2016_list)
+
+i <- sapply(Fall_Data_2015_list, is.factor)
+Fall_Data_2015_list[i] <- lapply(Fall_Data_2015_list[i], as.character)
+Fall_2015_DT <- data.table(Fall_Data_2015_list)
+
+
+
+#Dividing into testing and training data
+#Total Data -> 10000 Rows
+#Training Data-> 8000 Rows
+#Testing Data -> 2000 Rows
+
+#Training and testing data is divided such that for each university and each department,
+#4 rows are in the training set and 1 row in testing set. This occurs for each year and term.
+
+training_data<-data.frame(Year=integer(),Term=character(),GRE=integer(),TOEFL=integer(),IELTS=numeric(),GPA=numeric(),University=character(),Department=character(),Admit=integer(),stringsAsFactors = FALSE)
+testing_data<-data.frame(Year=integer(),Term=character(),GRE=integer(),TOEFL=integer(),IELTS=numeric(),GPA=numeric(),University=character(),Department=character(),Admit=integer(),stringsAsFactors = FALSE)
+
+for (i in 1:nrow(univ_list)) 
+{
+  university=univ_list[i,]$Universities
+  for (j in 1:nrow(dept_list)) 
+  { 
+    department=dept_list[j,]$Department
+    
+    spring_2015_new_dataframe=Spring_2015_DT[Spring_2015_DT$University==university & Spring_2015_DT$Department==department & Spring_2015_DT$Admit==1]
+    spring_2016_new_dataframe=Spring_2016_DT[Spring_2016_DT$University==university & Spring_2016_DT$Department==department & Spring_2016_DT$Admit==1]
+    fall_2015_new_dataframe  =Fall_2015_DT[Fall_2015_DT$University==university & Fall_2015_DT$Department==department & Fall_2015_DT$Admit==1]
+    fall_2016_new_dataframe  =Fall_2016_DT[Fall_2016_DT$University==university & Fall_2016_DT$Department==department & Fall_2016_DT$Admit==1]
+    for(k in 1:5)
+    {
+      
+      if(k<5)
+      {
+        training_data=rbind(training_data,spring_2015_new_dataframe[k])
+        training_data=rbind(training_data,spring_2016_new_dataframe[k])
+        training_data=rbind(training_data,fall_2015_new_dataframe[k])
+        training_data=rbind(training_data,fall_2016_new_dataframe[k])
+      }
+      else
+      {
+        testing_data=rbind(testing_data,spring_2015_new_dataframe[k])
+        testing_data=rbind(testing_data,spring_2016_new_dataframe[k])
+        testing_data=rbind(testing_data,fall_2015_new_dataframe[k])
+        testing_data=rbind(testing_data,fall_2016_new_dataframe[k])
+      }
+    }
+  } 
+}
+
+
+for (i in 1:nrow(univ_list)) 
+{
+  university=univ_list[i,]$Universities
+  for (j in 1:nrow(dept_list)) 
+  { 
+    department=dept_list[j,]$Department
+    
+    spring_2015_new_dataframe=Spring_2015_DT[Spring_2015_DT$University==university & Spring_2015_DT$Department==department & Spring_2015_DT$Admit==0]
+    spring_2016_new_dataframe=Spring_2016_DT[Spring_2016_DT$University==university & Spring_2016_DT$Department==department & Spring_2016_DT$Admit==0]
+    fall_2015_new_dataframe  =Fall_2015_DT[Fall_2015_DT$University==university & Fall_2015_DT$Department==department & Fall_2015_DT$Admit==0]
+    fall_2016_new_dataframe  =Fall_2016_DT[Fall_2016_DT$University==university & Fall_2016_DT$Department==department & Fall_2016_DT$Admit==0]
+    for(k in 1:5)
+    {
+      
+      if(k<5)
+      {
+        training_data=rbind(training_data,spring_2015_new_dataframe[k])
+        training_data=rbind(training_data,spring_2016_new_dataframe[k])
+        training_data=rbind(training_data,fall_2015_new_dataframe[k])
+        training_data=rbind(training_data,fall_2016_new_dataframe[k])
+      }
+      else
+      {
+        testing_data=rbind(testing_data,spring_2015_new_dataframe[k])
+        testing_data=rbind(testing_data,spring_2016_new_dataframe[k])
+        testing_data=rbind(testing_data,fall_2015_new_dataframe[k])
+        testing_data=rbind(testing_data,fall_2016_new_dataframe[k])
+      }
+    }
+  } 
+}
+
+training_2016_spring_dt=data.table(training_data[training_data$Year=="2016" & training_data$Term=="SPRING"] )
+training_2015_spring_dt=data.table(training_data[training_data$Year=="2015" & training_data$Term=="SPRING"] )
+training_2016_fall_dt=data.table(training_data[training_data$Year=="2016" & training_data$Term=="FALL"] )
+training_2015_fall_dt=data.table(training_data[training_data$Year=="2015" & training_data$Term=="FALL"] )
+
+
+
+#Below we are taking mean , max and min scores of each predictor. We use these values to
+#generate scores for each university for each department. This process again occurs for 
+#each year and term.
+
+
+#Spring 2016
+
+#GRE
+
+max_gre_Spring_2016_list=training_2016_spring_dt[, max(GRE), by = list(University,Department,Admit)]
+min_gre_Spring_2016_list=training_2016_spring_dt[, min(GRE), by = list(University,Department,Admit)]
+avg_gre_Spring_2016_list=training_2016_spring_dt[, mean(GRE), by =list(University,Department,Admit)]
+
+colnames(max_gre_Spring_2016_list)[4] <- "MAX_GRE"
+colnames(min_gre_Spring_2016_list)[4] <- "MIN_GRE"
+colnames(avg_gre_Spring_2016_list)[4] <- "AVG_GRE"
+
+#TOEFL
+max_TOEFL_Spring_2016_list=training_2016_spring_dt[TOEFL!=0, max(TOEFL), by = list(University,Department,Admit)]
+min_TOEFL_Spring_2016_list=training_2016_spring_dt[TOEFL!=0, min(TOEFL), by = list(University,Department,Admit)]
+avg_TOEFL_Spring_2016_list=training_2016_spring_dt[TOEFL!=0, mean(TOEFL), by = list(University,Department,Admit)]
+
+colnames(max_TOEFL_Spring_2016_list)[4] <- "MAX_TOEFL"
+colnames(min_TOEFL_Spring_2016_list)[4] <- "MIN_TOEFL"
+colnames(avg_TOEFL_Spring_2016_list)[4] <- "AVG_TOEFL"
+
+#IELTS
+max_IELTS_Spring_2016_list=training_2016_spring_dt[IELTS!=0, max(IELTS), by = list(University,Department,Admit)]
+min_IELTS_Spring_2016_list=training_2016_spring_dt[IELTS!=0, min(IELTS), by = list(University,Department,Admit)]
+avg_IELTS_Spring_2016_list=training_2016_spring_dt[IELTS!=0, mean(IELTS), by = list(University,Department,Admit)]
+
+colnames(max_IELTS_Spring_2016_list)[4] <- "MAX_IELTS"
+colnames(min_IELTS_Spring_2016_list)[4] <- "MIN_IELTS"
+colnames(avg_IELTS_Spring_2016_list)[4] <- "AVG_IELTS"
+
+
+#GPA
+max_GPA_Spring_2016_list=training_2016_spring_dt[, max(GPA), by = list(University,Department,Admit)]
+min_GPA_Spring_2016_list=training_2016_spring_dt[, min(GPA), by = list(University,Department,Admit)]
+avg_GPA_Spring_2016_list=training_2016_spring_dt[, mean(GPA), by = list(University,Department,Admit)]
+
+colnames(max_GPA_Spring_2016_list)[4] <- "MAX_GPA"
+colnames(min_GPA_Spring_2016_list)[4] <- "MIN_GPA"
+colnames(avg_GPA_Spring_2016_list)[4] <- "AVG_GPA"
+
+
+
+#SPRING 2015
+#GRE
+
+max_gre_Spring_2015_list=training_2015_spring_dt[, max(GRE), by = list(University,Department,Admit)]
+min_gre_Spring_2015_list=training_2015_spring_dt[, min(GRE), by = list(University,Department,Admit)]
+avg_gre_Spring_2015_list=training_2015_spring_dt[, mean(GRE), by =list(University,Department,Admit)]
+
+
+colnames(max_gre_Spring_2015_list)[4] <- "MAX_GRE"
+colnames(min_gre_Spring_2015_list)[4] <- "MIN_GRE"
+colnames(avg_gre_Spring_2015_list)[4] <- "AVG_GRE"
+
+#TOEFL
+max_TOEFL_Spring_2015_list=training_2015_spring_dt[TOEFL!=0, max(TOEFL), by = list(University,Department,Admit)]
+min_TOEFL_Spring_2015_list=training_2015_spring_dt[TOEFL!=0, min(TOEFL), by = list(University,Department,Admit)]
+avg_TOEFL_Spring_2015_list=training_2015_spring_dt[TOEFL!=0, mean(TOEFL), by = list(University,Department,Admit)]
+
+
+colnames(max_TOEFL_Spring_2015_list)[4] <- "MAX_TOEFL"
+colnames(min_TOEFL_Spring_2015_list)[4] <- "MIN_TOEFL"
+colnames(avg_TOEFL_Spring_2015_list)[4] <- "AVG_TOEFL"
+
+#IELTS
+max_IELTS_Spring_2015_list=training_2015_spring_dt[IELTS!=0, max(IELTS), by = list(University,Department,Admit)]
+min_IELTS_Spring_2015_list=training_2015_spring_dt[IELTS!=0, min(IELTS), by = list(University,Department,Admit)]
+avg_IELTS_Spring_2015_list=training_2015_spring_dt[IELTS!=0, mean(IELTS), by = list(University,Department,Admit)]
+
+colnames(max_IELTS_Spring_2015_list)[4] <- "MAX_IELTS"
+colnames(min_IELTS_Spring_2015_list)[4] <- "MIN_IELTS"
+colnames(avg_IELTS_Spring_2015_list)[4] <- "AVG_IELTS"
+
+#GPA
+max_GPA_Spring_2015_list=training_2015_spring_dt[, max(GPA), by = list(University,Department,Admit)]
+min_GPA_Spring_2015_list=training_2015_spring_dt[, min(GPA), by = list(University,Department,Admit)]
+avg_GPA_Spring_2015_list=training_2015_spring_dt[, mean(GPA), by = list(University,Department,Admit)]
+
+colnames(max_GPA_Spring_2015_list)[4] <- "MAX_GPA"
+colnames(min_GPA_Spring_2015_list)[4] <- "MIN_GPA"
+colnames(avg_GPA_Spring_2015_list)[4] <- "AVG_GPA"
+
+Data_Analysis_Spring_DF=cbind(max_gre_Spring_2015_list)
+Data_Analysis_Spring_DF$MAX_GRE=NULL
+for (i in 1:500)
+{
+  Data_Analysis_Spring_DF$MAX_GRE[i]=(max_gre_Spring_2015_list$MAX_GRE[i]+3*max_gre_Spring_2016_list$MAX_GRE[i])/4
+  Data_Analysis_Spring_DF$MIN_GRE[i]=(min_gre_Spring_2015_list$MIN_GRE[i]+3*min_gre_Spring_2016_list$MIN_GRE[i])/4
+  Data_Analysis_Spring_DF$AVG_GRE[i]=(avg_gre_Spring_2015_list$AVG_GRE[i]+3*avg_gre_Spring_2016_list$AVG_GRE[i])/4
+  
+  Data_Analysis_Spring_DF$MAX_TOEFL[i]=(max_TOEFL_Spring_2015_list$MAX_TOEFL[i]+3*max_TOEFL_Spring_2016_list$MAX_TOEFL[i])/4
+  Data_Analysis_Spring_DF$MIN_TOEFL[i]=(min_TOEFL_Spring_2015_list$MIN_TOEFL[i]+3*min_TOEFL_Spring_2016_list$MIN_TOEFL[i])/4
+  Data_Analysis_Spring_DF$AVG_TOEFL[i]=(avg_TOEFL_Spring_2015_list$AVG_TOEFL[i]+3*avg_TOEFL_Spring_2016_list$AVG_TOEFL[i])/4
+  
+  Data_Analysis_Spring_DF$MAX_IELTS[i]=(max_IELTS_Spring_2015_list$MAX_IELTS[i]+3*max_IELTS_Spring_2016_list$MAX_IELTS[i])/4
+  Data_Analysis_Spring_DF$MIN_IELTS[i]=(min_IELTS_Spring_2015_list$MIN_IELTS[i]+3*min_IELTS_Spring_2016_list$MIN_IELTS[i])/4
+  Data_Analysis_Spring_DF$AVG_IELTS[i]=(avg_IELTS_Spring_2015_list$AVG_IELTS[i]+3*avg_IELTS_Spring_2016_list$AVG_IELTS[i])/4
+  
+  Data_Analysis_Spring_DF$MAX_GPA[i]=(max_GPA_Spring_2015_list$MAX_GPA[i]+3*max_GPA_Spring_2016_list$MAX_GPA[i])/4
+  Data_Analysis_Spring_DF$MIN_GPA[i]=(min_GPA_Spring_2015_list$MIN_GPA[i]+3*min_GPA_Spring_2016_list$MIN_GPA[i])/4
+  Data_Analysis_Spring_DF$AVG_GPA[i]=(avg_GPA_Spring_2015_list$AVG_GPA[i]+3*avg_GPA_Spring_2016_list$AVG_GPA[i])/4
+  
+  Data_Analysis_Spring_DF$toefl_score[i]=50*(Data_Analysis_Spring_DF$AVG_GPA[i] + Data_Analysis_Spring_DF$MAX_GPA[i]+Data_Analysis_Spring_DF$MIN_GPA[i])/(4*3)+ 10*(Data_Analysis_Spring_DF$AVG_TOEFL[i]+Data_Analysis_Spring_DF$MAX_TOEFL[i] +Data_Analysis_Spring_DF$MIN_TOEFL[i])/(120*3) + 40*(Data_Analysis_Spring_DF$AVG_GRE[i]+Data_Analysis_Spring_DF$MAX_GRE[i] + Data_Analysis_Spring_DF$MIN_GRE[i])/(340*3)
+  Data_Analysis_Spring_DF$ielts_score[i]=50*(Data_Analysis_Spring_DF$AVG_GPA[i] + Data_Analysis_Spring_DF$MAX_GPA[i]+Data_Analysis_Spring_DF$MIN_GPA[i])/(4*3)+ 10*(Data_Analysis_Spring_DF$AVG_IELTS[i]+Data_Analysis_Spring_DF$MAX_IELTS[i] +Data_Analysis_Spring_DF$MIN_IELTS[i])/(120*3) + 40*(Data_Analysis_Spring_DF$AVG_GRE[i]+Data_Analysis_Spring_DF$MAX_GRE[i] + Data_Analysis_Spring_DF$MIN_GRE[i])/(340*3)
+}
+
+#FALL 2016
+
+#GRE
+
+max_gre_Fall_2016_list=training_2016_fall_dt[, max(GRE), by = list(University,Department,Admit)]
+min_gre_Fall_2016_list=training_2016_fall_dt[, min(GRE), by = list(University,Department,Admit)]
+avg_gre_Fall_2016_list=training_2016_fall_dt[, mean(GRE), by =list(University,Department,Admit)]
+
+colnames(max_gre_Fall_2016_list)[4] <- "MAX_GRE"
+colnames(min_gre_Fall_2016_list)[4] <- "MIN_GRE"
+colnames(avg_gre_Fall_2016_list)[4] <- "AVG_GRE"
+
+#TOEFL
+max_TOEFL_Fall_2016_list=training_2016_fall_dt[TOEFL!=0, max(TOEFL), by = list(University,Department,Admit)]
+min_TOEFL_Fall_2016_list=training_2016_fall_dt[TOEFL!=0, min(TOEFL), by = list(University,Department,Admit)]
+avg_TOEFL_Fall_2016_list=training_2016_fall_dt[TOEFL!=0, mean(TOEFL), by = list(University,Department,Admit)]
+
+colnames(max_TOEFL_Fall_2016_list)[4] <- "MAX_TOEFL"
+colnames(min_TOEFL_Fall_2016_list)[4] <- "MIN_TOEFL"
+colnames(avg_TOEFL_Fall_2016_list)[4] <- "AVG_TOEFL"
+
+#IELTS
+max_IELTS_Fall_2016_list=training_2016_fall_dt[IELTS!=0, max(IELTS), by = list(University,Department,Admit)]
+min_IELTS_Fall_2016_list=training_2016_fall_dt[IELTS!=0, min(IELTS), by = list(University,Department,Admit)]
+avg_IELTS_Fall_2016_list=training_2016_fall_dt[IELTS!=0, mean(IELTS), by = list(University,Department,Admit)]
+
+colnames(max_IELTS_Fall_2016_list)[4] <- "MAX_IELTS"
+colnames(min_IELTS_Fall_2016_list)[4] <- "MIN_IELTS"
+colnames(avg_IELTS_Fall_2016_list)[4] <- "AVG_IELTS"
+
+
+#GPA
+max_GPA_Fall_2016_list=training_2016_fall_dt[IELTS!=0, max(GPA), by = list(University,Department,Admit)]
+min_GPA_Fall_2016_list=training_2016_fall_dt[IELTS!=0, min(GPA), by = list(University,Department,Admit)]
+avg_GPA_Fall_2016_list=training_2016_fall_dt[IELTS!=0, mean(GPA), by = list(University,Department,Admit)]
+
+colnames(max_GPA_Fall_2016_list)[4] <- "MAX_GPA"
+colnames(min_GPA_Fall_2016_list)[4] <- "MIN_GPA"
+colnames(avg_GPA_Fall_2016_list)[4] <- "AVG_GPA"
+
+#FALL 2015
+#GRE
+
+max_gre_Fall_2015_list=training_2015_fall_dt[, max(GRE), by = list(University,Department,Admit)]
+min_gre_Fall_2015_list=training_2015_fall_dt[, min(GRE), by = list(University,Department,Admit)]
+avg_gre_Fall_2015_list=training_2015_fall_dt[, mean(GRE), by =list(University,Department,Admit)]
+
+
+colnames(max_gre_Fall_2015_list)[4] <- "MAX_GRE"
+colnames(min_gre_Fall_2015_list)[4] <- "MIN_GRE"
+colnames(avg_gre_Fall_2015_list)[4] <- "AVG_GRE"
+
+#TOEFL
+max_TOEFL_Fall_2015_list=training_2015_fall_dt[TOEFL!=0, max(TOEFL), by = list(University,Department,Admit)]
+min_TOEFL_Fall_2015_list=training_2015_fall_dt[TOEFL!=0, min(TOEFL), by = list(University,Department,Admit)]
+avg_TOEFL_Fall_2015_list=training_2015_fall_dt[TOEFL!=0, mean(TOEFL), by = list(University,Department,Admit)]
+
+
+colnames(max_TOEFL_Fall_2015_list)[4] <- "MAX_TOEFL"
+colnames(min_TOEFL_Fall_2015_list)[4] <- "MIN_TOEFL"
+colnames(avg_TOEFL_Fall_2015_list)[4] <- "AVG_TOEFL"
+
+#IELTS
+max_IELTS_Fall_2015_list=training_2015_fall_dt[IELTS!=0, max(IELTS), by = list(University,Department,Admit)]
+min_IELTS_Fall_2015_list=training_2015_fall_dt[IELTS!=0, min(IELTS), by = list(University,Department,Admit)]
+avg_IELTS_Fall_2015_list=training_2015_fall_dt[IELTS!=0, mean(IELTS), by = list(University,Department,Admit)]
+
+colnames(max_IELTS_Fall_2015_list)[4] <- "MAX_IELTS"
+colnames(min_IELTS_Fall_2015_list)[4] <- "MIN_IELTS"
+colnames(avg_IELTS_Fall_2015_list)[4] <- "AVG_IELTS"
+
+#GPA
+max_GPA_Fall_2015_list=training_2015_fall_dt[, max(GPA), by = list(University,Department,Admit)]
+min_GPA_Fall_2015_list=training_2015_fall_dt[, min(GPA), by = list(University,Department,Admit)]
+avg_GPA_Fall_2015_list=training_2015_fall_dt[, mean(GPA), by = list(University,Department,Admit)]
+
+colnames(max_GPA_Fall_2015_list)[4] <- "MAX_GPA"
+colnames(min_GPA_Fall_2015_list)[4] <- "MIN_GPA"
+colnames(avg_GPA_Fall_2015_list)[4] <- "AVG_GPA"
+
+Data_Analysis_Fall_DF=cbind(max_gre_Fall_2015_list)
+Data_Analysis_Fall_DF$MAX_GRE=NULL
+for (i in 1:500)
+{
+  Data_Analysis_Fall_DF$MAX_GRE[i]=(max_gre_Fall_2015_list$MAX_GRE[i]+3*max_gre_Fall_2016_list$MAX_GRE[i])/4
+  Data_Analysis_Fall_DF$MIN_GRE[i]=(min_gre_Fall_2015_list$MIN_GRE[i]+3*min_gre_Fall_2016_list$MIN_GRE[i])/4
+  Data_Analysis_Fall_DF$AVG_GRE[i]=(avg_gre_Fall_2015_list$AVG_GRE[i]+3*avg_gre_Fall_2016_list$AVG_GRE[i])/4
+  
+  Data_Analysis_Fall_DF$MAX_TOEFL[i]=(max_TOEFL_Fall_2015_list$MAX_TOEFL[i]+3*max_TOEFL_Fall_2016_list$MAX_TOEFL[i])/4
+  Data_Analysis_Fall_DF$MIN_TOEFL[i]=(min_TOEFL_Fall_2015_list$MIN_TOEFL[i]+3*min_TOEFL_Fall_2016_list$MIN_TOEFL[i])/4
+  Data_Analysis_Fall_DF$AVG_TOEFL[i]=(avg_TOEFL_Fall_2015_list$AVG_TOEFL[i]+3*avg_TOEFL_Fall_2016_list$AVG_TOEFL[i])/4
+  
+  Data_Analysis_Fall_DF$MAX_IELTS[i]=(max_IELTS_Fall_2015_list$MAX_IELTS[i]+3*max_IELTS_Fall_2016_list$MAX_IELTS[i])/4
+  Data_Analysis_Fall_DF$MIN_IELTS[i]=(min_IELTS_Fall_2015_list$MIN_IELTS[i]+3*min_IELTS_Fall_2016_list$MIN_IELTS[i])/4
+  Data_Analysis_Fall_DF$AVG_IELTS[i]=(avg_IELTS_Fall_2015_list$AVG_IELTS[i]+3*avg_IELTS_Fall_2016_list$AVG_IELTS[i])/4
+  
+  Data_Analysis_Fall_DF$MAX_GPA[i]=(max_GPA_Fall_2015_list$MAX_GPA[i]+3*max_GPA_Fall_2016_list$MAX_GPA[i])/4
+  Data_Analysis_Fall_DF$MIN_GPA[i]=(min_GPA_Fall_2015_list$MIN_GPA[i]+3*min_GPA_Fall_2016_list$MIN_GPA[i])/4
+  Data_Analysis_Fall_DF$AVG_GPA[i]=(avg_GPA_Fall_2015_list$AVG_GPA[i]+3*avg_GPA_Fall_2016_list$AVG_GPA[i])/4
+  
+  Data_Analysis_Fall_DF$toefl_score[i]=50*(Data_Analysis_Fall_DF$AVG_GPA[i] + Data_Analysis_Fall_DF$MAX_GPA[i]+Data_Analysis_Fall_DF$MIN_GPA[i])/(4*3)+ 10*(Data_Analysis_Fall_DF$AVG_TOEFL[i]+Data_Analysis_Fall_DF$MAX_TOEFL[i] +Data_Analysis_Fall_DF$MIN_TOEFL[i])/(120*3) + 40*(Data_Analysis_Fall_DF$AVG_GRE[i]+Data_Analysis_Fall_DF$MAX_GRE[i] + Data_Analysis_Fall_DF$MIN_GRE[i])/(340*3)
+  Data_Analysis_Fall_DF$ielts_score[i]=50*(Data_Analysis_Fall_DF$AVG_GPA[i] + Data_Analysis_Fall_DF$MAX_GPA[i]+Data_Analysis_Fall_DF$MIN_GPA[i])/(4*3)+ 10*(Data_Analysis_Fall_DF$AVG_IELTS[i]+Data_Analysis_Fall_DF$MAX_IELTS[i] +Data_Analysis_Fall_DF$MIN_IELTS[i])/(120*3) + 40*(Data_Analysis_Fall_DF$AVG_GRE[i]+Data_Analysis_Fall_DF$MAX_GRE[i] + Data_Analysis_Fall_DF$MIN_GRE[i])/(340*3)
+}
+
+
+#Till now we have calculated score for each university and for each department per term.
+#We will use this score to classify the universities as SAFE,MODERATE and AMBITIOUS.
+#The score has been classified on the basis of training data and does not contain any 
+#testing data as the testing data will be used to evaluate the model.
+
+
+#Why Seasonality
+plot(Data_Analysis_Fall_DF$AVG_GRE[Data_Analysis_Fall_DF$Admit==1] , type="l",xlab="Admit Samples",ylab = "GRE_score",sub="Black : Fall Data Green : Spring Data") 
+lines(Data_Analysis_Spring_DF$AVG_GRE[Data_Analysis_Spring_DF$Admit==1] , col="green")
+legend("topright",  c("Fall","Spring"),lty=c(1,1),lwd=c(2.5,2.5),col=c("black","green"))
+
+plot(Data_Analysis_Fall_DF$AVG_GPA[Data_Analysis_Fall_DF$Admit==1] , type="l",xlab="Admit Samples",ylab = "GPA_score") 
+lines(Data_Analysis_Spring_DF$AVG_GPA[Data_Analysis_Spring_DF$Admit==1] , col="green")
+legend("topright", inset=.05, title="Terms",
+       c("Fall","Spring"), fill=c("black","green"), horiz=TRUE)
+
+#From the above visualization we can see that the average scores for which admission is granted
+#is higher in FALL than in SPRING, hence the seasonality component comes into place.Due to 
+#which, while outputting results and while dividing into training and testing datasets, we 
+#consider which term the profile is being evaluated against.
+
+
+is.between <- function(x, a, b) {
+  (x - a)  *  (b - x) > 0
+}
+
+#The following function classifies universities into SAFE, MODERATE and AMBITIOUS universities.
+
+get_result_set <- function(GRE,TOEFL,IELTS,GPA,TERM,DEPT)
+{
+  if(TERM=="FALL")
+  {
+    temp_dept_list=Data_Analysis_Fall_DF[which(Data_Analysis_Fall_DF$Department == DEPT & Data_Analysis_Fall_DF$Admit==1),]
+  }
+  else
+  {
+    temp_dept_list=Data_Analysis_Spring_DF[which(Data_Analysis_Spring_DF$Department == DEPT & Data_Analysis_Spring_DF$Admit==1),]
+  }
+  
+  if(is.na(TOEFL))
+  {
+    profile_score=50*GPA/4 + 10*IELTS/10 + 40*GRE/340
+    
+    safe_univ=temp_dept_list[which(is.between(temp_dept_list$ielts_score,0,profile_score-6) ),]
+    moderate_univ=temp_dept_list[which(is.between(temp_dept_list$ielts_score,profile_score-4,profile_score+4) ),]
+    ambitious_univ=temp_dept_list[which(is.between(temp_dept_list$ielts_score,profile_score+6,100) ),]
+    
+    safe_univ=safe_univ[order(safe_univ$ielts_score, decreasing= T),]
+    moderate_univ=moderate_univ[order(moderate_univ$ielts_score, decreasing= T),]
+    ambitious_univ=ambitious_univ[order(ambitious_univ$ielts_score, decreasing= F),]
+  }
+  else
+  {
+    profile_score=50*GPA/4 + 10*TOEFL/120 + 40*GRE/340
+    
+    safe_univ=temp_dept_list[which(is.between(temp_dept_list$toefl_score,0,profile_score-6) ),]
+    moderate_univ=temp_dept_list[which(is.between(temp_dept_list$toefl_score,profile_score-4,profile_score+4) ),]
+    ambitious_univ=temp_dept_list[which(is.between(temp_dept_list$toefl_score,profile_score+6,100) ),]
+    
+    safe_univ=safe_univ[order(safe_univ$toefl_score, decreasing= T),]
+    moderate_univ=moderate_univ[order(moderate_univ$toefl_score, decreasing= T),]
+    ambitious_univ=ambitious_univ[order(ambitious_univ$toefl_score, decreasing= F),]
+  }
+  
+  safe_univ$type="SAFE"
+  moderate_univ$type="MODERATE"
+  ambitious_univ$type="AMBITIOUS"
+  
+  final_Univ_list<-rbind(safe_univ,moderate_univ,ambitious_univ)
+  return(final_Univ_list)
+}
+
+
+#The 
+
+
+evaluateModel <-function ()
+{
+  accuracyTable<-data.frame(Test_Case=integer(),Accuracy=double(),stringsAsFactors = FALSE)
+  
+  for (i in 1: nrow(testing_data))
+  {
+    GRE=testing_data[i,]$GRE
+    TOEFL=testing_data[i,]$TOEFL
+    IELTS=testing_data[i,]$IELTS
+    GPA=testing_data[i,]$GPA
+    TERM=testing_data[i,]$Term
+    DEPT=testing_data[i,]$Department
+    University=testing_data[i,]$University
+    Admit=testing_data[i,]$Admit
+    
+    if(TOEFL==0)
+    {
+      TOEFL=NA
+    }
+    else
+    {
+      IELTS=NA
+    }
+    
+    univ_list_result<-get_result_set(GRE=GRE,TOEFL=TOEFL,IELTS=IELTS,GPA=GPA,TERM=TERM,DEPT=DEPT)
+    
+    univ_list_result=univ_list_result[univ_list_result$type!="AMBITIOUS"]
+    
+    is_present=University %in% univ_list_result$University
+    
+    if(Admit==1)
+    {
+      if(is_present)
+      {
+        accuracy=100
+      }
+      else
+      {
+        accuracy=0
+      }
+    }
+    else
+    {
+      if(is_present)
+      {
+        accuracy=0
+      }
+      else
+      {
+        accuracy=100
+      }
+    }
+  
+    newRow<-data.frame(Test_Case=integer(),Accuracy=double(),stringsAsFactors = FALSE)
+    newRow<-c(nrow(accuracyTable)+1,accuracy)
+    accuracyTable<-rbind(accuracyTable,newRow)
+  }
+  return(accuracyTable)
+  
+}
+
+
+
+
+# Evaluting The Model
+accuracy_table=evaluateModel()
+colnames(accuracy_table)[1] <- "Test_Case"
+colnames(accuracy_table)[2] <- "Accuracy"
+accuracy_dt=as.data.table(accuracy_table)
+accuracy_dt[, mean(Accuracy)]
+
+#The accuracy is around 79%, which means the model is comparitively fair.
+
+
+#Displaying_Results
+#Departments :
+#Computer Science
+#Computer Engineering
+#Management Of Technology
+#Electrical Engineering
+#Mechanical Engineering
+
+univ_list_result<-get_result_set(GRE=322,TOEFL=105,IELTS=NA,GPA=2.7,TERM="FALL",DEPT="Computer Science")
+univ_list_result=univ_list_result[,c("University","type")]
+
+univ_list_result=as.data.table(univ_list_result[,c("University","type")])
+datatable(univ_list_result, rownames = FALSE) %>% formatStyle(columns = "type", background = styleEqual(c("SAFE","MODERATE","AMBITIOUS"), c("green", "orange","red")))
+
+
+univ_list_result<-get_result_set(GRE=315,TOEFL=119,IELTS=NA,GPA=3,TERM="FALL",DEPT="Management Of Technology")
+univ_list_result=univ_list_result[,c("University","type")]
+
+univ_list_result=as.data.table(univ_list_result[,c("University","type")])
+datatable(univ_list_result, rownames = FALSE) %>% formatStyle(columns = "type", background = styleEqual(c("SAFE","MODERATE","AMBITIOUS"), c("green", "orange","red")))
+
+
+univ_list_result<-get_result_set(GRE=287,TOEFL=92,IELTS=NA,GPA=2.5,TERM="FALL",DEPT="Electrical Engineering")
+univ_list_result=univ_list_result[,c("University","type")]
+
+univ_list_result=as.data.table(univ_list_result[,c("University","type")])
+datatable(univ_list_result, rownames = FALSE) %>% formatStyle(columns = "type", background = styleEqual(c("SAFE","MODERATE","AMBITIOUS"), c("green", "orange","red")))
+
+univ_list_result<-get_result_set(GRE=302,TOEFL=98,IELTS=NA,GPA=2.8,TERM="FALL",DEPT="Computer Engineering")
+univ_list_result=univ_list_result[,c("University","type")]
+
+univ_list_result=as.data.table(univ_list_result[,c("University","type")])
+datatable(univ_list_result, rownames = FALSE) %>% formatStyle(columns = "type", background = styleEqual(c("SAFE","MODERATE","AMBITIOUS"), c("green", "orange","red")))
+
+univ_list_result<-get_result_set(GRE=333,TOEFL=103,IELTS=NA,GPA=3.3,TERM="FALL",DEPT="Mechanical Engineering")
+univ_list_result=univ_list_result[,c("University","type")]
+
+univ_list_result=as.data.table(univ_list_result[,c("University","type")])
+datatable(univ_list_result, rownames = FALSE) %>% formatStyle(columns = "type", background = styleEqual(c("SAFE","MODERATE","AMBITIOUS"), c("green", "orange","red")))
+
+
+```
